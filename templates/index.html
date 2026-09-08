@@ -100,6 +100,77 @@
         .leaflet-tile {
             filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
         }
+
+　　        
+        @media screen and (max-width: 768px) {
+            h1 {
+                font-size: 1.5rem;
+                margin: 10px 0;
+            }
+            
+            /* タブボタンを均等に並べ、はみ出す場合は折り返す */
+            .tab-container {
+                flex-wrap: wrap;
+                margin-bottom: 10px;
+            }
+            .tab-btn {
+                flex: 1 1 30%; /* 画面幅に合わせてボタン幅を調整 */
+                margin-bottom: 5px;
+                padding: 8px 5px;
+                font-size: 0.9rem;
+                text-align: center;
+            }
+
+            /* テーブルが画面外にはみ出さないよう、横スクロールを許可 */
+            table {
+                display: block;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch; /* スマホで滑らかにスクロールさせる */
+                width: 100%;
+            }
+            th, td {
+                padding: 6px 8px;
+                font-size: 0.9rem;
+            }
+
+            /* スマホでの強震モニタのマップ高さを調整 */
+            #kyoshin-map-container {
+                height: 65vh; /* 画面の高さの65%に変更 */
+            }
+
+            /* マップ右上の情報パネルをスマホサイズに縮小 */
+            .monitor-info {
+                top: 5px;
+                right: 5px;
+                padding: 10px;
+                min-width: auto;
+                width: calc(100% - 30px); /* 画面幅に合わせて可変 */
+                max-width: 250px;
+            }
+            .monitor-info h3 {
+                font-size: 0.9rem;
+                margin-bottom: 5px;
+            }
+            #time {
+                font-size: 1.2rem;
+            }
+            .max-info {
+                margin-top: 10px;
+                padding-top: 10px;
+            }
+            .max-info-row {
+                font-size: 0.9rem;
+            }
+            #max-shindo {
+                font-size: 1.2rem;
+            }
+            #max-name {
+                max-height: 15vh; /* 地名リストの縦幅をさらに制限 */
+            }
+        }
+        /* ▲▲ ここまで追加 ▲▲ */
+    <
+        
     </style>
 </head>
 <body>
