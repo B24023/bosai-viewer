@@ -1,0 +1,10496 @@
+[
+  {
+    "id": "KiK-net_ABSH01",
+    "name": "北海道 雄武 (KiK-net)",
+    "lat": 44.5276,
+    "lng": 142.8444
+  },
+  {
+    "id": "KiK-net_ABSH02",
+    "name": "北海道 興部西 (KiK-net)",
+    "lat": 44.4234,
+    "lng": 143.0264
+  },
+  {
+    "id": "KiK-net_ABSH03",
+    "name": "北海道 興部東 (KiK-net)",
+    "lat": 44.3843,
+    "lng": 143.2407
+  },
+  {
+    "id": "KiK-net_ABSH04",
+    "name": "北海道 滝上北 (KiK-net)",
+    "lat": 44.192,
+    "lng": 143.0767
+  },
+  {
+    "id": "KiK-net_ABSH05",
+    "name": "北海道 滝上南 (KiK-net)",
+    "lat": 44.1146,
+    "lng": 143.0111
+  },
+  {
+    "id": "KiK-net_ABSH06",
+    "name": "北海道 湧別北 (KiK-net)",
+    "lat": 44.2146,
+    "lng": 143.6202
+  },
+  {
+    "id": "KiK-net_ABSH07",
+    "name": "北海道 白滝 (KiK-net)",
+    "lat": 43.8494,
+    "lng": 143.0861
+  },
+  {
+    "id": "KiK-net_ABSH08",
+    "name": "北海道 斜里北 (KiK-net)",
+    "lat": 44.064,
+    "lng": 144.9935
+  },
+  {
+    "id": "KiK-net_ABSH09",
+    "name": "北海道 斜里南 (KiK-net)",
+    "lat": 43.9269,
+    "lng": 144.8071
+  },
+  {
+    "id": "KiK-net_ABSH10",
+    "name": "北海道 佐呂間 (KiK-net)",
+    "lat": 44.0813,
+    "lng": 143.9455
+  },
+  {
+    "id": "KiK-net_ABSH11",
+    "name": "北海道 女満別 (KiK-net)",
+    "lat": 43.9144,
+    "lng": 144.1913
+  },
+  {
+    "id": "KiK-net_ABSH12",
+    "name": "北海道 小清水 (KiK-net)",
+    "lat": 43.8566,
+    "lng": 144.4574
+  },
+  {
+    "id": "KiK-net_ABSH13",
+    "name": "北海道 留辺蘂 (KiK-net)",
+    "lat": 43.7419,
+    "lng": 143.4514
+  },
+  {
+    "id": "KiK-net_ABSH14",
+    "name": "北海道 美幌 (KiK-net)",
+    "lat": 43.7228,
+    "lng": 144.1835
+  },
+  {
+    "id": "KiK-net_ABSH15",
+    "name": "北海道 置戸東 (KiK-net)",
+    "lat": 43.6352,
+    "lng": 143.51
+  },
+  {
+    "id": "K-NET_AIC001",
+    "name": "愛知県 尾西 (K-NET)",
+    "lat": 35.2974,
+    "lng": 136.7505
+  },
+  {
+    "id": "K-NET_AIC002",
+    "name": "愛知県 小牧 (K-NET)",
+    "lat": 35.2979,
+    "lng": 136.9154
+  },
+  {
+    "id": "K-NET_AIC003",
+    "name": "愛知県 津島 (K-NET)",
+    "lat": 35.1734,
+    "lng": 136.7402
+  },
+  {
+    "id": "K-NET_AIC004",
+    "name": "愛知県 名古屋 (K-NET)",
+    "lat": 35.0631,
+    "lng": 136.9738
+  },
+  {
+    "id": "K-NET_AIC005",
+    "name": "愛知県 藤岡 (K-NET)",
+    "lat": 35.1983,
+    "lng": 137.2061
+  },
+  {
+    "id": "K-NET_AIC006",
+    "name": "愛知県 稲武 (K-NET)",
+    "lat": 35.2158,
+    "lng": 137.5089
+  },
+  {
+    "id": "K-NET_AIC007",
+    "name": "愛知県 足助 (K-NET)",
+    "lat": 35.1394,
+    "lng": 137.3353
+  },
+  {
+    "id": "K-NET_AIC008",
+    "name": "愛知県 設楽 (K-NET)",
+    "lat": 35.1006,
+    "lng": 137.5757
+  },
+  {
+    "id": "K-NET_AIC009",
+    "name": "愛知県 豊田 (K-NET)",
+    "lat": 35.0813,
+    "lng": 137.1466
+  },
+  {
+    "id": "K-NET_AIC010",
+    "name": "愛知県 作手 (K-NET)",
+    "lat": 34.9803,
+    "lng": 137.4297
+  },
+  {
+    "id": "K-NET_AIC011",
+    "name": "愛知県 知多 (K-NET)",
+    "lat": 34.9966,
+    "lng": 136.8641
+  },
+  {
+    "id": "K-NET_AIC012",
+    "name": "愛知県 安城 (K-NET)",
+    "lat": 34.9119,
+    "lng": 137.0446
+  },
+  {
+    "id": "K-NET_AIC013",
+    "name": "愛知県 長篠 (K-NET)",
+    "lat": 34.9529,
+    "lng": 137.6067
+  },
+  {
+    "id": "K-NET_AIC014",
+    "name": "愛知県 蒲郡 (K-NET)",
+    "lat": 34.8285,
+    "lng": 137.2199
+  },
+  {
+    "id": "K-NET_AIC015",
+    "name": "愛知県 豊橋 (K-NET)",
+    "lat": 34.7552,
+    "lng": 137.404
+  },
+  {
+    "id": "K-NET_AIC016",
+    "name": "愛知県 美浜 (K-NET)",
+    "lat": 34.7784,
+    "lng": 136.9082
+  },
+  {
+    "id": "K-NET_AIC017",
+    "name": "愛知県 田原 (K-NET)",
+    "lat": 34.6697,
+    "lng": 137.2638
+  },
+  {
+    "id": "K-NET_AIC018",
+    "name": "愛知県 渥美 (K-NET)",
+    "lat": 34.622,
+    "lng": 137.1086
+  },
+  {
+    "id": "KiK-net_AICH04",
+    "name": "愛知県 安城 (KiK-net)",
+    "lat": 34.9319,
+    "lng": 137.0568
+  },
+  {
+    "id": "KiK-net_AICH05",
+    "name": "愛知県 常滑 (KiK-net)",
+    "lat": 34.8886,
+    "lng": 136.8763
+  },
+  {
+    "id": "KiK-net_AICH06",
+    "name": "愛知県 渥美 (KiK-net)",
+    "lat": 34.6158,
+    "lng": 137.0419
+  },
+  {
+    "id": "KiK-net_AICH07",
+    "name": "愛知県 旭 (KiK-net)",
+    "lat": 35.2194,
+    "lng": 137.4039
+  },
+  {
+    "id": "KiK-net_AICH08",
+    "name": "愛知県 額田 (KiK-net)",
+    "lat": 34.9189,
+    "lng": 137.2993
+  },
+  {
+    "id": "KiK-net_AICH09",
+    "name": "愛知県 豊橋 (KiK-net)",
+    "lat": 34.6643,
+    "lng": 137.3902
+  },
+  {
+    "id": "KiK-net_AICH10",
+    "name": "愛知県 鳳来 (KiK-net)",
+    "lat": 35.0002,
+    "lng": 137.6243
+  },
+  {
+    "id": "KiK-net_AICH11",
+    "name": "愛知県 春日井 (KiK-net)",
+    "lat": 35.3059,
+    "lng": 137.057
+  },
+  {
+    "id": "KiK-net_AICH12",
+    "name": "愛知県 幡豆 (KiK-net)",
+    "lat": 34.7884,
+    "lng": 137.1057
+  },
+  {
+    "id": "KiK-net_AICH13",
+    "name": "愛知県 清洲 (KiK-net)",
+    "lat": 35.2177,
+    "lng": 136.8509
+  },
+  {
+    "id": "KiK-net_AICH14",
+    "name": "愛知県 長久手 (KiK-net)",
+    "lat": 35.1842,
+    "lng": 137.0474
+  },
+  {
+    "id": "KiK-net_AICH15",
+    "name": "愛知県 足助 (KiK-net)",
+    "lat": 35.1392,
+    "lng": 137.3359
+  },
+  {
+    "id": "KiK-net_AICH16",
+    "name": "愛知県 設楽 (KiK-net)",
+    "lat": 35.1543,
+    "lng": 137.535
+  },
+  {
+    "id": "KiK-net_AICH17",
+    "name": "愛知県 豊根 (KiK-net)",
+    "lat": 35.184,
+    "lng": 137.7268
+  },
+  {
+    "id": "KiK-net_AICH18",
+    "name": "愛知県 岡崎 (KiK-net)",
+    "lat": 34.9635,
+    "lng": 137.2377
+  },
+  {
+    "id": "KiK-net_AICH19",
+    "name": "愛知県 作手 (KiK-net)",
+    "lat": 34.9512,
+    "lng": 137.4114
+  },
+  {
+    "id": "KiK-net_AICH20",
+    "name": "愛知県 新城 (KiK-net)",
+    "lat": 34.8976,
+    "lng": 137.4876
+  },
+  {
+    "id": "KiK-net_AICH21",
+    "name": "愛知県 南知多 (KiK-net)",
+    "lat": 34.7401,
+    "lng": 136.9385
+  },
+  {
+    "id": "KiK-net_AICH22",
+    "name": "愛知県 豊橋北 (KiK-net)",
+    "lat": 34.7853,
+    "lng": 137.4393
+  },
+  {
+    "id": "KiK-net_AICH23",
+    "name": "愛知県 常滑2 (KiK-net)",
+    "lat": 34.8806,
+    "lng": 136.8316
+  },
+  {
+    "id": "K-NET_AKT001",
+    "name": "秋田県 小坂 (K-NET)",
+    "lat": 40.328,
+    "lng": 140.7429
+  },
+  {
+    "id": "K-NET_AKT002",
+    "name": "秋田県 大館 (K-NET)",
+    "lat": 40.2676,
+    "lng": 140.5664
+  },
+  {
+    "id": "K-NET_AKT003",
+    "name": "秋田県 藤里 (K-NET)",
+    "lat": 40.2784,
+    "lng": 140.2631
+  },
+  {
+    "id": "K-NET_AKT004",
+    "name": "秋田県 八森 (K-NET)",
+    "lat": 40.3886,
+    "lng": 139.9822
+  },
+  {
+    "id": "K-NET_AKT005",
+    "name": "秋田県 能代 (K-NET)",
+    "lat": 40.202,
+    "lng": 140.0286
+  },
+  {
+    "id": "K-NET_AKT006",
+    "name": "秋田県 鹿角 (K-NET)",
+    "lat": 40.2153,
+    "lng": 140.7873
+  },
+  {
+    "id": "K-NET_AKT007",
+    "name": "秋田県 琴丘 (K-NET)",
+    "lat": 40.0376,
+    "lng": 140.0919
+  },
+  {
+    "id": "K-NET_AKT008",
+    "name": "秋田県 飯田川 (K-NET)",
+    "lat": 39.884,
+    "lng": 140.0706
+  },
+  {
+    "id": "K-NET_AKT009",
+    "name": "秋田県 男鹿 (K-NET)",
+    "lat": 39.8869,
+    "lng": 139.8467
+  },
+  {
+    "id": "K-NET_AKT010",
+    "name": "秋田県 秋田 (K-NET)",
+    "lat": 39.7223,
+    "lng": 140.0998
+  },
+  {
+    "id": "K-NET_AKT011",
+    "name": "秋田県 宮田 (K-NET)",
+    "lat": 39.8133,
+    "lng": 140.5805
+  },
+  {
+    "id": "K-NET_AKT012",
+    "name": "秋田県 田沢湖 (K-NET)",
+    "lat": 39.7014,
+    "lng": 140.7178
+  },
+  {
+    "id": "K-NET_AKT013",
+    "name": "秋田県 協和 (K-NET)",
+    "lat": 39.6071,
+    "lng": 140.3209
+  },
+  {
+    "id": "K-NET_AKT014",
+    "name": "秋田県 角館 (K-NET)",
+    "lat": 39.595,
+    "lng": 140.5573
+  },
+  {
+    "id": "K-NET_AKT015",
+    "name": "秋田県 本荘 (K-NET)",
+    "lat": 39.3844,
+    "lng": 140.0519
+  },
+  {
+    "id": "K-NET_AKT016",
+    "name": "秋田県 大曲 (K-NET)",
+    "lat": 39.4545,
+    "lng": 140.4758
+  },
+  {
+    "id": "K-NET_AKT017",
+    "name": "秋田県 横手 (K-NET)",
+    "lat": 39.2978,
+    "lng": 140.5621
+  },
+  {
+    "id": "K-NET_AKT018",
+    "name": "秋田県 鳥海 (K-NET)",
+    "lat": 39.1937,
+    "lng": 140.1899
+  },
+  {
+    "id": "K-NET_AKT019",
+    "name": "秋田県 雄勝 (K-NET)",
+    "lat": 39.039,
+    "lng": 140.449
+  },
+  {
+    "id": "K-NET_AKT020",
+    "name": "秋田県 象潟 (K-NET)",
+    "lat": 39.2027,
+    "lng": 139.9088
+  },
+  {
+    "id": "K-NET_AKT021",
+    "name": "秋田県 阿仁 (K-NET)",
+    "lat": 39.994,
+    "lng": 140.4035
+  },
+  {
+    "id": "K-NET_AKT022",
+    "name": "秋田県 玉川 (K-NET)",
+    "lat": 39.7739,
+    "lng": 140.6669
+  },
+  {
+    "id": "K-NET_AKT023",
+    "name": "秋田県 椿台 (K-NET)",
+    "lat": 39.1464,
+    "lng": 140.7161
+  },
+  {
+    "id": "KiK-net_AKTH01",
+    "name": "秋田県 西木北 (KiK-net)",
+    "lat": 39.8147,
+    "lng": 140.579
+  },
+  {
+    "id": "KiK-net_AKTH02",
+    "name": "秋田県 西木南 (KiK-net)",
+    "lat": 39.6634,
+    "lng": 140.5721
+  },
+  {
+    "id": "KiK-net_AKTH03",
+    "name": "秋田県 矢島 (KiK-net)",
+    "lat": 39.2223,
+    "lng": 140.1283
+  },
+  {
+    "id": "KiK-net_AKTH04",
+    "name": "秋田県 東成瀬 (KiK-net)",
+    "lat": 39.174,
+    "lng": 140.7129
+  },
+  {
+    "id": "KiK-net_AKTH05",
+    "name": "秋田県 鳥海 (KiK-net)",
+    "lat": 39.0718,
+    "lng": 140.3185
+  },
+  {
+    "id": "KiK-net_AKTH06",
+    "name": "秋田県 雄勝 (KiK-net)",
+    "lat": 38.9801,
+    "lng": 140.4952
+  },
+  {
+    "id": "KiK-net_AKTH07",
+    "name": "秋田県 小坂 (KiK-net)",
+    "lat": 40.4563,
+    "lng": 140.8395
+  },
+  {
+    "id": "KiK-net_AKTH08",
+    "name": "秋田県 藤里 (KiK-net)",
+    "lat": 40.3188,
+    "lng": 140.2341
+  },
+  {
+    "id": "KiK-net_AKTH09",
+    "name": "秋田県 田代 (KiK-net)",
+    "lat": 40.2755,
+    "lng": 140.4596
+  },
+  {
+    "id": "KiK-net_AKTH10",
+    "name": "秋田県 大館 (KiK-net)",
+    "lat": 40.3002,
+    "lng": 140.5812
+  },
+  {
+    "id": "KiK-net_AKTH11",
+    "name": "秋田県 男鹿 (KiK-net)",
+    "lat": 39.9554,
+    "lng": 139.7623
+  },
+  {
+    "id": "KiK-net_AKTH12",
+    "name": "秋田県 五城目 (KiK-net)",
+    "lat": 39.9155,
+    "lng": 140.2221
+  },
+  {
+    "id": "KiK-net_AKTH13",
+    "name": "秋田県 阿仁 (KiK-net)",
+    "lat": 39.9819,
+    "lng": 140.4072
+  },
+  {
+    "id": "KiK-net_AKTH14",
+    "name": "秋田県 鹿角 (KiK-net)",
+    "lat": 40.0622,
+    "lng": 140.8084
+  },
+  {
+    "id": "KiK-net_AKTH15",
+    "name": "秋田県 協和 (KiK-net)",
+    "lat": 39.6884,
+    "lng": 140.4075
+  },
+  {
+    "id": "KiK-net_AKTH16",
+    "name": "秋田県 西仙北 (KiK-net)",
+    "lat": 39.545,
+    "lng": 140.3481
+  },
+  {
+    "id": "KiK-net_AKTH17",
+    "name": "秋田県 中仙 (KiK-net)",
+    "lat": 39.5575,
+    "lng": 140.6116
+  },
+  {
+    "id": "KiK-net_AKTH18",
+    "name": "秋田県 大森 (KiK-net)",
+    "lat": 39.3548,
+    "lng": 140.3869
+  },
+  {
+    "id": "KiK-net_AKTH19",
+    "name": "秋田県 湯沢 (KiK-net)",
+    "lat": 39.1913,
+    "lng": 140.471
+  },
+  {
+    "id": "K-NET_AOM001",
+    "name": "青森県 大間 (K-NET)",
+    "lat": 41.5269,
+    "lng": 140.9246
+  },
+  {
+    "id": "K-NET_AOM002",
+    "name": "青森県 福浦 (K-NET)",
+    "lat": 41.328,
+    "lng": 140.8132
+  },
+  {
+    "id": "K-NET_AOM003",
+    "name": "青森県 大畑 (K-NET)",
+    "lat": 41.4054,
+    "lng": 141.1699
+  },
+  {
+    "id": "K-NET_AOM004",
+    "name": "青森県 尻屋 (K-NET)",
+    "lat": 41.4064,
+    "lng": 141.4477
+  },
+  {
+    "id": "K-NET_AOM005",
+    "name": "青森県 むつ (K-NET)",
+    "lat": 41.2949,
+    "lng": 141.1972
+  },
+  {
+    "id": "K-NET_AOM006",
+    "name": "青森県 川内 (K-NET)",
+    "lat": 41.1976,
+    "lng": 140.9979
+  },
+  {
+    "id": "K-NET_AOM007",
+    "name": "青森県 南通 (K-NET)",
+    "lat": 41.1689,
+    "lng": 141.3845
+  },
+  {
+    "id": "K-NET_AOM008",
+    "name": "青森県 横浜 (K-NET)",
+    "lat": 41.0844,
+    "lng": 141.2554
+  },
+  {
+    "id": "K-NET_AOM009",
+    "name": "青森県 六ヶ所 (K-NET)",
+    "lat": 40.9658,
+    "lng": 141.373
+  },
+  {
+    "id": "K-NET_AOM010",
+    "name": "青森県 野辺地 (K-NET)",
+    "lat": 40.8724,
+    "lng": 141.1427
+  },
+  {
+    "id": "K-NET_AOM011",
+    "name": "青森県 三沢 (K-NET)",
+    "lat": 40.6803,
+    "lng": 141.3669
+  },
+  {
+    "id": "K-NET_AOM012",
+    "name": "青森県 八戸 (K-NET)",
+    "lat": 40.5127,
+    "lng": 141.488
+  },
+  {
+    "id": "K-NET_AOM013",
+    "name": "青森県 南部 (K-NET)",
+    "lat": 40.4126,
+    "lng": 141.2813
+  },
+  {
+    "id": "K-NET_AOM014",
+    "name": "青森県 子ノ口 (K-NET)",
+    "lat": 40.4472,
+    "lng": 140.9403
+  },
+  {
+    "id": "K-NET_AOM015",
+    "name": "青森県 碇ヶ関 (K-NET)",
+    "lat": 40.4791,
+    "lng": 140.6268
+  },
+  {
+    "id": "K-NET_AOM016",
+    "name": "青森県 弘前 (K-NET)",
+    "lat": 40.6021,
+    "lng": 140.4982
+  },
+  {
+    "id": "K-NET_AOM017",
+    "name": "青森県 深浦 (K-NET)",
+    "lat": 40.6388,
+    "lng": 139.9295
+  },
+  {
+    "id": "K-NET_AOM018",
+    "name": "青森県 鯵ヶ沢 (K-NET)",
+    "lat": 40.7776,
+    "lng": 140.206
+  },
+  {
+    "id": "K-NET_AOM019",
+    "name": "青森県 五所川原 (K-NET)",
+    "lat": 40.8152,
+    "lng": 140.447
+  },
+  {
+    "id": "K-NET_AOM020",
+    "name": "青森県 青森 (K-NET)",
+    "lat": 40.8194,
+    "lng": 140.7498
+  },
+  {
+    "id": "K-NET_AOM021",
+    "name": "青森県 十和田 (K-NET)",
+    "lat": 40.615,
+    "lng": 141.2083
+  },
+  {
+    "id": "K-NET_AOM022",
+    "name": "青森県 東田沢 (K-NET)",
+    "lat": 40.9923,
+    "lng": 140.9161
+  },
+  {
+    "id": "K-NET_AOM023",
+    "name": "青森県 中里 (K-NET)",
+    "lat": 40.9664,
+    "lng": 140.4317
+  },
+  {
+    "id": "K-NET_AOM024",
+    "name": "青森県 蟹田 (K-NET)",
+    "lat": 41.0473,
+    "lng": 140.6399
+  },
+  {
+    "id": "K-NET_AOM025",
+    "name": "青森県 今別 (K-NET)",
+    "lat": 41.1797,
+    "lng": 140.4805
+  },
+  {
+    "id": "K-NET_AOM026",
+    "name": "青森県 小泊 (K-NET)",
+    "lat": 41.128,
+    "lng": 140.3107
+  },
+  {
+    "id": "K-NET_AOM027",
+    "name": "青森県 脇野沢 (K-NET)",
+    "lat": 41.1457,
+    "lng": 140.8219
+  },
+  {
+    "id": "K-NET_AOM028",
+    "name": "青森県 八甲田 (K-NET)",
+    "lat": 40.7004,
+    "lng": 140.919
+  },
+  {
+    "id": "K-NET_AOM029",
+    "name": "青森県 西目屋 (K-NET)",
+    "lat": 40.5764,
+    "lng": 140.2968
+  },
+  {
+    "id": "KiK-net_AOMH01",
+    "name": "青森県 大間 (KiK-net)",
+    "lat": 41.5273,
+    "lng": 140.9127
+  },
+  {
+    "id": "KiK-net_AOMH02",
+    "name": "青森県 佐井 (KiK-net)",
+    "lat": 41.4049,
+    "lng": 140.8567
+  },
+  {
+    "id": "KiK-net_AOMH03",
+    "name": "青森県 川内 (KiK-net)",
+    "lat": 41.234,
+    "lng": 140.9896
+  },
+  {
+    "id": "KiK-net_AOMH04",
+    "name": "青森県 青森 (KiK-net)",
+    "lat": 40.8524,
+    "lng": 140.6759
+  },
+  {
+    "id": "KiK-net_AOMH05",
+    "name": "青森県 野辺地 (KiK-net)",
+    "lat": 40.8564,
+    "lng": 141.1033
+  },
+  {
+    "id": "KiK-net_AOMH06",
+    "name": "青森県 六ヶ所 (KiK-net)",
+    "lat": 40.9664,
+    "lng": 141.3738
+  },
+  {
+    "id": "KiK-net_AOMH07",
+    "name": "青森県 深浦 (KiK-net)",
+    "lat": 40.7451,
+    "lng": 140.0233
+  },
+  {
+    "id": "KiK-net_AOMH08",
+    "name": "青森県 鰺ヶ沢 (KiK-net)",
+    "lat": 40.7618,
+    "lng": 140.3121
+  },
+  {
+    "id": "KiK-net_AOMH09",
+    "name": "青森県 岩木 (KiK-net)",
+    "lat": 40.6199,
+    "lng": 140.3499
+  },
+  {
+    "id": "KiK-net_AOMH10",
+    "name": "青森県 黒石 (KiK-net)",
+    "lat": 40.6091,
+    "lng": 140.6646
+  },
+  {
+    "id": "KiK-net_AOMH11",
+    "name": "青森県 十和田湖西 (KiK-net)",
+    "lat": 40.58,
+    "lng": 140.995
+  },
+  {
+    "id": "KiK-net_AOMH12",
+    "name": "青森県 十和田湖東 (KiK-net)",
+    "lat": 40.5846,
+    "lng": 141.1547
+  },
+  {
+    "id": "KiK-net_AOMH13",
+    "name": "青森県 八戸 (KiK-net)",
+    "lat": 40.5794,
+    "lng": 141.4451
+  },
+  {
+    "id": "KiK-net_AOMH14",
+    "name": "青森県 西目屋 (KiK-net)",
+    "lat": 40.5488,
+    "lng": 140.2726
+  },
+  {
+    "id": "KiK-net_AOMH15",
+    "name": "青森県 大鰐 (KiK-net)",
+    "lat": 40.4841,
+    "lng": 140.5565
+  },
+  {
+    "id": "KiK-net_AOMH16",
+    "name": "青森県 新郷 (KiK-net)",
+    "lat": 40.4624,
+    "lng": 141.0923
+  },
+  {
+    "id": "KiK-net_AOMH17",
+    "name": "青森県 名川 (KiK-net)",
+    "lat": 40.4492,
+    "lng": 141.3374
+  },
+  {
+    "id": "KiK-net_AOMH18",
+    "name": "青森県 田子 (KiK-net)",
+    "lat": 40.2962,
+    "lng": 141.0145
+  },
+  {
+    "id": "K-NET_CHB001",
+    "name": "千葉県 野田 (K-NET)",
+    "lat": 35.9571,
+    "lng": 139.8731
+  },
+  {
+    "id": "K-NET_CHB002",
+    "name": "千葉県 松戸 (K-NET)",
+    "lat": 35.7871,
+    "lng": 139.9024
+  },
+  {
+    "id": "K-NET_CHB003",
+    "name": "千葉県 白井 (K-NET)",
+    "lat": 35.7926,
+    "lng": 140.0577
+  },
+  {
+    "id": "K-NET_CHB004",
+    "name": "千葉県 佐原 (K-NET)",
+    "lat": 35.8889,
+    "lng": 140.4903
+  },
+  {
+    "id": "K-NET_CHB005",
+    "name": "千葉県 銚子 (K-NET)",
+    "lat": 35.7353,
+    "lng": 140.8271
+  },
+  {
+    "id": "K-NET_CHB006",
+    "name": "千葉県 成田 (K-NET)",
+    "lat": 35.779,
+    "lng": 140.3073
+  },
+  {
+    "id": "K-NET_CHB007",
+    "name": "千葉県 佐倉 (K-NET)",
+    "lat": 35.7237,
+    "lng": 140.2246
+  },
+  {
+    "id": "K-NET_CHB008",
+    "name": "千葉県 浦安 (K-NET)",
+    "lat": 35.6556,
+    "lng": 139.9027
+  },
+  {
+    "id": "K-NET_CHB009",
+    "name": "千葉県 千葉 (K-NET)",
+    "lat": 35.5871,
+    "lng": 140.2378
+  },
+  {
+    "id": "K-NET_CHB010",
+    "name": "千葉県 八日市場 (K-NET)",
+    "lat": 35.7086,
+    "lng": 140.5637
+  },
+  {
+    "id": "K-NET_CHB011",
+    "name": "千葉県 蓮沼 (K-NET)",
+    "lat": 35.5877,
+    "lng": 140.4971
+  },
+  {
+    "id": "K-NET_CHB012",
+    "name": "千葉県 東金 (K-NET)",
+    "lat": 35.5721,
+    "lng": 140.3436
+  },
+  {
+    "id": "K-NET_CHB013",
+    "name": "千葉県 茂原 (K-NET)",
+    "lat": 35.4294,
+    "lng": 140.2892
+  },
+  {
+    "id": "K-NET_CHB014",
+    "name": "千葉県 姉崎 (K-NET)",
+    "lat": 35.471,
+    "lng": 140.0454
+  },
+  {
+    "id": "K-NET_CHB015",
+    "name": "千葉県 木更津 (K-NET)",
+    "lat": 35.3738,
+    "lng": 139.9199
+  },
+  {
+    "id": "K-NET_CHB016",
+    "name": "千葉県 岬 (K-NET)",
+    "lat": 35.2998,
+    "lng": 140.3866
+  },
+  {
+    "id": "K-NET_CHB017",
+    "name": "千葉県 市場 (K-NET)",
+    "lat": 35.2976,
+    "lng": 140.0734
+  },
+  {
+    "id": "K-NET_CHB018",
+    "name": "千葉県 勝浦 (K-NET)",
+    "lat": 35.152,
+    "lng": 140.3204
+  },
+  {
+    "id": "K-NET_CHB019",
+    "name": "千葉県 鋸南 (K-NET)",
+    "lat": 35.1106,
+    "lng": 139.836
+  },
+  {
+    "id": "K-NET_CHB020",
+    "name": "千葉県 鴨川 (K-NET)",
+    "lat": 35.1132,
+    "lng": 140.1006
+  },
+  {
+    "id": "K-NET_CHB021",
+    "name": "千葉県 白浜 (K-NET)",
+    "lat": 34.9078,
+    "lng": 139.8994
+  },
+  {
+    "id": "K-NET_CHB022",
+    "name": "千葉県 富津 (K-NET)",
+    "lat": 35.3033,
+    "lng": 139.8555
+  },
+  {
+    "id": "K-NET_CHB023",
+    "name": "千葉県 館山 (K-NET)",
+    "lat": 34.9741,
+    "lng": 139.8449
+  },
+  {
+    "id": "K-NET_CHB024",
+    "name": "千葉県 稲毛 (K-NET)",
+    "lat": 35.6337,
+    "lng": 140.0781
+  },
+  {
+    "id": "K-NET_CHB025",
+    "name": "千葉県 千倉 (K-NET)",
+    "lat": 34.9705,
+    "lng": 139.9458
+  },
+  {
+    "id": "K-NET_CHB026",
+    "name": "千葉県 長南 (K-NET)",
+    "lat": 35.3858,
+    "lng": 140.2404
+  },
+  {
+    "id": "K-NET_CHB027",
+    "name": "千葉県 勝浦北 (K-NET)",
+    "lat": 35.1806,
+    "lng": 140.2655
+  },
+  {
+    "id": "K-NET_CHB028",
+    "name": "千葉県 市川北 (K-NET)",
+    "lat": 35.7664,
+    "lng": 139.9655
+  },
+  {
+    "id": "K-NET_CHB029",
+    "name": "千葉県 行徳 (K-NET)",
+    "lat": 35.6948,
+    "lng": 139.9176
+  },
+  {
+    "id": "K-NET_CHB030",
+    "name": "千葉県 木更津市役所 (K-NET)",
+    "lat": 35.3766,
+    "lng": 139.9151
+  },
+  {
+    "id": "KiK-net_CHBH04",
+    "name": "千葉県 下総 (KiK-net)",
+    "lat": 35.7966,
+    "lng": 140.0206
+  },
+  {
+    "id": "KiK-net_CHBH06",
+    "name": "千葉県 匝瑳 (KiK-net)",
+    "lat": 35.7215,
+    "lng": 140.5046
+  },
+  {
+    "id": "KiK-net_CHBH10",
+    "name": "千葉県 千葉 (KiK-net)",
+    "lat": 35.5458,
+    "lng": 140.2417
+  },
+  {
+    "id": "KiK-net_CHBH11",
+    "name": "千葉県 養老 (KiK-net)",
+    "lat": 35.2867,
+    "lng": 140.1529
+  },
+  {
+    "id": "KiK-net_CHBH12",
+    "name": "千葉県 富津 (KiK-net)",
+    "lat": 35.3445,
+    "lng": 139.8554
+  },
+  {
+    "id": "KiK-net_CHBH13",
+    "name": "千葉県 成田 (KiK-net)",
+    "lat": 35.8307,
+    "lng": 140.298
+  },
+  {
+    "id": "KiK-net_CHBH14",
+    "name": "千葉県 銚子中 (KiK-net)",
+    "lat": 35.7342,
+    "lng": 140.823
+  },
+  {
+    "id": "KiK-net_CHBH15",
+    "name": "千葉県 館山西 (KiK-net)",
+    "lat": 34.9591,
+    "lng": 139.7885
+  },
+  {
+    "id": "KiK-net_CHBH16",
+    "name": "千葉県 鴨川 (KiK-net)",
+    "lat": 35.1384,
+    "lng": 139.9649
+  },
+  {
+    "id": "KiK-net_CHBH17",
+    "name": "千葉県 勝浦東 (KiK-net)",
+    "lat": 35.1714,
+    "lng": 140.3398
+  },
+  {
+    "id": "KiK-net_CHBH19",
+    "name": "千葉県 蓮沼 (KiK-net)",
+    "lat": 35.5943,
+    "lng": 140.5107
+  },
+  {
+    "id": "KiK-net_CHBH20",
+    "name": "千葉県 鴨川南 (KiK-net)",
+    "lat": 35.0882,
+    "lng": 140.0997
+  },
+  {
+    "id": "K-NET_EHM001",
+    "name": "愛媛県 伊予三島 (K-NET)",
+    "lat": 33.9788,
+    "lng": 133.5494
+  },
+  {
+    "id": "K-NET_EHM002",
+    "name": "愛媛県 新居浜 (K-NET)",
+    "lat": 33.9211,
+    "lng": 133.3079
+  },
+  {
+    "id": "K-NET_EHM003",
+    "name": "愛媛県 東予 (K-NET)",
+    "lat": 33.9253,
+    "lng": 133.0844
+  },
+  {
+    "id": "K-NET_EHM004",
+    "name": "愛媛県 今治 (K-NET)",
+    "lat": 34.0627,
+    "lng": 132.9986
+  },
+  {
+    "id": "K-NET_EHM005",
+    "name": "愛媛県 川内 (K-NET)",
+    "lat": 33.7973,
+    "lng": 132.9144
+  },
+  {
+    "id": "K-NET_EHM006",
+    "name": "愛媛県 美川 (K-NET)",
+    "lat": 33.6412,
+    "lng": 133.008
+  },
+  {
+    "id": "K-NET_EHM007",
+    "name": "愛媛県 北条 (K-NET)",
+    "lat": 33.9616,
+    "lng": 132.7719
+  },
+  {
+    "id": "K-NET_EHM008",
+    "name": "愛媛県 松山 (K-NET)",
+    "lat": 33.8199,
+    "lng": 132.7282
+  },
+  {
+    "id": "K-NET_EHM009",
+    "name": "愛媛県 広田 (K-NET)",
+    "lat": 33.6333,
+    "lng": 132.7965
+  },
+  {
+    "id": "K-NET_EHM010",
+    "name": "愛媛県 肱川 (K-NET)",
+    "lat": 33.4511,
+    "lng": 132.6881
+  },
+  {
+    "id": "K-NET_EHM011",
+    "name": "愛媛県 八幡浜 (K-NET)",
+    "lat": 33.4498,
+    "lng": 132.4341
+  },
+  {
+    "id": "K-NET_EHM012",
+    "name": "愛媛県 宇和島 (K-NET)",
+    "lat": 33.2217,
+    "lng": 132.5724
+  },
+  {
+    "id": "K-NET_EHM013",
+    "name": "愛媛県 三崎 (K-NET)",
+    "lat": 33.3917,
+    "lng": 132.114
+  },
+  {
+    "id": "K-NET_EHM014",
+    "name": "愛媛県 西海 (K-NET)",
+    "lat": 32.9451,
+    "lng": 132.5042
+  },
+  {
+    "id": "K-NET_EHM015",
+    "name": "愛媛県 長浜 (K-NET)",
+    "lat": 33.6094,
+    "lng": 132.4768
+  },
+  {
+    "id": "K-NET_EHM016",
+    "name": "愛媛県 伊予 (K-NET)",
+    "lat": 33.7654,
+    "lng": 132.7089
+  },
+  {
+    "id": "KiK-net_EHMH01",
+    "name": "愛媛県 津島 (KiK-net)",
+    "lat": 33.0556,
+    "lng": 132.5552
+  },
+  {
+    "id": "KiK-net_EHMH02",
+    "name": "愛媛県 西条 (KiK-net)",
+    "lat": 33.865,
+    "lng": 133.184
+  },
+  {
+    "id": "KiK-net_EHMH03",
+    "name": "愛媛県 新宮 (KiK-net)",
+    "lat": 33.9154,
+    "lng": 133.6497
+  },
+  {
+    "id": "KiK-net_EHMH04",
+    "name": "愛媛県 丹原 (KiK-net)",
+    "lat": 33.9023,
+    "lng": 133.0658
+  },
+  {
+    "id": "KiK-net_EHMH05",
+    "name": "愛媛県 砥部 (KiK-net)",
+    "lat": 33.7112,
+    "lng": 132.8032
+  },
+  {
+    "id": "KiK-net_EHMH06",
+    "name": "愛媛県 日吉 (KiK-net)",
+    "lat": 33.3348,
+    "lng": 132.798
+  },
+  {
+    "id": "KiK-net_EHMH07",
+    "name": "愛媛県 河辺 (KiK-net)",
+    "lat": 33.5022,
+    "lng": 132.748
+  },
+  {
+    "id": "KiK-net_EHMH08",
+    "name": "愛媛県 柳谷 (KiK-net)",
+    "lat": 33.5388,
+    "lng": 133.0016
+  },
+  {
+    "id": "KiK-net_EHMH09",
+    "name": "愛媛県 伊方 (KiK-net)",
+    "lat": 33.4719,
+    "lng": 132.3072
+  },
+  {
+    "id": "KiK-net_EHMH10",
+    "name": "愛媛県 宮窪 (KiK-net)",
+    "lat": 34.1918,
+    "lng": 133.0581
+  },
+  {
+    "id": "KiK-net_EHMH11",
+    "name": "愛媛県 大洲 (KiK-net)",
+    "lat": 33.5807,
+    "lng": 132.6011
+  },
+  {
+    "id": "KiK-net_EHMH12",
+    "name": "愛媛県 宇和 (KiK-net)",
+    "lat": 33.427,
+    "lng": 132.5055
+  },
+  {
+    "id": "KiK-net_EHMH13",
+    "name": "愛媛県 三崎 (KiK-net)",
+    "lat": 33.3719,
+    "lng": 132.1157
+  },
+  {
+    "id": "K-NET_FKI001",
+    "name": "福井県 三国 (K-NET)",
+    "lat": 36.2193,
+    "lng": 136.1565
+  },
+  {
+    "id": "K-NET_FKI002",
+    "name": "福井県 越廼 (K-NET)",
+    "lat": 36.0391,
+    "lng": 136.0135
+  },
+  {
+    "id": "K-NET_FKI003",
+    "name": "福井県 福井 (K-NET)",
+    "lat": 36.074,
+    "lng": 136.2687
+  },
+  {
+    "id": "K-NET_FKI004",
+    "name": "福井県 大野 (K-NET)",
+    "lat": 35.9793,
+    "lng": 136.4867
+  },
+  {
+    "id": "K-NET_FKI005",
+    "name": "福井県 武生 (K-NET)",
+    "lat": 35.9068,
+    "lng": 136.1748
+  },
+  {
+    "id": "K-NET_FKI006",
+    "name": "福井県 今庄 (K-NET)",
+    "lat": 35.7731,
+    "lng": 136.2001
+  },
+  {
+    "id": "K-NET_FKI007",
+    "name": "福井県 敦賀 (K-NET)",
+    "lat": 35.6448,
+    "lng": 136.0575
+  },
+  {
+    "id": "K-NET_FKI008",
+    "name": "福井県 三方 (K-NET)",
+    "lat": 35.5483,
+    "lng": 135.9091
+  },
+  {
+    "id": "K-NET_FKI009",
+    "name": "福井県 小浜 (K-NET)",
+    "lat": 35.4956,
+    "lng": 135.7509
+  },
+  {
+    "id": "K-NET_FKI010",
+    "name": "福井県 高浜 (K-NET)",
+    "lat": 35.4904,
+    "lng": 135.5518
+  },
+  {
+    "id": "K-NET_FKI011",
+    "name": "福井県 和泉 (K-NET)",
+    "lat": 35.9097,
+    "lng": 136.6682
+  },
+  {
+    "id": "KiK-net_FKIH01",
+    "name": "福井県 永平寺 (KiK-net)",
+    "lat": 36.0955,
+    "lng": 136.3617
+  },
+  {
+    "id": "KiK-net_FKIH02",
+    "name": "福井県 織田 (KiK-net)",
+    "lat": 35.9483,
+    "lng": 136.0556
+  },
+  {
+    "id": "KiK-net_FKIH03",
+    "name": "福井県 和泉 (KiK-net)",
+    "lat": 35.9415,
+    "lng": 136.699
+  },
+  {
+    "id": "KiK-net_FKIH04",
+    "name": "福井県 三方 (KiK-net)",
+    "lat": 35.5587,
+    "lng": 135.8694
+  },
+  {
+    "id": "KiK-net_FKIH05",
+    "name": "福井県 敦賀 (KiK-net)",
+    "lat": 35.639,
+    "lng": 136.0303
+  },
+  {
+    "id": "KiK-net_FKIH06",
+    "name": "福井県 高浜 (KiK-net)",
+    "lat": 35.4907,
+    "lng": 135.4841
+  },
+  {
+    "id": "KiK-net_FKIH07",
+    "name": "福井県 小浜 (KiK-net)",
+    "lat": 35.4573,
+    "lng": 135.7266
+  },
+  {
+    "id": "K-NET_FKO001",
+    "name": "福岡県 玄海 (K-NET)",
+    "lat": 33.8425,
+    "lng": 130.5087
+  },
+  {
+    "id": "K-NET_FKO002",
+    "name": "福岡県 中間 (K-NET)",
+    "lat": 33.8253,
+    "lng": 130.7058
+  },
+  {
+    "id": "K-NET_FKO003",
+    "name": "福岡県 北九州 (K-NET)",
+    "lat": 33.8324,
+    "lng": 130.9013
+  },
+  {
+    "id": "K-NET_FKO004",
+    "name": "福岡県 行橋 (K-NET)",
+    "lat": 33.7366,
+    "lng": 131.0121
+  },
+  {
+    "id": "K-NET_FKO005",
+    "name": "福岡県 飯塚 (K-NET)",
+    "lat": 33.652,
+    "lng": 130.6965
+  },
+  {
+    "id": "K-NET_FKO006",
+    "name": "福岡県 福岡 (K-NET)",
+    "lat": 33.6642,
+    "lng": 130.4532
+  },
+  {
+    "id": "K-NET_FKO007",
+    "name": "福岡県 前原 (K-NET)",
+    "lat": 33.5614,
+    "lng": 130.2024
+  },
+  {
+    "id": "K-NET_FKO008",
+    "name": "福岡県 添田 (K-NET)",
+    "lat": 33.5712,
+    "lng": 130.8546
+  },
+  {
+    "id": "K-NET_FKO009",
+    "name": "福岡県 筑紫野 (K-NET)",
+    "lat": 33.4954,
+    "lng": 130.5164
+  },
+  {
+    "id": "K-NET_FKO010",
+    "name": "福岡県 甘木 (K-NET)",
+    "lat": 33.4236,
+    "lng": 130.6691
+  },
+  {
+    "id": "K-NET_FKO011",
+    "name": "福岡県 久留米 (K-NET)",
+    "lat": 33.3237,
+    "lng": 130.5118
+  },
+  {
+    "id": "K-NET_FKO012",
+    "name": "福岡県 浮羽 (K-NET)",
+    "lat": 33.332,
+    "lng": 130.794
+  },
+  {
+    "id": "K-NET_FKO013",
+    "name": "福岡県 八女 (K-NET)",
+    "lat": 33.2254,
+    "lng": 130.5608
+  },
+  {
+    "id": "K-NET_FKO014",
+    "name": "福岡県 矢部 (K-NET)",
+    "lat": 33.1496,
+    "lng": 130.8183
+  },
+  {
+    "id": "K-NET_FKO015",
+    "name": "福岡県 柳川 (K-NET)",
+    "lat": 33.1629,
+    "lng": 130.4052
+  },
+  {
+    "id": "K-NET_FKO016",
+    "name": "福岡県 大牟田 (K-NET)",
+    "lat": 33.0159,
+    "lng": 130.4472
+  },
+  {
+    "id": "KiK-net_FKOH01",
+    "name": "福岡県 北九州 (KiK-net)",
+    "lat": 33.8849,
+    "lng": 130.9798
+  },
+  {
+    "id": "KiK-net_FKOH02",
+    "name": "福岡県 若宮 (KiK-net)",
+    "lat": 33.6963,
+    "lng": 130.5963
+  },
+  {
+    "id": "KiK-net_FKOH03",
+    "name": "福岡県 宇美 (KiK-net)",
+    "lat": 33.5608,
+    "lng": 130.5499
+  },
+  {
+    "id": "KiK-net_FKOH04",
+    "name": "福岡県 嘉穂 (KiK-net)",
+    "lat": 33.5512,
+    "lng": 130.7451
+  },
+  {
+    "id": "KiK-net_FKOH05",
+    "name": "福岡県 犀川 (KiK-net)",
+    "lat": 33.5293,
+    "lng": 130.9503
+  },
+  {
+    "id": "KiK-net_FKOH06",
+    "name": "福岡県 豊前 (KiK-net)",
+    "lat": 33.5925,
+    "lng": 131.1348
+  },
+  {
+    "id": "KiK-net_FKOH07",
+    "name": "福岡県 大刀洗 (KiK-net)",
+    "lat": 33.3678,
+    "lng": 130.6354
+  },
+  {
+    "id": "KiK-net_FKOH08",
+    "name": "福岡県 小石原 (KiK-net)",
+    "lat": 33.4654,
+    "lng": 130.8285
+  },
+  {
+    "id": "KiK-net_FKOH09",
+    "name": "福岡県 玄海 (KiK-net)",
+    "lat": 33.8501,
+    "lng": 130.5432
+  },
+  {
+    "id": "KiK-net_FKOH10",
+    "name": "福岡県 浮羽 (KiK-net)",
+    "lat": 33.2891,
+    "lng": 130.817
+  },
+  {
+    "id": "K-NET_FKS001",
+    "name": "福島県 相馬 (K-NET)",
+    "lat": 37.7946,
+    "lng": 140.9192
+  },
+  {
+    "id": "K-NET_FKS002",
+    "name": "福島県 梁川 (K-NET)",
+    "lat": 37.8453,
+    "lng": 140.6008
+  },
+  {
+    "id": "K-NET_FKS003",
+    "name": "福島県 福島 (K-NET)",
+    "lat": 37.7624,
+    "lng": 140.4781
+  },
+  {
+    "id": "K-NET_FKS004",
+    "name": "福島県 飯舘 (K-NET)",
+    "lat": 37.6798,
+    "lng": 140.7342
+  },
+  {
+    "id": "K-NET_FKS005",
+    "name": "福島県 原町 (K-NET)",
+    "lat": 37.6389,
+    "lng": 140.9853
+  },
+  {
+    "id": "K-NET_FKS006",
+    "name": "福島県 葛尾 (K-NET)",
+    "lat": 37.5022,
+    "lng": 140.7593
+  },
+  {
+    "id": "K-NET_FKS007",
+    "name": "福島県 大熊 (K-NET)",
+    "lat": 37.4061,
+    "lng": 140.9632
+  },
+  {
+    "id": "K-NET_FKS008",
+    "name": "福島県 船引 (K-NET)",
+    "lat": 37.4343,
+    "lng": 140.567
+  },
+  {
+    "id": "K-NET_FKS009",
+    "name": "福島県 小野 (K-NET)",
+    "lat": 37.2796,
+    "lng": 140.6344
+  },
+  {
+    "id": "K-NET_FKS010",
+    "name": "福島県 広野 (K-NET)",
+    "lat": 37.2338,
+    "lng": 141.0018
+  },
+  {
+    "id": "K-NET_FKS011",
+    "name": "福島県 いわき (K-NET)",
+    "lat": 37.0917,
+    "lng": 140.9031
+  },
+  {
+    "id": "K-NET_FKS012",
+    "name": "福島県 勿来 (K-NET)",
+    "lat": 36.9066,
+    "lng": 140.7928
+  },
+  {
+    "id": "K-NET_FKS013",
+    "name": "福島県 古殿 (K-NET)",
+    "lat": 37.0893,
+    "lng": 140.5546
+  },
+  {
+    "id": "K-NET_FKS014",
+    "name": "福島県 矢祭 (K-NET)",
+    "lat": 36.8864,
+    "lng": 140.4166
+  },
+  {
+    "id": "K-NET_FKS015",
+    "name": "福島県 棚倉 (K-NET)",
+    "lat": 37.0237,
+    "lng": 140.3763
+  },
+  {
+    "id": "K-NET_FKS016",
+    "name": "福島県 白河 (K-NET)",
+    "lat": 37.1232,
+    "lng": 140.191
+  },
+  {
+    "id": "K-NET_FKS017",
+    "name": "福島県 須賀川 (K-NET)",
+    "lat": 37.2844,
+    "lng": 140.3689
+  },
+  {
+    "id": "K-NET_FKS018",
+    "name": "福島県 郡山 (K-NET)",
+    "lat": 37.3959,
+    "lng": 140.3619
+  },
+  {
+    "id": "K-NET_FKS019",
+    "name": "福島県 二本松 (K-NET)",
+    "lat": 37.6031,
+    "lng": 140.4381
+  },
+  {
+    "id": "K-NET_FKS020",
+    "name": "福島県 猪苗代 (K-NET)",
+    "lat": 37.556,
+    "lng": 140.1226
+  },
+  {
+    "id": "K-NET_FKS021",
+    "name": "福島県 喜多方 (K-NET)",
+    "lat": 37.6537,
+    "lng": 139.8607
+  },
+  {
+    "id": "K-NET_FKS022",
+    "name": "福島県 西会津 (K-NET)",
+    "lat": 37.6005,
+    "lng": 139.6472
+  },
+  {
+    "id": "K-NET_FKS023",
+    "name": "福島県 会津若松 (K-NET)",
+    "lat": 37.4775,
+    "lng": 139.9309
+  },
+  {
+    "id": "K-NET_FKS024",
+    "name": "福島県 中野 (K-NET)",
+    "lat": 37.3963,
+    "lng": 140.1326
+  },
+  {
+    "id": "K-NET_FKS025",
+    "name": "福島県 下郷 (K-NET)",
+    "lat": 37.3082,
+    "lng": 139.8994
+  },
+  {
+    "id": "K-NET_FKS026",
+    "name": "福島県 南郷 (K-NET)",
+    "lat": 37.2664,
+    "lng": 139.5368
+  },
+  {
+    "id": "K-NET_FKS027",
+    "name": "福島県 滝原 (K-NET)",
+    "lat": 37.0701,
+    "lng": 139.6807
+  },
+  {
+    "id": "K-NET_FKS028",
+    "name": "福島県 只見 (K-NET)",
+    "lat": 37.3037,
+    "lng": 139.3619
+  },
+  {
+    "id": "K-NET_FKS029",
+    "name": "福島県 桧枝岐 (K-NET)",
+    "lat": 37.0159,
+    "lng": 139.3806
+  },
+  {
+    "id": "K-NET_FKS030",
+    "name": "福島県 金山 (K-NET)",
+    "lat": 37.4548,
+    "lng": 139.5252
+  },
+  {
+    "id": "K-NET_FKS031",
+    "name": "福島県 川内 (K-NET)",
+    "lat": 37.3363,
+    "lng": 140.8087
+  },
+  {
+    "id": "KiK-net_FKSH01",
+    "name": "福島県 西会津 (KiK-net)",
+    "lat": 37.7565,
+    "lng": 139.715
+  },
+  {
+    "id": "KiK-net_FKSH02",
+    "name": "福島県 熱塩加納 (KiK-net)",
+    "lat": 37.7317,
+    "lng": 139.8821
+  },
+  {
+    "id": "KiK-net_FKSH03",
+    "name": "福島県 高郷 (KiK-net)",
+    "lat": 37.6078,
+    "lng": 139.7533
+  },
+  {
+    "id": "KiK-net_FKSH04",
+    "name": "福島県 会津高田 (KiK-net)",
+    "lat": 37.4508,
+    "lng": 139.8126
+  },
+  {
+    "id": "KiK-net_FKSH05",
+    "name": "福島県 下郷 (KiK-net)",
+    "lat": 37.2544,
+    "lng": 139.8725
+  },
+  {
+    "id": "KiK-net_FKSH06",
+    "name": "福島県 伊南 (KiK-net)",
+    "lat": 37.1723,
+    "lng": 139.5199
+  },
+  {
+    "id": "KiK-net_FKSH07",
+    "name": "福島県 檜枝岐 (KiK-net)",
+    "lat": 37.0103,
+    "lng": 139.3755
+  },
+  {
+    "id": "KiK-net_FKSH08",
+    "name": "福島県 長沼 (KiK-net)",
+    "lat": 37.2822,
+    "lng": 140.2144
+  },
+  {
+    "id": "KiK-net_FKSH09",
+    "name": "福島県 郡山 (KiK-net)",
+    "lat": 37.353,
+    "lng": 140.4264
+  },
+  {
+    "id": "KiK-net_FKSH10",
+    "name": "福島県 西郷 (KiK-net)",
+    "lat": 37.1616,
+    "lng": 140.093
+  },
+  {
+    "id": "KiK-net_FKSH11",
+    "name": "福島県 矢吹 (KiK-net)",
+    "lat": 37.2006,
+    "lng": 140.3386
+  },
+  {
+    "id": "KiK-net_FKSH12",
+    "name": "福島県 平田 (KiK-net)",
+    "lat": 37.2169,
+    "lng": 140.5703
+  },
+  {
+    "id": "KiK-net_FKSH13",
+    "name": "福島県 いわき西 (KiK-net)",
+    "lat": 36.9951,
+    "lng": 140.5853
+  },
+  {
+    "id": "KiK-net_FKSH14",
+    "name": "福島県 いわき東 (KiK-net)",
+    "lat": 37.0264,
+    "lng": 140.9702
+  },
+  {
+    "id": "KiK-net_FKSH15",
+    "name": "福島県 猪苗代 (KiK-net)",
+    "lat": 37.6461,
+    "lng": 140.1735
+  },
+  {
+    "id": "KiK-net_FKSH16",
+    "name": "福島県 福島 (KiK-net)",
+    "lat": 37.7643,
+    "lng": 140.3766
+  },
+  {
+    "id": "KiK-net_FKSH17",
+    "name": "福島県 川俣 (KiK-net)",
+    "lat": 37.6636,
+    "lng": 140.5974
+  },
+  {
+    "id": "KiK-net_FKSH18",
+    "name": "福島県 三春 (KiK-net)",
+    "lat": 37.4894,
+    "lng": 140.538
+  },
+  {
+    "id": "KiK-net_FKSH19",
+    "name": "福島県 都路 (KiK-net)",
+    "lat": 37.4703,
+    "lng": 140.7227
+  },
+  {
+    "id": "KiK-net_FKSH20",
+    "name": "福島県 浪江 (KiK-net)",
+    "lat": 37.4911,
+    "lng": 140.9871
+  },
+  {
+    "id": "KiK-net_FKSH21",
+    "name": "福島県 只見 (KiK-net)",
+    "lat": 37.3421,
+    "lng": 139.3147
+  },
+  {
+    "id": "K-NET_GIF001",
+    "name": "岐阜県 白川 (K-NET)",
+    "lat": 36.2743,
+    "lng": 136.8979
+  },
+  {
+    "id": "K-NET_GIF002",
+    "name": "岐阜県 河合 (K-NET)",
+    "lat": 36.2734,
+    "lng": 137.0261
+  },
+  {
+    "id": "K-NET_GIF003",
+    "name": "岐阜県 神岡 (K-NET)",
+    "lat": 36.3326,
+    "lng": 137.3019
+  },
+  {
+    "id": "K-NET_GIF004",
+    "name": "岐阜県 栃尾 (K-NET)",
+    "lat": 36.2493,
+    "lng": 137.5175
+  },
+  {
+    "id": "K-NET_GIF005",
+    "name": "岐阜県 高山 (K-NET)",
+    "lat": 36.1537,
+    "lng": 137.2513
+  },
+  {
+    "id": "K-NET_GIF006",
+    "name": "岐阜県 荘川 (K-NET)",
+    "lat": 36.0334,
+    "lng": 136.9533
+  },
+  {
+    "id": "K-NET_GIF007",
+    "name": "岐阜県 高根 (K-NET)",
+    "lat": 36.0378,
+    "lng": 137.4854
+  },
+  {
+    "id": "K-NET_GIF008",
+    "name": "岐阜県 小坂 (K-NET)",
+    "lat": 35.9517,
+    "lng": 137.2604
+  },
+  {
+    "id": "K-NET_GIF009",
+    "name": "岐阜県 白鳥 (K-NET)",
+    "lat": 35.925,
+    "lng": 136.8318
+  },
+  {
+    "id": "K-NET_GIF010",
+    "name": "岐阜県 下呂 (K-NET)",
+    "lat": 35.8005,
+    "lng": 137.2484
+  },
+  {
+    "id": "K-NET_GIF011",
+    "name": "岐阜県 八幡 (K-NET)",
+    "lat": 35.7596,
+    "lng": 136.9809
+  },
+  {
+    "id": "K-NET_GIF012",
+    "name": "岐阜県 東杉原 (K-NET)",
+    "lat": 35.6364,
+    "lng": 136.4879
+  },
+  {
+    "id": "K-NET_GIF013",
+    "name": "岐阜県 金山 (K-NET)",
+    "lat": 35.663,
+    "lng": 137.1618
+  },
+  {
+    "id": "K-NET_GIF014",
+    "name": "岐阜県 付知 (K-NET)",
+    "lat": 35.6582,
+    "lng": 137.4253
+  },
+  {
+    "id": "K-NET_GIF015",
+    "name": "岐阜県 美濃 (K-NET)",
+    "lat": 35.5456,
+    "lng": 136.9076
+  },
+  {
+    "id": "K-NET_GIF016",
+    "name": "岐阜県 七宗 (K-NET)",
+    "lat": 35.5427,
+    "lng": 137.1195
+  },
+  {
+    "id": "K-NET_GIF017",
+    "name": "岐阜県 揖斐川 (K-NET)",
+    "lat": 35.483,
+    "lng": 136.5713
+  },
+  {
+    "id": "K-NET_GIF018",
+    "name": "岐阜県 中津川 (K-NET)",
+    "lat": 35.4955,
+    "lng": 137.4998
+  },
+  {
+    "id": "K-NET_GIF019",
+    "name": "岐阜県 恵那 (K-NET)",
+    "lat": 35.4492,
+    "lng": 137.4042
+  },
+  {
+    "id": "K-NET_GIF020",
+    "name": "岐阜県 岐阜 (K-NET)",
+    "lat": 35.4248,
+    "lng": 136.7568
+  },
+  {
+    "id": "K-NET_GIF021",
+    "name": "岐阜県 美濃加茂 (K-NET)",
+    "lat": 35.4426,
+    "lng": 136.9996
+  },
+  {
+    "id": "K-NET_GIF022",
+    "name": "岐阜県 上石津 (K-NET)",
+    "lat": 35.2836,
+    "lng": 136.473
+  },
+  {
+    "id": "K-NET_GIF023",
+    "name": "岐阜県 土岐 (K-NET)",
+    "lat": 35.3879,
+    "lng": 137.2166
+  },
+  {
+    "id": "K-NET_GIF024",
+    "name": "岐阜県 明智 (K-NET)",
+    "lat": 35.3015,
+    "lng": 137.3869
+  },
+  {
+    "id": "K-NET_GIF025",
+    "name": "岐阜県 板取 (K-NET)",
+    "lat": 35.7234,
+    "lng": 136.7847
+  },
+  {
+    "id": "K-NET_GIF026",
+    "name": "岐阜県 美山 (K-NET)",
+    "lat": 35.5909,
+    "lng": 136.7418
+  },
+  {
+    "id": "KiK-net_GIFH03",
+    "name": "岐阜県 根尾 (KiK-net)",
+    "lat": 35.6325,
+    "lng": 136.6134
+  },
+  {
+    "id": "KiK-net_GIFH04",
+    "name": "岐阜県 古川 (KiK-net)",
+    "lat": 36.2448,
+    "lng": 137.1983
+  },
+  {
+    "id": "KiK-net_GIFH05",
+    "name": "岐阜県 荘川 (KiK-net)",
+    "lat": 36.0654,
+    "lng": 136.9479
+  },
+  {
+    "id": "KiK-net_GIFH06",
+    "name": "岐阜県 高富 (KiK-net)",
+    "lat": 35.5038,
+    "lng": 136.7939
+  },
+  {
+    "id": "KiK-net_GIFH07",
+    "name": "岐阜県 春日 (KiK-net)",
+    "lat": 35.4179,
+    "lng": 136.4347
+  },
+  {
+    "id": "KiK-net_GIFH08",
+    "name": "岐阜県 大和 (KiK-net)",
+    "lat": 35.8323,
+    "lng": 136.9621
+  },
+  {
+    "id": "KiK-net_GIFH09",
+    "name": "岐阜県 羽島 (KiK-net)",
+    "lat": 35.2768,
+    "lng": 136.7002
+  },
+  {
+    "id": "KiK-net_GIFH10",
+    "name": "岐阜県 神岡 (KiK-net)",
+    "lat": 36.3779,
+    "lng": 137.3716
+  },
+  {
+    "id": "KiK-net_GIFH11",
+    "name": "岐阜県 八百津 (KiK-net)",
+    "lat": 35.4865,
+    "lng": 137.2464
+  },
+  {
+    "id": "KiK-net_GIFH12",
+    "name": "岐阜県 坂内 (KiK-net)",
+    "lat": 35.6033,
+    "lng": 136.4134
+  },
+  {
+    "id": "KiK-net_GIFH13",
+    "name": "岐阜県 白川 (KiK-net)",
+    "lat": 36.2743,
+    "lng": 136.8979
+  },
+  {
+    "id": "KiK-net_GIFH14",
+    "name": "岐阜県 上宝 (KiK-net)",
+    "lat": 36.2493,
+    "lng": 137.5174
+  },
+  {
+    "id": "KiK-net_GIFH15",
+    "name": "岐阜県 高山 (KiK-net)",
+    "lat": 36.1338,
+    "lng": 137.2208
+  },
+  {
+    "id": "KiK-net_GIFH16",
+    "name": "岐阜県 朝日北 (KiK-net)",
+    "lat": 36.094,
+    "lng": 137.3438
+  },
+  {
+    "id": "KiK-net_GIFH17",
+    "name": "岐阜県 高鷲 (KiK-net)",
+    "lat": 35.9514,
+    "lng": 136.8732
+  },
+  {
+    "id": "KiK-net_GIFH18",
+    "name": "岐阜県 馬瀬 (KiK-net)",
+    "lat": 35.8991,
+    "lng": 137.1495
+  },
+  {
+    "id": "KiK-net_GIFH19",
+    "name": "岐阜県 朝日南 (KiK-net)",
+    "lat": 36.0216,
+    "lng": 137.3906
+  },
+  {
+    "id": "KiK-net_GIFH20",
+    "name": "岐阜県 下呂北 (KiK-net)",
+    "lat": 35.7991,
+    "lng": 137.2531
+  },
+  {
+    "id": "KiK-net_GIFH21",
+    "name": "岐阜県 美並 (KiK-net)",
+    "lat": 35.6665,
+    "lng": 136.9618
+  },
+  {
+    "id": "KiK-net_GIFH22",
+    "name": "岐阜県 金山 (KiK-net)",
+    "lat": 35.6682,
+    "lng": 137.1054
+  },
+  {
+    "id": "KiK-net_GIFH23",
+    "name": "岐阜県 板取 (KiK-net)",
+    "lat": 35.7235,
+    "lng": 136.7847
+  },
+  {
+    "id": "KiK-net_GIFH24",
+    "name": "岐阜県 東白川 (KiK-net)",
+    "lat": 35.6401,
+    "lng": 137.3187
+  },
+  {
+    "id": "KiK-net_GIFH25",
+    "name": "岐阜県 谷汲 (KiK-net)",
+    "lat": 35.5214,
+    "lng": 136.6127
+  },
+  {
+    "id": "KiK-net_GIFH26",
+    "name": "岐阜県 各務原 (KiK-net)",
+    "lat": 35.4121,
+    "lng": 136.8764
+  },
+  {
+    "id": "KiK-net_GIFH27",
+    "name": "岐阜県 美濃加茂 (KiK-net)",
+    "lat": 35.4527,
+    "lng": 137.004
+  },
+  {
+    "id": "KiK-net_GIFH28",
+    "name": "岐阜県 中津川 (KiK-net)",
+    "lat": 35.4571,
+    "lng": 137.4706
+  },
+  {
+    "id": "KiK-net_GIFH29",
+    "name": "岐阜県 上石津 (KiK-net)",
+    "lat": 35.2953,
+    "lng": 136.4732
+  },
+  {
+    "id": "K-NET_GNM001",
+    "name": "群馬県 片品 (K-NET)",
+    "lat": 36.7719,
+    "lng": 139.2246
+  },
+  {
+    "id": "K-NET_GNM002",
+    "name": "群馬県 水上 (K-NET)",
+    "lat": 36.7821,
+    "lng": 138.9695
+  },
+  {
+    "id": "K-NET_GNM003",
+    "name": "群馬県 沼田 (K-NET)",
+    "lat": 36.6581,
+    "lng": 139.0786
+  },
+  {
+    "id": "K-NET_GNM004",
+    "name": "群馬県 草津 (K-NET)",
+    "lat": 36.6171,
+    "lng": 138.5921
+  },
+  {
+    "id": "K-NET_GNM005",
+    "name": "群馬県 嬬恋 (K-NET)",
+    "lat": 36.5134,
+    "lng": 138.5176
+  },
+  {
+    "id": "K-NET_GNM006",
+    "name": "群馬県 吾妻 (K-NET)",
+    "lat": 36.5105,
+    "lng": 138.7527
+  },
+  {
+    "id": "K-NET_GNM007",
+    "name": "群馬県 渋川 (K-NET)",
+    "lat": 36.4637,
+    "lng": 139.0093
+  },
+  {
+    "id": "K-NET_GNM008",
+    "name": "群馬県 前橋 (K-NET)",
+    "lat": 36.3479,
+    "lng": 139.1368
+  },
+  {
+    "id": "K-NET_GNM009",
+    "name": "群馬県 桐生 (K-NET)",
+    "lat": 36.4105,
+    "lng": 139.3253
+  },
+  {
+    "id": "K-NET_GNM010",
+    "name": "群馬県 館林 (K-NET)",
+    "lat": 36.2184,
+    "lng": 139.4808
+  },
+  {
+    "id": "K-NET_GNM011",
+    "name": "群馬県 太田 (K-NET)",
+    "lat": 36.2913,
+    "lng": 139.3607
+  },
+  {
+    "id": "K-NET_GNM012",
+    "name": "群馬県 伊勢崎 (K-NET)",
+    "lat": 36.3118,
+    "lng": 139.1955
+  },
+  {
+    "id": "K-NET_GNM013",
+    "name": "群馬県 高崎 (K-NET)",
+    "lat": 36.3181,
+    "lng": 139.0174
+  },
+  {
+    "id": "K-NET_GNM014",
+    "name": "群馬県 坂本 (K-NET)",
+    "lat": 36.3467,
+    "lng": 138.7211
+  },
+  {
+    "id": "K-NET_GNM015",
+    "name": "群馬県 下仁田 (K-NET)",
+    "lat": 36.2286,
+    "lng": 138.7578
+  },
+  {
+    "id": "K-NET_GNM016",
+    "name": "群馬県 万場 (K-NET)",
+    "lat": 36.1164,
+    "lng": 138.925
+  },
+  {
+    "id": "KiK-net_GNMH05",
+    "name": "群馬県 伊勢崎 (KiK-net)",
+    "lat": 36.3143,
+    "lng": 139.1847
+  },
+  {
+    "id": "KiK-net_GNMH06",
+    "name": "群馬県 館林 (KiK-net)",
+    "lat": 36.2441,
+    "lng": 139.5443
+  },
+  {
+    "id": "KiK-net_GNMH07",
+    "name": "群馬県 利根 (KiK-net)",
+    "lat": 36.6998,
+    "lng": 139.2104
+  },
+  {
+    "id": "KiK-net_GNMH08",
+    "name": "群馬県 嬬恋 (KiK-net)",
+    "lat": 36.4917,
+    "lng": 138.5244
+  },
+  {
+    "id": "KiK-net_GNMH09",
+    "name": "群馬県 高山 (KiK-net)",
+    "lat": 36.6212,
+    "lng": 138.9068
+  },
+  {
+    "id": "KiK-net_GNMH10",
+    "name": "群馬県 下仁田 (KiK-net)",
+    "lat": 36.2356,
+    "lng": 138.7291
+  },
+  {
+    "id": "KiK-net_GNMH11",
+    "name": "群馬県 富岡 (KiK-net)",
+    "lat": 36.2862,
+    "lng": 138.921
+  },
+  {
+    "id": "KiK-net_GNMH12",
+    "name": "群馬県 神流 (KiK-net)",
+    "lat": 36.144,
+    "lng": 138.9129
+  },
+  {
+    "id": "KiK-net_GNMH13",
+    "name": "群馬県 水上2 (KiK-net)",
+    "lat": 36.862,
+    "lng": 139.0627
+  },
+  {
+    "id": "KiK-net_GNMH14",
+    "name": "群馬県 みどり (KiK-net)",
+    "lat": 36.4931,
+    "lng": 139.3219
+  },
+  {
+    "id": "KiK-net_HDKH01",
+    "name": "北海道 平取西 (KiK-net)",
+    "lat": 42.7031,
+    "lng": 142.2296
+  },
+  {
+    "id": "KiK-net_HDKH02",
+    "name": "北海道 平取東 (KiK-net)",
+    "lat": 42.7061,
+    "lng": 142.4054
+  },
+  {
+    "id": "KiK-net_HDKH03",
+    "name": "北海道 門別東 (KiK-net)",
+    "lat": 42.5934,
+    "lng": 142.3521
+  },
+  {
+    "id": "KiK-net_HDKH04",
+    "name": "北海道 門別西 (KiK-net)",
+    "lat": 42.5126,
+    "lng": 142.0381
+  },
+  {
+    "id": "KiK-net_HDKH05",
+    "name": "北海道 新冠 (KiK-net)",
+    "lat": 42.5977,
+    "lng": 142.5446
+  },
+  {
+    "id": "KiK-net_HDKH06",
+    "name": "北海道 静内 (KiK-net)",
+    "lat": 42.3498,
+    "lng": 142.3572
+  },
+  {
+    "id": "KiK-net_HDKH07",
+    "name": "北海道 様似 (KiK-net)",
+    "lat": 42.133,
+    "lng": 142.9164
+  },
+  {
+    "id": "K-NET_HKD001",
+    "name": "北海道 稚内 (K-NET)",
+    "lat": 45.4163,
+    "lng": 141.672
+  },
+  {
+    "id": "K-NET_HKD002",
+    "name": "北海道 宗谷岬 (K-NET)",
+    "lat": 45.5132,
+    "lng": 141.9548
+  },
+  {
+    "id": "K-NET_HKD003",
+    "name": "北海道 豊富 (K-NET)",
+    "lat": 45.1033,
+    "lng": 141.7665
+  },
+  {
+    "id": "K-NET_HKD004",
+    "name": "北海道 上猿払 (K-NET)",
+    "lat": 45.2149,
+    "lng": 142.226
+  },
+  {
+    "id": "K-NET_HKD005",
+    "name": "北海道 猿払 (K-NET)",
+    "lat": 45.3329,
+    "lng": 142.1747
+  },
+  {
+    "id": "K-NET_HKD006",
+    "name": "北海道 浜頓別 (K-NET)",
+    "lat": 45.1267,
+    "lng": 142.3516
+  },
+  {
+    "id": "K-NET_HKD007",
+    "name": "北海道 中頓別 (K-NET)",
+    "lat": 44.9702,
+    "lng": 142.29
+  },
+  {
+    "id": "K-NET_HKD008",
+    "name": "北海道 枝幸 (K-NET)",
+    "lat": 44.9375,
+    "lng": 142.5744
+  },
+  {
+    "id": "K-NET_HKD009",
+    "name": "北海道 歌登 (K-NET)",
+    "lat": 44.8417,
+    "lng": 142.4811
+  },
+  {
+    "id": "K-NET_HKD010",
+    "name": "北海道 風烈布 (K-NET)",
+    "lat": 44.7406,
+    "lng": 142.7633
+  },
+  {
+    "id": "K-NET_HKD011",
+    "name": "北海道 東利尻 (K-NET)",
+    "lat": 45.246,
+    "lng": 141.217
+  },
+  {
+    "id": "K-NET_HKD012",
+    "name": "北海道 船泊 (K-NET)",
+    "lat": 45.4408,
+    "lng": 141.0367
+  },
+  {
+    "id": "K-NET_HKD013",
+    "name": "北海道 礼文 (K-NET)",
+    "lat": 45.3049,
+    "lng": 141.0475
+  },
+  {
+    "id": "K-NET_HKD014",
+    "name": "北海道 沼川 (K-NET)",
+    "lat": 45.2525,
+    "lng": 141.8531
+  },
+  {
+    "id": "K-NET_HKD015",
+    "name": "北海道 天塩 (K-NET)",
+    "lat": 44.8846,
+    "lng": 141.7503
+  },
+  {
+    "id": "K-NET_HKD016",
+    "name": "北海道 遠別 (K-NET)",
+    "lat": 44.7199,
+    "lng": 141.795
+  },
+  {
+    "id": "K-NET_HKD017",
+    "name": "北海道 初山別 (K-NET)",
+    "lat": 44.5323,
+    "lng": 141.7664
+  },
+  {
+    "id": "K-NET_HKD018",
+    "name": "北海道 正修 (K-NET)",
+    "lat": 44.5453,
+    "lng": 141.9653
+  },
+  {
+    "id": "K-NET_HKD019",
+    "name": "北海道 羽幌 (K-NET)",
+    "lat": 44.3611,
+    "lng": 141.6978
+  },
+  {
+    "id": "K-NET_HKD020",
+    "name": "北海道 港町 (K-NET)",
+    "lat": 44.1487,
+    "lng": 141.6647
+  },
+  {
+    "id": "K-NET_HKD021",
+    "name": "北海道 留萌 (K-NET)",
+    "lat": 43.9407,
+    "lng": 141.637
+  },
+  {
+    "id": "K-NET_HKD022",
+    "name": "北海道 増毛 (K-NET)",
+    "lat": 43.8516,
+    "lng": 141.5279
+  },
+  {
+    "id": "K-NET_HKD023",
+    "name": "北海道 雄冬 (K-NET)",
+    "lat": 43.7734,
+    "lng": 141.3686
+  },
+  {
+    "id": "K-NET_HKD024",
+    "name": "北海道 達布 (K-NET)",
+    "lat": 44.0494,
+    "lng": 141.8573
+  },
+  {
+    "id": "K-NET_HKD025",
+    "name": "北海道 中川 (K-NET)",
+    "lat": 44.8116,
+    "lng": 142.0712
+  },
+  {
+    "id": "K-NET_HKD026",
+    "name": "北海道 音威子府 (K-NET)",
+    "lat": 44.7283,
+    "lng": 142.2633
+  },
+  {
+    "id": "K-NET_HKD027",
+    "name": "北海道 美深 (K-NET)",
+    "lat": 44.4806,
+    "lng": 142.3428
+  },
+  {
+    "id": "K-NET_HKD028",
+    "name": "北海道 名寄 (K-NET)",
+    "lat": 44.3598,
+    "lng": 142.4547
+  },
+  {
+    "id": "K-NET_HKD029",
+    "name": "北海道 下川 (K-NET)",
+    "lat": 44.3114,
+    "lng": 142.6421
+  },
+  {
+    "id": "K-NET_HKD030",
+    "name": "北海道 士別 (K-NET)",
+    "lat": 44.1821,
+    "lng": 142.3942
+  },
+  {
+    "id": "K-NET_HKD031",
+    "name": "北海道 朝日 (K-NET)",
+    "lat": 44.1185,
+    "lng": 142.5952
+  },
+  {
+    "id": "K-NET_HKD032",
+    "name": "北海道 和寒 (K-NET)",
+    "lat": 44.0235,
+    "lng": 142.4123
+  },
+  {
+    "id": "K-NET_HKD033",
+    "name": "北海道 愛別 (K-NET)",
+    "lat": 43.909,
+    "lng": 142.5699
+  },
+  {
+    "id": "K-NET_HKD034",
+    "name": "北海道 上川 (K-NET)",
+    "lat": 43.8543,
+    "lng": 142.7686
+  },
+  {
+    "id": "K-NET_HKD035",
+    "name": "北海道 層雲峡 (K-NET)",
+    "lat": 43.7704,
+    "lng": 142.9033
+  },
+  {
+    "id": "K-NET_HKD036",
+    "name": "北海道 旭川 (K-NET)",
+    "lat": 43.7726,
+    "lng": 142.3648
+  },
+  {
+    "id": "K-NET_HKD037",
+    "name": "北海道 美瑛 (K-NET)",
+    "lat": 43.5889,
+    "lng": 142.4673
+  },
+  {
+    "id": "K-NET_HKD038",
+    "name": "北海道 南富良野 (K-NET)",
+    "lat": 43.1666,
+    "lng": 142.5662
+  },
+  {
+    "id": "K-NET_HKD039",
+    "name": "北海道 富良野 (K-NET)",
+    "lat": 43.3421,
+    "lng": 142.3845
+  },
+  {
+    "id": "K-NET_HKD040",
+    "name": "北海道 占冠 (K-NET)",
+    "lat": 42.9806,
+    "lng": 142.3994
+  },
+  {
+    "id": "K-NET_HKD041",
+    "name": "北海道 天人峡 (K-NET)",
+    "lat": 43.6246,
+    "lng": 142.6839
+  },
+  {
+    "id": "K-NET_HKD042",
+    "name": "北海道 仁宇布 (K-NET)",
+    "lat": 44.5449,
+    "lng": 142.5692
+  },
+  {
+    "id": "K-NET_HKD043",
+    "name": "北海道 雄武 (K-NET)",
+    "lat": 44.582,
+    "lng": 142.9644
+  },
+  {
+    "id": "K-NET_HKD044",
+    "name": "北海道 興部 (K-NET)",
+    "lat": 44.4796,
+    "lng": 143.1276
+  },
+  {
+    "id": "K-NET_HKD045",
+    "name": "北海道 西興部 (K-NET)",
+    "lat": 44.3288,
+    "lng": 142.9453
+  },
+  {
+    "id": "K-NET_HKD046",
+    "name": "北海道 滝上 (K-NET)",
+    "lat": 44.192,
+    "lng": 143.0767
+  },
+  {
+    "id": "K-NET_HKD047",
+    "name": "北海道 紋別 (K-NET)",
+    "lat": 44.3677,
+    "lng": 143.3454
+  },
+  {
+    "id": "K-NET_HKD048",
+    "name": "北海道 湧別 (K-NET)",
+    "lat": 44.2199,
+    "lng": 143.6155
+  },
+  {
+    "id": "K-NET_HKD049",
+    "name": "北海道 遠軽 (K-NET)",
+    "lat": 44.0921,
+    "lng": 143.5336
+  },
+  {
+    "id": "K-NET_HKD050",
+    "name": "北海道 白滝 (K-NET)",
+    "lat": 43.8785,
+    "lng": 143.1747
+  },
+  {
+    "id": "K-NET_HKD051",
+    "name": "北海道 佐呂間 (K-NET)",
+    "lat": 44.0221,
+    "lng": 143.7682
+  },
+  {
+    "id": "K-NET_HKD052",
+    "name": "北海道 常呂 (K-NET)",
+    "lat": 44.1204,
+    "lng": 144.0712
+  },
+  {
+    "id": "K-NET_HKD053",
+    "name": "北海道 留辺蘂 (K-NET)",
+    "lat": 43.7849,
+    "lng": 143.6072
+  },
+  {
+    "id": "K-NET_HKD054",
+    "name": "北海道 北見 (K-NET)",
+    "lat": 43.7996,
+    "lng": 143.9008
+  },
+  {
+    "id": "K-NET_HKD055",
+    "name": "北海道 美幌 (K-NET)",
+    "lat": 43.8244,
+    "lng": 144.1087
+  },
+  {
+    "id": "K-NET_HKD056",
+    "name": "北海道 置戸 (K-NET)",
+    "lat": 43.6705,
+    "lng": 143.5781
+  },
+  {
+    "id": "K-NET_HKD057",
+    "name": "北海道 津別 (K-NET)",
+    "lat": 43.7054,
+    "lng": 144.0273
+  },
+  {
+    "id": "K-NET_HKD058",
+    "name": "北海道 網走 (K-NET)",
+    "lat": 44.0242,
+    "lng": 144.2637
+  },
+  {
+    "id": "K-NET_HKD059",
+    "name": "北海道 小清水 (K-NET)",
+    "lat": 43.8574,
+    "lng": 144.4609
+  },
+  {
+    "id": "K-NET_HKD060",
+    "name": "北海道 斜里 (K-NET)",
+    "lat": 43.9136,
+    "lng": 144.6657
+  },
+  {
+    "id": "K-NET_HKD061",
+    "name": "北海道 ウトロ (K-NET)",
+    "lat": 44.0699,
+    "lng": 144.9973
+  },
+  {
+    "id": "K-NET_HKD062",
+    "name": "北海道 富士見 (K-NET)",
+    "lat": 43.6746,
+    "lng": 143.3088
+  },
+  {
+    "id": "K-NET_HKD063",
+    "name": "北海道 相泊 (K-NET)",
+    "lat": 44.106,
+    "lng": 145.2478
+  },
+  {
+    "id": "K-NET_HKD064",
+    "name": "北海道 羅臼 (K-NET)",
+    "lat": 44.0202,
+    "lng": 145.1886
+  },
+  {
+    "id": "K-NET_HKD065",
+    "name": "北海道 薫別 (K-NET)",
+    "lat": 43.7938,
+    "lng": 145.0565
+  },
+  {
+    "id": "K-NET_HKD066",
+    "name": "北海道 標津 (K-NET)",
+    "lat": 43.6619,
+    "lng": 145.1307
+  },
+  {
+    "id": "K-NET_HKD067",
+    "name": "北海道 中標津 (K-NET)",
+    "lat": 43.555,
+    "lng": 144.9726
+  },
+  {
+    "id": "K-NET_HKD068",
+    "name": "北海道 上西春別 (K-NET)",
+    "lat": 43.4108,
+    "lng": 144.7704
+  },
+  {
+    "id": "K-NET_HKD069",
+    "name": "北海道 別海 (K-NET)",
+    "lat": 43.3941,
+    "lng": 145.1168
+  },
+  {
+    "id": "K-NET_HKD070",
+    "name": "北海道 本別海 (K-NET)",
+    "lat": 43.3852,
+    "lng": 145.284
+  },
+  {
+    "id": "K-NET_HKD071",
+    "name": "北海道 厚床 (K-NET)",
+    "lat": 43.2326,
+    "lng": 145.2604
+  },
+  {
+    "id": "K-NET_HKD072",
+    "name": "北海道 落石 (K-NET)",
+    "lat": 43.1948,
+    "lng": 145.5209
+  },
+  {
+    "id": "K-NET_HKD073",
+    "name": "北海道 根室 (K-NET)",
+    "lat": 43.3327,
+    "lng": 145.6003
+  },
+  {
+    "id": "K-NET_HKD074",
+    "name": "北海道 納沙布 (K-NET)",
+    "lat": 43.368,
+    "lng": 145.8026
+  },
+  {
+    "id": "K-NET_HKD075",
+    "name": "北海道 浜中 (K-NET)",
+    "lat": 43.1309,
+    "lng": 145.0288
+  },
+  {
+    "id": "K-NET_HKD076",
+    "name": "北海道 厚岸 (K-NET)",
+    "lat": 43.0509,
+    "lng": 144.8498
+  },
+  {
+    "id": "K-NET_HKD077",
+    "name": "北海道 釧路 (K-NET)",
+    "lat": 42.9845,
+    "lng": 144.3824
+  },
+  {
+    "id": "K-NET_HKD078",
+    "name": "北海道 塘路 (K-NET)",
+    "lat": 43.1488,
+    "lng": 144.4976
+  },
+  {
+    "id": "K-NET_HKD079",
+    "name": "北海道 標茶 (K-NET)",
+    "lat": 43.3034,
+    "lng": 144.5998
+  },
+  {
+    "id": "K-NET_HKD080",
+    "name": "北海道 弟子屈 (K-NET)",
+    "lat": 43.5077,
+    "lng": 144.4485
+  },
+  {
+    "id": "K-NET_HKD081",
+    "name": "北海道 川湯 (K-NET)",
+    "lat": 43.6427,
+    "lng": 144.3901
+  },
+  {
+    "id": "K-NET_HKD082",
+    "name": "北海道 阿寒湖畔 (K-NET)",
+    "lat": 43.4369,
+    "lng": 144.0855
+  },
+  {
+    "id": "K-NET_HKD083",
+    "name": "北海道 鶴居 (K-NET)",
+    "lat": 43.2329,
+    "lng": 144.3251
+  },
+  {
+    "id": "K-NET_HKD084",
+    "name": "北海道 阿寒 (K-NET)",
+    "lat": 43.1141,
+    "lng": 144.123
+  },
+  {
+    "id": "K-NET_HKD085",
+    "name": "北海道 白糠 (K-NET)",
+    "lat": 42.9581,
+    "lng": 144.0698
+  },
+  {
+    "id": "K-NET_HKD086",
+    "name": "北海道 直別 (K-NET)",
+    "lat": 42.8542,
+    "lng": 143.8579
+  },
+  {
+    "id": "K-NET_HKD087",
+    "name": "北海道 二股 (K-NET)",
+    "lat": 43.1502,
+    "lng": 143.8916
+  },
+  {
+    "id": "K-NET_HKD088",
+    "name": "北海道 陸別 (K-NET)",
+    "lat": 43.4704,
+    "lng": 143.7488
+  },
+  {
+    "id": "K-NET_HKD089",
+    "name": "北海道 足寄 (K-NET)",
+    "lat": 43.2436,
+    "lng": 143.5544
+  },
+  {
+    "id": "K-NET_HKD090",
+    "name": "北海道 本別 (K-NET)",
+    "lat": 43.1213,
+    "lng": 143.6183
+  },
+  {
+    "id": "K-NET_HKD091",
+    "name": "北海道 浦幌 (K-NET)",
+    "lat": 42.8088,
+    "lng": 143.659
+  },
+  {
+    "id": "K-NET_HKD092",
+    "name": "北海道 池田 (K-NET)",
+    "lat": 42.9283,
+    "lng": 143.4485
+  },
+  {
+    "id": "K-NET_HKD093",
+    "name": "北海道 糠平 (K-NET)",
+    "lat": 43.3191,
+    "lng": 143.3049
+  },
+  {
+    "id": "K-NET_HKD094",
+    "name": "北海道 士幌 (K-NET)",
+    "lat": 43.1692,
+    "lng": 143.241
+  },
+  {
+    "id": "K-NET_HKD095",
+    "name": "北海道 帯広 (K-NET)",
+    "lat": 42.9311,
+    "lng": 143.2137
+  },
+  {
+    "id": "K-NET_HKD096",
+    "name": "北海道 中札内 (K-NET)",
+    "lat": 42.6977,
+    "lng": 143.1357
+  },
+  {
+    "id": "K-NET_HKD097",
+    "name": "北海道 生花 (K-NET)",
+    "lat": 42.6181,
+    "lng": 143.421
+  },
+  {
+    "id": "K-NET_HKD098",
+    "name": "北海道 大樹 (K-NET)",
+    "lat": 42.4985,
+    "lng": 143.279
+  },
+  {
+    "id": "K-NET_HKD099",
+    "name": "北海道 新得 (K-NET)",
+    "lat": 43.0736,
+    "lng": 142.8392
+  },
+  {
+    "id": "K-NET_HKD100",
+    "name": "北海道 広尾 (K-NET)",
+    "lat": 42.2864,
+    "lng": 143.312
+  },
+  {
+    "id": "K-NET_HKD101",
+    "name": "北海道 トムラウシ (K-NET)",
+    "lat": 43.3338,
+    "lng": 142.9473
+  },
+  {
+    "id": "K-NET_HKD102",
+    "name": "北海道 日高 (K-NET)",
+    "lat": 42.8778,
+    "lng": 142.4481
+  },
+  {
+    "id": "K-NET_HKD103",
+    "name": "北海道 幌毛志 (K-NET)",
+    "lat": 42.7275,
+    "lng": 142.2973
+  },
+  {
+    "id": "K-NET_HKD104",
+    "name": "北海道 平取 (K-NET)",
+    "lat": 42.5886,
+    "lng": 142.131
+  },
+  {
+    "id": "K-NET_HKD105",
+    "name": "北海道 門別 (K-NET)",
+    "lat": 42.4826,
+    "lng": 142.0538
+  },
+  {
+    "id": "K-NET_HKD106",
+    "name": "北海道 静内 (K-NET)",
+    "lat": 42.3414,
+    "lng": 142.3688
+  },
+  {
+    "id": "K-NET_HKD107",
+    "name": "北海道 農屋 (K-NET)",
+    "lat": 42.4194,
+    "lng": 142.4992
+  },
+  {
+    "id": "K-NET_HKD108",
+    "name": "北海道 三石 (K-NET)",
+    "lat": 42.2528,
+    "lng": 142.5643
+  },
+  {
+    "id": "K-NET_HKD109",
+    "name": "北海道 浦河 (K-NET)",
+    "lat": 42.1678,
+    "lng": 142.7673
+  },
+  {
+    "id": "K-NET_HKD110",
+    "name": "北海道 様似 (K-NET)",
+    "lat": 42.131,
+    "lng": 142.9354
+  },
+  {
+    "id": "K-NET_HKD111",
+    "name": "北海道 えりも (K-NET)",
+    "lat": 42.017,
+    "lng": 143.1487
+  },
+  {
+    "id": "K-NET_HKD112",
+    "name": "北海道 えりも岬 (K-NET)",
+    "lat": 41.937,
+    "lng": 143.2403
+  },
+  {
+    "id": "K-NET_HKD113",
+    "name": "北海道 目黒 (K-NET)",
+    "lat": 42.1287,
+    "lng": 143.3153
+  },
+  {
+    "id": "K-NET_HKD114",
+    "name": "北海道 朱鞠内 (K-NET)",
+    "lat": 44.2829,
+    "lng": 142.1619
+  },
+  {
+    "id": "K-NET_HKD115",
+    "name": "北海道 幌加内 (K-NET)",
+    "lat": 44.007,
+    "lng": 142.1485
+  },
+  {
+    "id": "K-NET_HKD116",
+    "name": "北海道 沼田 (K-NET)",
+    "lat": 43.8005,
+    "lng": 141.9343
+  },
+  {
+    "id": "K-NET_HKD117",
+    "name": "北海道 深川 (K-NET)",
+    "lat": 43.7241,
+    "lng": 142.0527
+  },
+  {
+    "id": "K-NET_HKD118",
+    "name": "北海道 滝川 (K-NET)",
+    "lat": 43.5524,
+    "lng": 141.9175
+  },
+  {
+    "id": "K-NET_HKD119",
+    "name": "北海道 芦別 (K-NET)",
+    "lat": 43.5199,
+    "lng": 142.1914
+  },
+  {
+    "id": "K-NET_HKD120",
+    "name": "北海道 月形 (K-NET)",
+    "lat": 43.3442,
+    "lng": 141.6633
+  },
+  {
+    "id": "K-NET_HKD121",
+    "name": "北海道 美唄 (K-NET)",
+    "lat": 43.3332,
+    "lng": 141.8553
+  },
+  {
+    "id": "K-NET_HKD122",
+    "name": "北海道 岩見沢 (K-NET)",
+    "lat": 43.1974,
+    "lng": 141.7754
+  },
+  {
+    "id": "K-NET_HKD123",
+    "name": "北海道 夕張 (K-NET)",
+    "lat": 42.9933,
+    "lng": 142.0085
+  },
+  {
+    "id": "K-NET_HKD124",
+    "name": "北海道 由仁 (K-NET)",
+    "lat": 42.9986,
+    "lng": 141.7903
+  },
+  {
+    "id": "K-NET_HKD125",
+    "name": "北海道 穂別 (K-NET)",
+    "lat": 42.7609,
+    "lng": 142.1344
+  },
+  {
+    "id": "K-NET_HKD126",
+    "name": "北海道 鵡川 (K-NET)",
+    "lat": 42.5748,
+    "lng": 141.9284
+  },
+  {
+    "id": "K-NET_HKD127",
+    "name": "北海道 追分 (K-NET)",
+    "lat": 42.8743,
+    "lng": 141.8204
+  },
+  {
+    "id": "K-NET_HKD128",
+    "name": "北海道 早来 (K-NET)",
+    "lat": 42.7656,
+    "lng": 141.8219
+  },
+  {
+    "id": "K-NET_HKD129",
+    "name": "北海道 苫小牧 (K-NET)",
+    "lat": 42.6347,
+    "lng": 141.6057
+  },
+  {
+    "id": "K-NET_HKD130",
+    "name": "北海道 白老 (K-NET)",
+    "lat": 42.5626,
+    "lng": 141.3502
+  },
+  {
+    "id": "K-NET_HKD131",
+    "name": "北海道 登別 (K-NET)",
+    "lat": 42.4206,
+    "lng": 141.0809
+  },
+  {
+    "id": "K-NET_HKD132",
+    "name": "北海道 室蘭 (K-NET)",
+    "lat": 42.3484,
+    "lng": 141.0318
+  },
+  {
+    "id": "K-NET_HKD133",
+    "name": "北海道 伊達 (K-NET)",
+    "lat": 42.4727,
+    "lng": 140.8657
+  },
+  {
+    "id": "K-NET_HKD134",
+    "name": "北海道 大滝 (K-NET)",
+    "lat": 42.6713,
+    "lng": 141.079
+  },
+  {
+    "id": "K-NET_HKD135",
+    "name": "北海道 壮瞥 (K-NET)",
+    "lat": 42.5533,
+    "lng": 140.8864
+  },
+  {
+    "id": "K-NET_HKD136",
+    "name": "北海道 豊浦 (K-NET)",
+    "lat": 42.5901,
+    "lng": 140.6441
+  },
+  {
+    "id": "K-NET_HKD137",
+    "name": "北海道 余別 (K-NET)",
+    "lat": 43.3236,
+    "lng": 140.3791
+  },
+  {
+    "id": "K-NET_HKD138",
+    "name": "北海道 積丹 (K-NET)",
+    "lat": 43.2923,
+    "lng": 140.6013
+  },
+  {
+    "id": "K-NET_HKD139",
+    "name": "北海道 余市 (K-NET)",
+    "lat": 43.1975,
+    "lng": 140.7819
+  },
+  {
+    "id": "K-NET_HKD140",
+    "name": "北海道 小樽 (K-NET)",
+    "lat": 43.1908,
+    "lng": 140.9933
+  },
+  {
+    "id": "K-NET_HKD141",
+    "name": "北海道 神恵内 (K-NET)",
+    "lat": 43.1449,
+    "lng": 140.4355
+  },
+  {
+    "id": "K-NET_HKD142",
+    "name": "北海道 赤井川 (K-NET)",
+    "lat": 43.0841,
+    "lng": 140.8202
+  },
+  {
+    "id": "K-NET_HKD143",
+    "name": "北海道 岩内 (K-NET)",
+    "lat": 42.9793,
+    "lng": 140.5093
+  },
+  {
+    "id": "K-NET_HKD144",
+    "name": "北海道 倶知安 (K-NET)",
+    "lat": 42.9059,
+    "lng": 140.767
+  },
+  {
+    "id": "K-NET_HKD145",
+    "name": "北海道 喜茂別 (K-NET)",
+    "lat": 42.7978,
+    "lng": 140.9361
+  },
+  {
+    "id": "K-NET_HKD146",
+    "name": "北海道 ニセコ (K-NET)",
+    "lat": 42.8076,
+    "lng": 140.6878
+  },
+  {
+    "id": "K-NET_HKD147",
+    "name": "北海道 蘭越 (K-NET)",
+    "lat": 42.8056,
+    "lng": 140.5305
+  },
+  {
+    "id": "K-NET_HKD148",
+    "name": "北海道 黒松内 (K-NET)",
+    "lat": 42.668,
+    "lng": 140.305
+  },
+  {
+    "id": "K-NET_HKD149",
+    "name": "北海道 寿都 (K-NET)",
+    "lat": 42.7905,
+    "lng": 140.2305
+  },
+  {
+    "id": "K-NET_HKD150",
+    "name": "北海道 島牧 (K-NET)",
+    "lat": 42.701,
+    "lng": 140.0619
+  },
+  {
+    "id": "K-NET_HKD151",
+    "name": "北海道 長万部 (K-NET)",
+    "lat": 42.4948,
+    "lng": 140.3539
+  },
+  {
+    "id": "K-NET_HKD152",
+    "name": "北海道 八雲 (K-NET)",
+    "lat": 42.2586,
+    "lng": 140.2638
+  },
+  {
+    "id": "K-NET_HKD153",
+    "name": "北海道 上の湯 (K-NET)",
+    "lat": 42.1245,
+    "lng": 140.3755
+  },
+  {
+    "id": "K-NET_HKD154",
+    "name": "北海道 森 (K-NET)",
+    "lat": 42.0965,
+    "lng": 140.5636
+  },
+  {
+    "id": "K-NET_HKD155",
+    "name": "北海道 鹿部 (K-NET)",
+    "lat": 42.0438,
+    "lng": 140.8064
+  },
+  {
+    "id": "K-NET_HKD156",
+    "name": "北海道 七飯 (K-NET)",
+    "lat": 41.8996,
+    "lng": 140.696
+  },
+  {
+    "id": "K-NET_HKD157",
+    "name": "北海道 南茅部 (K-NET)",
+    "lat": 41.9053,
+    "lng": 140.9698
+  },
+  {
+    "id": "K-NET_HKD158",
+    "name": "北海道 椴法華 (K-NET)",
+    "lat": 41.8349,
+    "lng": 141.1408
+  },
+  {
+    "id": "K-NET_HKD159",
+    "name": "北海道 戸井 (K-NET)",
+    "lat": 41.716,
+    "lng": 141.0046
+  },
+  {
+    "id": "K-NET_HKD160",
+    "name": "北海道 函館 (K-NET)",
+    "lat": 41.77,
+    "lng": 140.7383
+  },
+  {
+    "id": "K-NET_HKD161",
+    "name": "北海道 木古内 (K-NET)",
+    "lat": 41.68,
+    "lng": 140.4329
+  },
+  {
+    "id": "K-NET_HKD162",
+    "name": "北海道 福島 (K-NET)",
+    "lat": 41.4859,
+    "lng": 140.2469
+  },
+  {
+    "id": "K-NET_HKD163",
+    "name": "北海道 松前 (K-NET)",
+    "lat": 41.4338,
+    "lng": 140.1117
+  },
+  {
+    "id": "K-NET_HKD164",
+    "name": "北海道 瀬棚 (K-NET)",
+    "lat": 42.4502,
+    "lng": 139.8533
+  },
+  {
+    "id": "K-NET_HKD165",
+    "name": "北海道 今金 (K-NET)",
+    "lat": 42.4287,
+    "lng": 140.0178
+  },
+  {
+    "id": "K-NET_HKD166",
+    "name": "北海道 大成 (K-NET)",
+    "lat": 42.2286,
+    "lng": 139.8186
+  },
+  {
+    "id": "K-NET_HKD167",
+    "name": "北海道 熊石 (K-NET)",
+    "lat": 42.1297,
+    "lng": 139.9813
+  },
+  {
+    "id": "K-NET_HKD168",
+    "name": "北海道 江差 (K-NET)",
+    "lat": 41.8691,
+    "lng": 140.1266
+  },
+  {
+    "id": "K-NET_HKD169",
+    "name": "北海道 木間内 (K-NET)",
+    "lat": 41.9351,
+    "lng": 140.3678
+  },
+  {
+    "id": "K-NET_HKD170",
+    "name": "北海道 湯ノ岱 (K-NET)",
+    "lat": 41.7495,
+    "lng": 140.251
+  },
+  {
+    "id": "K-NET_HKD171",
+    "name": "北海道 小砂子 (K-NET)",
+    "lat": 41.649,
+    "lng": 139.9979
+  },
+  {
+    "id": "K-NET_HKD172",
+    "name": "北海道 稲穂 (K-NET)",
+    "lat": 42.2402,
+    "lng": 139.5519
+  },
+  {
+    "id": "K-NET_HKD173",
+    "name": "北海道 青苗 (K-NET)",
+    "lat": 42.0662,
+    "lng": 139.4515
+  },
+  {
+    "id": "K-NET_HKD174",
+    "name": "北海道 北島歌 (K-NET)",
+    "lat": 42.595,
+    "lng": 139.8286
+  },
+  {
+    "id": "K-NET_HKD175",
+    "name": "北海道 浜益 (K-NET)",
+    "lat": 43.6015,
+    "lng": 141.3882
+  },
+  {
+    "id": "K-NET_HKD176",
+    "name": "北海道 四番川 (K-NET)",
+    "lat": 43.5324,
+    "lng": 141.5924
+  },
+  {
+    "id": "K-NET_HKD177",
+    "name": "北海道 厚田 (K-NET)",
+    "lat": 43.4001,
+    "lng": 141.4346
+  },
+  {
+    "id": "K-NET_HKD178",
+    "name": "北海道 石狩 (K-NET)",
+    "lat": 43.172,
+    "lng": 141.3043
+  },
+  {
+    "id": "K-NET_HKD179",
+    "name": "北海道 当別 (K-NET)",
+    "lat": 43.2236,
+    "lng": 141.5175
+  },
+  {
+    "id": "K-NET_HKD180",
+    "name": "北海道 札幌 (K-NET)",
+    "lat": 43.1391,
+    "lng": 141.3513
+  },
+  {
+    "id": "K-NET_HKD181",
+    "name": "北海道 江別 (K-NET)",
+    "lat": 43.1161,
+    "lng": 141.5462
+  },
+  {
+    "id": "K-NET_HKD182",
+    "name": "北海道 広島 (K-NET)",
+    "lat": 42.9721,
+    "lng": 141.5161
+  },
+  {
+    "id": "K-NET_HKD183",
+    "name": "北海道 定山渓 (K-NET)",
+    "lat": 42.9714,
+    "lng": 141.1779
+  },
+  {
+    "id": "K-NET_HKD184",
+    "name": "北海道 千歳 (K-NET)",
+    "lat": 42.7898,
+    "lng": 141.6008
+  },
+  {
+    "id": "K-NET_HKD185",
+    "name": "北海道 支笏湖畔 (K-NET)",
+    "lat": 42.7756,
+    "lng": 141.4016
+  },
+  {
+    "id": "K-NET_HRS001",
+    "name": "広島県 高野 (K-NET)",
+    "lat": 35.0339,
+    "lng": 132.9018
+  },
+  {
+    "id": "K-NET_HRS002",
+    "name": "広島県 東城 (K-NET)",
+    "lat": 34.8951,
+    "lng": 133.2753
+  },
+  {
+    "id": "K-NET_HRS003",
+    "name": "広島県 三次 (K-NET)",
+    "lat": 34.8138,
+    "lng": 132.8427
+  },
+  {
+    "id": "K-NET_HRS004",
+    "name": "広島県 芸北 (K-NET)",
+    "lat": 34.7263,
+    "lng": 132.2773
+  },
+  {
+    "id": "K-NET_HRS005",
+    "name": "広島県 油木 (K-NET)",
+    "lat": 34.7774,
+    "lng": 133.2803
+  },
+  {
+    "id": "K-NET_HRS006",
+    "name": "広島県 豊平 (K-NET)",
+    "lat": 34.6666,
+    "lng": 132.408
+  },
+  {
+    "id": "K-NET_HRS007",
+    "name": "広島県 甲奴 (K-NET)",
+    "lat": 34.7029,
+    "lng": 133.0886
+  },
+  {
+    "id": "K-NET_HRS008",
+    "name": "広島県 向原 (K-NET)",
+    "lat": 34.6029,
+    "lng": 132.7201
+  },
+  {
+    "id": "K-NET_HRS009",
+    "name": "広島県 湯来 (K-NET)",
+    "lat": 34.4927,
+    "lng": 132.2802
+  },
+  {
+    "id": "K-NET_HRS010",
+    "name": "広島県 世羅 (K-NET)",
+    "lat": 34.5834,
+    "lng": 133.0515
+  },
+  {
+    "id": "K-NET_HRS011",
+    "name": "広島県 府中 (K-NET)",
+    "lat": 34.5686,
+    "lng": 133.2364
+  },
+  {
+    "id": "K-NET_HRS012",
+    "name": "広島県 東広島 (K-NET)",
+    "lat": 34.4274,
+    "lng": 132.7422
+  },
+  {
+    "id": "K-NET_HRS013",
+    "name": "広島県 広島 (K-NET)",
+    "lat": 34.3768,
+    "lng": 132.4502
+  },
+  {
+    "id": "K-NET_HRS014",
+    "name": "広島県 大野 (K-NET)",
+    "lat": 34.2864,
+    "lng": 132.2765
+  },
+  {
+    "id": "K-NET_HRS015",
+    "name": "広島県 福山 (K-NET)",
+    "lat": 34.4852,
+    "lng": 133.3619
+  },
+  {
+    "id": "K-NET_HRS016",
+    "name": "広島県 尾道 (K-NET)",
+    "lat": 34.4201,
+    "lng": 133.1979
+  },
+  {
+    "id": "K-NET_HRS017",
+    "name": "広島県 三原 (K-NET)",
+    "lat": 34.4037,
+    "lng": 133.0838
+  },
+  {
+    "id": "K-NET_HRS018",
+    "name": "広島県 竹原 (K-NET)",
+    "lat": 34.3413,
+    "lng": 132.9069
+  },
+  {
+    "id": "K-NET_HRS019",
+    "name": "広島県 呉 (K-NET)",
+    "lat": 34.253,
+    "lng": 132.5617
+  },
+  {
+    "id": "K-NET_HRS020",
+    "name": "広島県 因島 (K-NET)",
+    "lat": 34.2936,
+    "lng": 133.1776
+  },
+  {
+    "id": "K-NET_HRS021",
+    "name": "広島県 西城 (K-NET)",
+    "lat": 34.9413,
+    "lng": 133.1185
+  },
+  {
+    "id": "KiK-net_HRSH01",
+    "name": "広島県 三原 (KiK-net)",
+    "lat": 34.3736,
+    "lng": 133.0236
+  },
+  {
+    "id": "KiK-net_HRSH02",
+    "name": "広島県 大和 (KiK-net)",
+    "lat": 34.5482,
+    "lng": 132.948
+  },
+  {
+    "id": "KiK-net_HRSH03",
+    "name": "広島県 御調 (KiK-net)",
+    "lat": 34.5183,
+    "lng": 133.1375
+  },
+  {
+    "id": "KiK-net_HRSH04",
+    "name": "広島県 沼隈 (KiK-net)",
+    "lat": 34.3785,
+    "lng": 133.3493
+  },
+  {
+    "id": "KiK-net_HRSH05",
+    "name": "広島県 神辺 (KiK-net)",
+    "lat": 34.5566,
+    "lng": 133.4179
+  },
+  {
+    "id": "KiK-net_HRSH06",
+    "name": "広島県 口和 (KiK-net)",
+    "lat": 34.9137,
+    "lng": 132.9123
+  },
+  {
+    "id": "KiK-net_HRSH07",
+    "name": "広島県 呉 (KiK-net)",
+    "lat": 34.2883,
+    "lng": 132.6411
+  },
+  {
+    "id": "KiK-net_HRSH08",
+    "name": "広島県 佐伯 (KiK-net)",
+    "lat": 34.3935,
+    "lng": 132.1611
+  },
+  {
+    "id": "KiK-net_HRSH09",
+    "name": "広島県 吉舎 (KiK-net)",
+    "lat": 34.7016,
+    "lng": 132.9524
+  },
+  {
+    "id": "KiK-net_HRSH10",
+    "name": "広島県 芸北 (KiK-net)",
+    "lat": 34.7471,
+    "lng": 132.3794
+  },
+  {
+    "id": "KiK-net_HRSH11",
+    "name": "広島県 神石 (KiK-net)",
+    "lat": 34.8225,
+    "lng": 133.1674
+  },
+  {
+    "id": "KiK-net_HRSH12",
+    "name": "広島県 広島 (KiK-net)",
+    "lat": 34.581,
+    "lng": 132.4295
+  },
+  {
+    "id": "KiK-net_HRSH13",
+    "name": "広島県 広島南 (KiK-net)",
+    "lat": 34.4122,
+    "lng": 132.3907
+  },
+  {
+    "id": "KiK-net_HRSH14",
+    "name": "広島県 沖美 (KiK-net)",
+    "lat": 34.209,
+    "lng": 132.4063
+  },
+  {
+    "id": "KiK-net_HRSH15",
+    "name": "広島県 倉橋 (KiK-net)",
+    "lat": 34.1161,
+    "lng": 132.5053
+  },
+  {
+    "id": "KiK-net_HRSH16",
+    "name": "広島県 吉田 (KiK-net)",
+    "lat": 34.6629,
+    "lng": 132.6689
+  },
+  {
+    "id": "KiK-net_HRSH17",
+    "name": "広島県 戸河内 (KiK-net)",
+    "lat": 34.5716,
+    "lng": 132.2326
+  },
+  {
+    "id": "KiK-net_HRSH18",
+    "name": "広島県 東広島 (KiK-net)",
+    "lat": 34.4572,
+    "lng": 132.7923
+  },
+  {
+    "id": "K-NET_HYG001",
+    "name": "兵庫県 浜坂 (K-NET)",
+    "lat": 35.6197,
+    "lng": 134.4506
+  },
+  {
+    "id": "K-NET_HYG002",
+    "name": "兵庫県 香住 (K-NET)",
+    "lat": 35.6394,
+    "lng": 134.628
+  },
+  {
+    "id": "K-NET_HYG003",
+    "name": "兵庫県 出石 (K-NET)",
+    "lat": 35.4613,
+    "lng": 134.8758
+  },
+  {
+    "id": "K-NET_HYG004",
+    "name": "兵庫県 村岡 (K-NET)",
+    "lat": 35.4583,
+    "lng": 134.5782
+  },
+  {
+    "id": "K-NET_HYG005",
+    "name": "兵庫県 和田山 (K-NET)",
+    "lat": 35.3408,
+    "lng": 134.8616
+  },
+  {
+    "id": "K-NET_HYG006",
+    "name": "兵庫県 大屋 (K-NET)",
+    "lat": 35.3329,
+    "lng": 134.6649
+  },
+  {
+    "id": "K-NET_HYG007",
+    "name": "兵庫県 波賀 (K-NET)",
+    "lat": 35.1638,
+    "lng": 134.5458
+  },
+  {
+    "id": "K-NET_HYG008",
+    "name": "兵庫県 生野 (K-NET)",
+    "lat": 35.1487,
+    "lng": 134.788
+  },
+  {
+    "id": "K-NET_HYG009",
+    "name": "兵庫県 黒井 (K-NET)",
+    "lat": 35.1699,
+    "lng": 135.1025
+  },
+  {
+    "id": "K-NET_HYG010",
+    "name": "兵庫県 丹南 (K-NET)",
+    "lat": 35.0592,
+    "lng": 135.1776
+  },
+  {
+    "id": "K-NET_HYG011",
+    "name": "兵庫県 上月 (K-NET)",
+    "lat": 34.985,
+    "lng": 134.3226
+  },
+  {
+    "id": "K-NET_HYG012",
+    "name": "兵庫県 山崎 (K-NET)",
+    "lat": 34.9958,
+    "lng": 134.5523
+  },
+  {
+    "id": "K-NET_HYG013",
+    "name": "兵庫県 市川 (K-NET)",
+    "lat": 34.9895,
+    "lng": 134.7636
+  },
+  {
+    "id": "K-NET_HYG014",
+    "name": "兵庫県 西脇 (K-NET)",
+    "lat": 35.0019,
+    "lng": 134.9994
+  },
+  {
+    "id": "K-NET_HYG015",
+    "name": "兵庫県 三田 (K-NET)",
+    "lat": 34.9499,
+    "lng": 135.2714
+  },
+  {
+    "id": "K-NET_HYG016",
+    "name": "兵庫県 赤穂 (K-NET)",
+    "lat": 34.7553,
+    "lng": 134.39
+  },
+  {
+    "id": "K-NET_HYG017",
+    "name": "兵庫県 龍野 (K-NET)",
+    "lat": 34.8591,
+    "lng": 134.5446
+  },
+  {
+    "id": "K-NET_HYG018",
+    "name": "兵庫県 姫路 (K-NET)",
+    "lat": 34.8145,
+    "lng": 134.6871
+  },
+  {
+    "id": "K-NET_HYG019",
+    "name": "兵庫県 加古川 (K-NET)",
+    "lat": 34.8321,
+    "lng": 134.8234
+  },
+  {
+    "id": "K-NET_HYG020",
+    "name": "兵庫県 三木 (K-NET)",
+    "lat": 34.7974,
+    "lng": 134.9889
+  },
+  {
+    "id": "K-NET_HYG021",
+    "name": "兵庫県 神戸 (K-NET)",
+    "lat": 34.6904,
+    "lng": 135.1591
+  },
+  {
+    "id": "K-NET_HYG022",
+    "name": "兵庫県 西宮 (K-NET)",
+    "lat": 34.7463,
+    "lng": 135.3501
+  },
+  {
+    "id": "K-NET_HYG023",
+    "name": "兵庫県 明石 (K-NET)",
+    "lat": 34.7012,
+    "lng": 134.8803
+  },
+  {
+    "id": "K-NET_HYG024",
+    "name": "兵庫県 東浦 (K-NET)",
+    "lat": 34.533,
+    "lng": 134.9904
+  },
+  {
+    "id": "K-NET_HYG025",
+    "name": "兵庫県 洲本 (K-NET)",
+    "lat": 34.3389,
+    "lng": 134.9011
+  },
+  {
+    "id": "K-NET_HYG026",
+    "name": "兵庫県 五色 (K-NET)",
+    "lat": 34.4147,
+    "lng": 134.7914
+  },
+  {
+    "id": "K-NET_HYG027",
+    "name": "兵庫県 南淡 (K-NET)",
+    "lat": 34.2496,
+    "lng": 134.7292
+  },
+  {
+    "id": "KiK-net_HYGH01",
+    "name": "兵庫県 三原 (KiK-net)",
+    "lat": 34.2937,
+    "lng": 134.7941
+  },
+  {
+    "id": "KiK-net_HYGH02",
+    "name": "兵庫県 南光 (KiK-net)",
+    "lat": 35.0671,
+    "lng": 134.4234
+  },
+  {
+    "id": "KiK-net_HYGH03",
+    "name": "兵庫県 波賀 (KiK-net)",
+    "lat": 35.2193,
+    "lng": 134.5237
+  },
+  {
+    "id": "KiK-net_HYGH04",
+    "name": "兵庫県 篠山 (KiK-net)",
+    "lat": 35.0708,
+    "lng": 135.2811
+  },
+  {
+    "id": "KiK-net_HYGH05",
+    "name": "兵庫県 上郡 (KiK-net)",
+    "lat": 34.8995,
+    "lng": 134.3284
+  },
+  {
+    "id": "KiK-net_HYGH06",
+    "name": "兵庫県 相生 (KiK-net)",
+    "lat": 34.7935,
+    "lng": 134.4792
+  },
+  {
+    "id": "KiK-net_HYGH07",
+    "name": "兵庫県 夢前 (KiK-net)",
+    "lat": 35.0322,
+    "lng": 134.6701
+  },
+  {
+    "id": "KiK-net_HYGH08",
+    "name": "兵庫県 加美 (KiK-net)",
+    "lat": 35.101,
+    "lng": 134.9036
+  },
+  {
+    "id": "KiK-net_HYGH09",
+    "name": "兵庫県 東条 (KiK-net)",
+    "lat": 34.9082,
+    "lng": 135.0844
+  },
+  {
+    "id": "KiK-net_HYGH10",
+    "name": "兵庫県 加古川 (KiK-net)",
+    "lat": 34.8164,
+    "lng": 134.8078
+  },
+  {
+    "id": "KiK-net_HYGH11",
+    "name": "兵庫県 山東 (KiK-net)",
+    "lat": 35.2925,
+    "lng": 134.9071
+  },
+  {
+    "id": "KiK-net_HYGH12",
+    "name": "兵庫県 新宮 (KiK-net)",
+    "lat": 34.9313,
+    "lng": 134.5423
+  },
+  {
+    "id": "KiK-net_HYGH13",
+    "name": "兵庫県 香住 (KiK-net)",
+    "lat": 35.6208,
+    "lng": 134.6566
+  },
+  {
+    "id": "KiK-net_HYGH14",
+    "name": "兵庫県 出石 (KiK-net)",
+    "lat": 35.4574,
+    "lng": 134.8621
+  },
+  {
+    "id": "KiK-net_HYGH15",
+    "name": "兵庫県 村岡 (KiK-net)",
+    "lat": 35.4697,
+    "lng": 134.5953
+  },
+  {
+    "id": "KiK-net_HYMH01",
+    "name": "北海道 北檜山 (KiK-net)",
+    "lat": 42.4851,
+    "lng": 139.9678
+  },
+  {
+    "id": "KiK-net_HYMH02",
+    "name": "北海道 厚沢部 (KiK-net)",
+    "lat": 41.9856,
+    "lng": 140.3087
+  },
+  {
+    "id": "KiK-net_HYMH03",
+    "name": "北海道 熊石 (KiK-net)",
+    "lat": 42.1344,
+    "lng": 140.004
+  },
+  {
+    "id": "K-NET_IBR001",
+    "name": "茨城県 大子 (K-NET)",
+    "lat": 36.7763,
+    "lng": 140.3582
+  },
+  {
+    "id": "K-NET_IBR002",
+    "name": "茨城県 高萩 (K-NET)",
+    "lat": 36.7126,
+    "lng": 140.7073
+  },
+  {
+    "id": "K-NET_IBR003",
+    "name": "茨城県 日立 (K-NET)",
+    "lat": 36.5914,
+    "lng": 140.6453
+  },
+  {
+    "id": "K-NET_IBR004",
+    "name": "茨城県 大宮 (K-NET)",
+    "lat": 36.5516,
+    "lng": 140.4102
+  },
+  {
+    "id": "K-NET_IBR005",
+    "name": "茨城県 笠間 (K-NET)",
+    "lat": 36.3851,
+    "lng": 140.2373
+  },
+  {
+    "id": "K-NET_IBR006",
+    "name": "茨城県 水戸 (K-NET)",
+    "lat": 36.3665,
+    "lng": 140.4543
+  },
+  {
+    "id": "K-NET_IBR007",
+    "name": "茨城県 那珂湊 (K-NET)",
+    "lat": 36.3526,
+    "lng": 140.5954
+  },
+  {
+    "id": "K-NET_IBR008",
+    "name": "茨城県 下館 (K-NET)",
+    "lat": 36.3061,
+    "lng": 139.9826
+  },
+  {
+    "id": "K-NET_IBR009",
+    "name": "茨城県 古河 (K-NET)",
+    "lat": 36.185,
+    "lng": 139.7037
+  },
+  {
+    "id": "K-NET_IBR010",
+    "name": "茨城県 下妻 (K-NET)",
+    "lat": 36.1844,
+    "lng": 139.9652
+  },
+  {
+    "id": "K-NET_IBR011",
+    "name": "茨城県 つくば (K-NET)",
+    "lat": 36.1256,
+    "lng": 140.0901
+  },
+  {
+    "id": "K-NET_IBR012",
+    "name": "茨城県 石岡 (K-NET)",
+    "lat": 36.1954,
+    "lng": 140.2713
+  },
+  {
+    "id": "K-NET_IBR013",
+    "name": "茨城県 鉾田 (K-NET)",
+    "lat": 36.1587,
+    "lng": 140.4892
+  },
+  {
+    "id": "K-NET_IBR014",
+    "name": "茨城県 土浦 (K-NET)",
+    "lat": 36.0729,
+    "lng": 140.1948
+  },
+  {
+    "id": "K-NET_IBR015",
+    "name": "茨城県 岩井 (K-NET)",
+    "lat": 36.0698,
+    "lng": 139.9082
+  },
+  {
+    "id": "K-NET_IBR016",
+    "name": "茨城県 取手 (K-NET)",
+    "lat": 35.9114,
+    "lng": 140.0494
+  },
+  {
+    "id": "K-NET_IBR017",
+    "name": "茨城県 江戸崎 (K-NET)",
+    "lat": 35.9538,
+    "lng": 140.3196
+  },
+  {
+    "id": "K-NET_IBR018",
+    "name": "茨城県 鹿嶋 (K-NET)",
+    "lat": 35.9766,
+    "lng": 140.6306
+  },
+  {
+    "id": "K-NET_IBR019",
+    "name": "茨城県 北茨城 (K-NET)",
+    "lat": 36.8808,
+    "lng": 140.6544
+  },
+  {
+    "id": "KiK-net_IBRH06",
+    "name": "茨城県 北茨城2 (KiK-net)",
+    "lat": 36.8809,
+    "lng": 140.6545
+  },
+  {
+    "id": "KiK-net_IBRH07",
+    "name": "茨城県 江戸崎 (KiK-net)",
+    "lat": 35.9521,
+    "lng": 140.3301
+  },
+  {
+    "id": "KiK-net_IBRH08",
+    "name": "茨城県 大洋 (KiK-net)",
+    "lat": 36.1188,
+    "lng": 140.5621
+  },
+  {
+    "id": "KiK-net_IBRH09",
+    "name": "茨城県 常北 (KiK-net)",
+    "lat": 36.439,
+    "lng": 140.3559
+  },
+  {
+    "id": "KiK-net_IBRH10",
+    "name": "茨城県 石下 (KiK-net)",
+    "lat": 36.1112,
+    "lng": 139.9889
+  },
+  {
+    "id": "KiK-net_IBRH11",
+    "name": "茨城県 岩瀬 (KiK-net)",
+    "lat": 36.3701,
+    "lng": 140.1401
+  },
+  {
+    "id": "KiK-net_IBRH12",
+    "name": "茨城県 大子 (KiK-net)",
+    "lat": 36.8369,
+    "lng": 140.3181
+  },
+  {
+    "id": "KiK-net_IBRH13",
+    "name": "茨城県 高萩 (KiK-net)",
+    "lat": 36.7955,
+    "lng": 140.575
+  },
+  {
+    "id": "KiK-net_IBRH14",
+    "name": "茨城県 十王 (KiK-net)",
+    "lat": 36.6922,
+    "lng": 140.5484
+  },
+  {
+    "id": "KiK-net_IBRH15",
+    "name": "茨城県 御前山 (KiK-net)",
+    "lat": 36.5566,
+    "lng": 140.3013
+  },
+  {
+    "id": "KiK-net_IBRH16",
+    "name": "茨城県 山方 (KiK-net)",
+    "lat": 36.6405,
+    "lng": 140.3976
+  },
+  {
+    "id": "KiK-net_IBRH17",
+    "name": "茨城県 霞ヶ浦 (KiK-net)",
+    "lat": 36.0864,
+    "lng": 140.314
+  },
+  {
+    "id": "KiK-net_IBRH18",
+    "name": "茨城県 ひたちなか (KiK-net)",
+    "lat": 36.3631,
+    "lng": 140.6198
+  },
+  {
+    "id": "KiK-net_IBRH19",
+    "name": "茨城県 つくば (KiK-net)",
+    "lat": 36.2137,
+    "lng": 140.0893
+  },
+  {
+    "id": "KiK-net_IBRH20",
+    "name": "茨城県 波崎2 (KiK-net)",
+    "lat": 35.8284,
+    "lng": 140.7323
+  },
+  {
+    "id": "KiK-net_IBRH21",
+    "name": "茨城県 つくば南 (KiK-net)",
+    "lat": 35.9814,
+    "lng": 140.105
+  },
+  {
+    "id": "KiK-net_IBUH01",
+    "name": "北海道 追分 (KiK-net)",
+    "lat": 42.8739,
+    "lng": 141.8191
+  },
+  {
+    "id": "KiK-net_IBUH02",
+    "name": "北海道 穂別 (KiK-net)",
+    "lat": 42.8714,
+    "lng": 142.1285
+  },
+  {
+    "id": "KiK-net_IBUH03",
+    "name": "北海道 厚真 (KiK-net)",
+    "lat": 42.6486,
+    "lng": 141.8641
+  },
+  {
+    "id": "KiK-net_IBUH04",
+    "name": "北海道 豊浦 (KiK-net)",
+    "lat": 42.6415,
+    "lng": 140.665
+  },
+  {
+    "id": "KiK-net_IBUH05",
+    "name": "北海道 白老 (KiK-net)",
+    "lat": 42.5629,
+    "lng": 141.3497
+  },
+  {
+    "id": "KiK-net_IBUH06",
+    "name": "北海道 室蘭 (KiK-net)",
+    "lat": 42.4116,
+    "lng": 141.0017
+  },
+  {
+    "id": "KiK-net_IBUH07",
+    "name": "北海道 大滝 (KiK-net)",
+    "lat": 42.6476,
+    "lng": 141.0643
+  },
+  {
+    "id": "KiK-net_IKRH01",
+    "name": "北海道 当別 (KiK-net)",
+    "lat": 43.4087,
+    "lng": 141.5836
+  },
+  {
+    "id": "KiK-net_IKRH02",
+    "name": "北海道 新篠津 (KiK-net)",
+    "lat": 43.2204,
+    "lng": 141.6523
+  },
+  {
+    "id": "KiK-net_IKRH03",
+    "name": "北海道 千歳 (KiK-net)",
+    "lat": 42.888,
+    "lng": 141.6399
+  },
+  {
+    "id": "K-NET_ISK001",
+    "name": "石川県 大谷 (K-NET)",
+    "lat": 37.5,
+    "lng": 137.1767
+  },
+  {
+    "id": "K-NET_ISK002",
+    "name": "石川県 正院 (K-NET)",
+    "lat": 37.4473,
+    "lng": 137.2877
+  },
+  {
+    "id": "K-NET_ISK003",
+    "name": "石川県 輪島 (K-NET)",
+    "lat": 37.3924,
+    "lng": 136.9078
+  },
+  {
+    "id": "K-NET_ISK004",
+    "name": "石川県 能都 (K-NET)",
+    "lat": 37.308,
+    "lng": 137.1471
+  },
+  {
+    "id": "K-NET_ISK005",
+    "name": "石川県 穴水 (K-NET)",
+    "lat": 37.2309,
+    "lng": 136.9041
+  },
+  {
+    "id": "K-NET_ISK006",
+    "name": "石川県 富来 (K-NET)",
+    "lat": 37.1603,
+    "lng": 136.6896
+  },
+  {
+    "id": "K-NET_ISK007",
+    "name": "石川県 七尾 (K-NET)",
+    "lat": 37.0426,
+    "lng": 136.968
+  },
+  {
+    "id": "K-NET_ISK008",
+    "name": "石川県 羽咋 (K-NET)",
+    "lat": 36.8938,
+    "lng": 136.7783
+  },
+  {
+    "id": "K-NET_ISK009",
+    "name": "石川県 七塚 (K-NET)",
+    "lat": 36.7334,
+    "lng": 136.7025
+  },
+  {
+    "id": "K-NET_ISK010",
+    "name": "石川県 金沢 (K-NET)",
+    "lat": 36.5421,
+    "lng": 136.6435
+  },
+  {
+    "id": "K-NET_ISK011",
+    "name": "石川県 小松 (K-NET)",
+    "lat": 36.3976,
+    "lng": 136.4409
+  },
+  {
+    "id": "K-NET_ISK012",
+    "name": "石川県 鳥越 (K-NET)",
+    "lat": 36.3579,
+    "lng": 136.6049
+  },
+  {
+    "id": "K-NET_ISK013",
+    "name": "石川県 白峰 (K-NET)",
+    "lat": 36.1804,
+    "lng": 136.6246
+  },
+  {
+    "id": "K-NET_ISK014",
+    "name": "石川県 加賀 (K-NET)",
+    "lat": 36.3031,
+    "lng": 136.3154
+  },
+  {
+    "id": "K-NET_ISK015",
+    "name": "石川県 大町 (K-NET)",
+    "lat": 37.2265,
+    "lng": 136.9087
+  },
+  {
+    "id": "KiK-net_ISKH01",
+    "name": "石川県 珠洲 (KiK-net)",
+    "lat": 37.5266,
+    "lng": 137.2844
+  },
+  {
+    "id": "KiK-net_ISKH02",
+    "name": "石川県 柳田 (KiK-net)",
+    "lat": 37.3644,
+    "lng": 137.0413
+  },
+  {
+    "id": "KiK-net_ISKH03",
+    "name": "石川県 内浦 (KiK-net)",
+    "lat": 37.3458,
+    "lng": 137.2436
+  },
+  {
+    "id": "KiK-net_ISKH04",
+    "name": "石川県 富来 (KiK-net)",
+    "lat": 37.1902,
+    "lng": 136.7176
+  },
+  {
+    "id": "KiK-net_ISKH05",
+    "name": "石川県 穴水 (KiK-net)",
+    "lat": 37.2224,
+    "lng": 136.9689
+  },
+  {
+    "id": "KiK-net_ISKH06",
+    "name": "石川県 志賀 (KiK-net)",
+    "lat": 37.0533,
+    "lng": 136.8206
+  },
+  {
+    "id": "KiK-net_ISKH07",
+    "name": "石川県 金沢 (KiK-net)",
+    "lat": 36.515,
+    "lng": 136.6357
+  },
+  {
+    "id": "KiK-net_ISKH08",
+    "name": "石川県 津幡 (KiK-net)",
+    "lat": 36.738,
+    "lng": 136.7906
+  },
+  {
+    "id": "KiK-net_ISKH09",
+    "name": "石川県 尾口 (KiK-net)",
+    "lat": 36.2667,
+    "lng": 136.7168
+  },
+  {
+    "id": "K-NET_IWT001",
+    "name": "岩手県 種市 (K-NET)",
+    "lat": 40.4101,
+    "lng": 141.7193
+  },
+  {
+    "id": "K-NET_IWT002",
+    "name": "岩手県 久慈 (K-NET)",
+    "lat": 40.182,
+    "lng": 141.7643
+  },
+  {
+    "id": "K-NET_IWT003",
+    "name": "岩手県 普代 (K-NET)",
+    "lat": 40.0083,
+    "lng": 141.8885
+  },
+  {
+    "id": "K-NET_IWT004",
+    "name": "岩手県 田老 (K-NET)",
+    "lat": 39.7356,
+    "lng": 141.9671
+  },
+  {
+    "id": "K-NET_IWT005",
+    "name": "岩手県 宮古 (K-NET)",
+    "lat": 39.6478,
+    "lng": 141.9465
+  },
+  {
+    "id": "K-NET_IWT006",
+    "name": "岩手県 山田 (K-NET)",
+    "lat": 39.485,
+    "lng": 141.9748
+  },
+  {
+    "id": "K-NET_IWT007",
+    "name": "岩手県 釜石 (K-NET)",
+    "lat": 39.2699,
+    "lng": 141.8567
+  },
+  {
+    "id": "K-NET_IWT008",
+    "name": "岩手県 大船渡 (K-NET)",
+    "lat": 39.0815,
+    "lng": 141.7093
+  },
+  {
+    "id": "K-NET_IWT009",
+    "name": "岩手県 大東 (K-NET)",
+    "lat": 39.019,
+    "lng": 141.4053
+  },
+  {
+    "id": "K-NET_IWT010",
+    "name": "岩手県 一関 (K-NET)",
+    "lat": 38.9346,
+    "lng": 141.1264
+  },
+  {
+    "id": "K-NET_IWT011",
+    "name": "岩手県 水沢 (K-NET)",
+    "lat": 39.1453,
+    "lng": 141.1527
+  },
+  {
+    "id": "K-NET_IWT012",
+    "name": "岩手県 北上 (K-NET)",
+    "lat": 39.3206,
+    "lng": 141.1388
+  },
+  {
+    "id": "K-NET_IWT013",
+    "name": "岩手県 遠野 (K-NET)",
+    "lat": 39.329,
+    "lng": 141.5638
+  },
+  {
+    "id": "K-NET_IWT014",
+    "name": "岩手県 石鳥谷 (K-NET)",
+    "lat": 39.4846,
+    "lng": 141.1466
+  },
+  {
+    "id": "K-NET_IWT015",
+    "name": "岩手県 川尻 (K-NET)",
+    "lat": 39.3183,
+    "lng": 140.7794
+  },
+  {
+    "id": "K-NET_IWT016",
+    "name": "岩手県 川井 (K-NET)",
+    "lat": 39.6,
+    "lng": 141.679
+  },
+  {
+    "id": "K-NET_IWT017",
+    "name": "岩手県 門馬 (K-NET)",
+    "lat": 39.6339,
+    "lng": 141.4379
+  },
+  {
+    "id": "K-NET_IWT018",
+    "name": "岩手県 盛岡 (K-NET)",
+    "lat": 39.6954,
+    "lng": 141.1477
+  },
+  {
+    "id": "K-NET_IWT019",
+    "name": "岩手県 岩泉 (K-NET)",
+    "lat": 39.803,
+    "lng": 141.6584
+  },
+  {
+    "id": "K-NET_IWT020",
+    "name": "岩手県 藪川 (K-NET)",
+    "lat": 39.7844,
+    "lng": 141.3296
+  },
+  {
+    "id": "K-NET_IWT021",
+    "name": "岩手県 西根 (K-NET)",
+    "lat": 39.9203,
+    "lng": 141.0822
+  },
+  {
+    "id": "K-NET_IWT022",
+    "name": "岩手県 安代 (K-NET)",
+    "lat": 40.1009,
+    "lng": 141.0528
+  },
+  {
+    "id": "K-NET_IWT023",
+    "name": "岩手県 葛巻 (K-NET)",
+    "lat": 40.037,
+    "lng": 141.4501
+  },
+  {
+    "id": "K-NET_IWT024",
+    "name": "岩手県 二戸 (K-NET)",
+    "lat": 40.2612,
+    "lng": 141.2908
+  },
+  {
+    "id": "K-NET_IWT025",
+    "name": "岩手県 大志田 (K-NET)",
+    "lat": 39.5169,
+    "lng": 140.8299
+  },
+  {
+    "id": "K-NET_IWT026",
+    "name": "岩手県 相去 (K-NET)",
+    "lat": 39.2569,
+    "lng": 141.0983
+  },
+  {
+    "id": "KiK-net_IWTH01",
+    "name": "岩手県 二戸東 (KiK-net)",
+    "lat": 40.2383,
+    "lng": 141.3423
+  },
+  {
+    "id": "KiK-net_IWTH02",
+    "name": "岩手県 玉山 (KiK-net)",
+    "lat": 39.825,
+    "lng": 141.3826
+  },
+  {
+    "id": "KiK-net_IWTH03",
+    "name": "岩手県 岩泉 (KiK-net)",
+    "lat": 39.802,
+    "lng": 141.652
+  },
+  {
+    "id": "KiK-net_IWTH04",
+    "name": "岩手県 住田 (KiK-net)",
+    "lat": 39.1809,
+    "lng": 141.3909
+  },
+  {
+    "id": "KiK-net_IWTH05",
+    "name": "岩手県 藤沢 (KiK-net)",
+    "lat": 38.8654,
+    "lng": 141.3512
+  },
+  {
+    "id": "KiK-net_IWTH06",
+    "name": "岩手県 二戸西 (KiK-net)",
+    "lat": 40.2611,
+    "lng": 141.1709
+  },
+  {
+    "id": "KiK-net_IWTH07",
+    "name": "岩手県 軽米 (KiK-net)",
+    "lat": 40.2705,
+    "lng": 141.5709
+  },
+  {
+    "id": "KiK-net_IWTH08",
+    "name": "岩手県 久慈北 (KiK-net)",
+    "lat": 40.2686,
+    "lng": 141.7831
+  },
+  {
+    "id": "KiK-net_IWTH09",
+    "name": "岩手県 久慈南 (KiK-net)",
+    "lat": 40.0861,
+    "lng": 141.712
+  },
+  {
+    "id": "KiK-net_IWTH10",
+    "name": "岩手県 安代 (KiK-net)",
+    "lat": 40.1391,
+    "lng": 140.9529
+  },
+  {
+    "id": "KiK-net_IWTH11",
+    "name": "岩手県 一戸 (KiK-net)",
+    "lat": 40.0811,
+    "lng": 141.1915
+  },
+  {
+    "id": "KiK-net_IWTH12",
+    "name": "岩手県 九戸 (KiK-net)",
+    "lat": 40.1533,
+    "lng": 141.4245
+  },
+  {
+    "id": "KiK-net_IWTH13",
+    "name": "岩手県 葛巻 (KiK-net)",
+    "lat": 39.9398,
+    "lng": 141.5492
+  },
+  {
+    "id": "KiK-net_IWTH14",
+    "name": "岩手県 田老 (KiK-net)",
+    "lat": 39.7435,
+    "lng": 141.9087
+  },
+  {
+    "id": "KiK-net_IWTH15",
+    "name": "岩手県 矢巾 (KiK-net)",
+    "lat": 39.6148,
+    "lng": 141.0929
+  },
+  {
+    "id": "KiK-net_IWTH16",
+    "name": "岩手県 雫石 (KiK-net)",
+    "lat": 39.6436,
+    "lng": 140.9465
+  },
+  {
+    "id": "KiK-net_IWTH17",
+    "name": "岩手県 川井北 (KiK-net)",
+    "lat": 39.6442,
+    "lng": 141.5977
+  },
+  {
+    "id": "KiK-net_IWTH18",
+    "name": "岩手県 川井南 (KiK-net)",
+    "lat": 39.463,
+    "lng": 141.6775
+  },
+  {
+    "id": "KiK-net_IWTH19",
+    "name": "岩手県 花巻北 (KiK-net)",
+    "lat": 39.4559,
+    "lng": 141.0001
+  },
+  {
+    "id": "KiK-net_IWTH20",
+    "name": "岩手県 花巻南 (KiK-net)",
+    "lat": 39.3434,
+    "lng": 141.0473
+  },
+  {
+    "id": "KiK-net_IWTH21",
+    "name": "岩手県 山田 (KiK-net)",
+    "lat": 39.4734,
+    "lng": 141.9336
+  },
+  {
+    "id": "KiK-net_IWTH22",
+    "name": "岩手県 東和 (KiK-net)",
+    "lat": 39.334,
+    "lng": 141.3015
+  },
+  {
+    "id": "KiK-net_IWTH23",
+    "name": "岩手県 釜石 (KiK-net)",
+    "lat": 39.2741,
+    "lng": 141.8233
+  },
+  {
+    "id": "KiK-net_IWTH24",
+    "name": "岩手県 金ヶ崎 (KiK-net)",
+    "lat": 39.1979,
+    "lng": 141.0118
+  },
+  {
+    "id": "KiK-net_IWTH25",
+    "name": "岩手県 一関西 (KiK-net)",
+    "lat": 39.0092,
+    "lng": 140.8638
+  },
+  {
+    "id": "KiK-net_IWTH26",
+    "name": "岩手県 一関東 (KiK-net)",
+    "lat": 38.969,
+    "lng": 141.0013
+  },
+  {
+    "id": "KiK-net_IWTH27",
+    "name": "岩手県 陸前高田 (KiK-net)",
+    "lat": 39.0307,
+    "lng": 141.532
+  },
+  {
+    "id": "KiK-net_IWTH28",
+    "name": "岩手県 一関西2 (KiK-net)",
+    "lat": 39.0094,
+    "lng": 140.864
+  },
+  {
+    "id": "K-NET_KGS001",
+    "name": "鹿児島県 東 (K-NET)",
+    "lat": 32.1947,
+    "lng": 130.1763
+  },
+  {
+    "id": "K-NET_KGS002",
+    "name": "鹿児島県 出水 (K-NET)",
+    "lat": 32.0916,
+    "lng": 130.3519
+  },
+  {
+    "id": "K-NET_KGS003",
+    "name": "鹿児島県 大口 (K-NET)",
+    "lat": 32.0559,
+    "lng": 130.5874
+  },
+  {
+    "id": "K-NET_KGS004",
+    "name": "鹿児島県 阿久根 (K-NET)",
+    "lat": 32.0145,
+    "lng": 130.1927
+  },
+  {
+    "id": "K-NET_KGS005",
+    "name": "鹿児島県 宮之城 (K-NET)",
+    "lat": 31.9006,
+    "lng": 130.4513
+  },
+  {
+    "id": "K-NET_KGS006",
+    "name": "鹿児島県 横川 (K-NET)",
+    "lat": 31.906,
+    "lng": 130.7021
+  },
+  {
+    "id": "K-NET_KGS007",
+    "name": "鹿児島県 川内 (K-NET)",
+    "lat": 31.8143,
+    "lng": 130.3032
+  },
+  {
+    "id": "K-NET_KGS008",
+    "name": "鹿児島県 蒲生 (K-NET)",
+    "lat": 31.7638,
+    "lng": 130.5659
+  },
+  {
+    "id": "K-NET_KGS009",
+    "name": "鹿児島県 国分 (K-NET)",
+    "lat": 31.7368,
+    "lng": 130.7613
+  },
+  {
+    "id": "K-NET_KGS010",
+    "name": "鹿児島県 串木野 (K-NET)",
+    "lat": 31.7123,
+    "lng": 130.2735
+  },
+  {
+    "id": "K-NET_KGS011",
+    "name": "鹿児島県 日吉 (K-NET)",
+    "lat": 31.5896,
+    "lng": 130.349
+  },
+  {
+    "id": "K-NET_KGS012",
+    "name": "鹿児島県 鹿児島 (K-NET)",
+    "lat": 31.6057,
+    "lng": 130.574
+  },
+  {
+    "id": "K-NET_KGS013",
+    "name": "鹿児島県 大隅 (K-NET)",
+    "lat": 31.5973,
+    "lng": 130.9938
+  },
+  {
+    "id": "K-NET_KGS014",
+    "name": "鹿児島県 垂水 (K-NET)",
+    "lat": 31.4963,
+    "lng": 130.6994
+  },
+  {
+    "id": "K-NET_KGS015",
+    "name": "鹿児島県 大崎 (K-NET)",
+    "lat": 31.4308,
+    "lng": 131.0109
+  },
+  {
+    "id": "K-NET_KGS016",
+    "name": "鹿児島県 加世田 (K-NET)",
+    "lat": 31.4162,
+    "lng": 130.3225
+  },
+  {
+    "id": "K-NET_KGS017",
+    "name": "鹿児島県 鹿屋 (K-NET)",
+    "lat": 31.3954,
+    "lng": 130.8702
+  },
+  {
+    "id": "K-NET_KGS018",
+    "name": "鹿児島県 喜入 (K-NET)",
+    "lat": 31.3757,
+    "lng": 130.5449
+  },
+  {
+    "id": "K-NET_KGS019",
+    "name": "鹿児島県 枕崎 (K-NET)",
+    "lat": 31.2776,
+    "lng": 130.3008
+  },
+  {
+    "id": "K-NET_KGS020",
+    "name": "鹿児島県 頴娃 (K-NET)",
+    "lat": 31.2396,
+    "lng": 130.4915
+  },
+  {
+    "id": "K-NET_KGS021",
+    "name": "鹿児島県 指宿 (K-NET)",
+    "lat": 31.2535,
+    "lng": 130.6324
+  },
+  {
+    "id": "K-NET_KGS022",
+    "name": "鹿児島県 内之浦 (K-NET)",
+    "lat": 31.2804,
+    "lng": 131.0504
+  },
+  {
+    "id": "K-NET_KGS023",
+    "name": "鹿児島県 田代 (K-NET)",
+    "lat": 31.199,
+    "lng": 130.849
+  },
+  {
+    "id": "K-NET_KGS024",
+    "name": "鹿児島県 佐多 (K-NET)",
+    "lat": 31.0888,
+    "lng": 130.6982
+  },
+  {
+    "id": "K-NET_KGS025",
+    "name": "鹿児島県 西之表 (K-NET)",
+    "lat": 30.7319,
+    "lng": 130.9977
+  },
+  {
+    "id": "K-NET_KGS026",
+    "name": "鹿児島県 中種子 (K-NET)",
+    "lat": 30.5199,
+    "lng": 130.9553
+  },
+  {
+    "id": "K-NET_KGS027",
+    "name": "鹿児島県 門倉崎 (K-NET)",
+    "lat": 30.3488,
+    "lng": 130.8829
+  },
+  {
+    "id": "K-NET_KGS028",
+    "name": "鹿児島県 上屋久 (K-NET)",
+    "lat": 30.4204,
+    "lng": 130.5771
+  },
+  {
+    "id": "K-NET_KGS029",
+    "name": "鹿児島県 屋久 (K-NET)",
+    "lat": 30.2363,
+    "lng": 130.5553
+  },
+  {
+    "id": "K-NET_KGS030",
+    "name": "鹿児島県 笠利 (K-NET)",
+    "lat": 28.451,
+    "lng": 129.6784
+  },
+  {
+    "id": "K-NET_KGS031",
+    "name": "鹿児島県 大和 (K-NET)",
+    "lat": 28.3553,
+    "lng": 129.3924
+  },
+  {
+    "id": "K-NET_KGS032",
+    "name": "鹿児島県 瀬戸内 (K-NET)",
+    "lat": 28.1388,
+    "lng": 129.3206
+  },
+  {
+    "id": "K-NET_KGS033",
+    "name": "鹿児島県 伊仙 (K-NET)",
+    "lat": 27.6883,
+    "lng": 128.9421
+  },
+  {
+    "id": "K-NET_KGS034",
+    "name": "鹿児島県 知名 (K-NET)",
+    "lat": 27.334,
+    "lng": 128.5743
+  },
+  {
+    "id": "K-NET_KGS035",
+    "name": "鹿児島県 与論 (K-NET)",
+    "lat": 27.0522,
+    "lng": 128.4241
+  },
+  {
+    "id": "K-NET_KGS036",
+    "name": "鹿児島県 上甑 (K-NET)",
+    "lat": 31.836,
+    "lng": 129.8678
+  },
+  {
+    "id": "K-NET_KGS037",
+    "name": "鹿児島県 下甑 (K-NET)",
+    "lat": 31.639,
+    "lng": 129.7078
+  },
+  {
+    "id": "KiK-net_KGSH01",
+    "name": "鹿児島県 長島 (KiK-net)",
+    "lat": 32.1554,
+    "lng": 130.1191
+  },
+  {
+    "id": "KiK-net_KGSH02",
+    "name": "鹿児島県 阿久根 (KiK-net)",
+    "lat": 31.994,
+    "lng": 130.2077
+  },
+  {
+    "id": "KiK-net_KGSH03",
+    "name": "鹿児島県 宮之城 (KiK-net)",
+    "lat": 31.9812,
+    "lng": 130.4438
+  },
+  {
+    "id": "KiK-net_KGSH04",
+    "name": "鹿児島県 川内 (KiK-net)",
+    "lat": 31.8374,
+    "lng": 130.3602
+  },
+  {
+    "id": "KiK-net_KGSH05",
+    "name": "鹿児島県 祁答院 (KiK-net)",
+    "lat": 31.8699,
+    "lng": 130.4958
+  },
+  {
+    "id": "KiK-net_KGSH06",
+    "name": "鹿児島県 郡山 (KiK-net)",
+    "lat": 31.6988,
+    "lng": 130.4594
+  },
+  {
+    "id": "KiK-net_KGSH07",
+    "name": "鹿児島県 姶良 (KiK-net)",
+    "lat": 31.714,
+    "lng": 130.6149
+  },
+  {
+    "id": "KiK-net_KGSH08",
+    "name": "鹿児島県 大隅 (KiK-net)",
+    "lat": 31.5618,
+    "lng": 130.9969
+  },
+  {
+    "id": "KiK-net_KGSH09",
+    "name": "鹿児島県 知覧 (KiK-net)",
+    "lat": 31.3741,
+    "lng": 130.4333
+  },
+  {
+    "id": "KiK-net_KGSH10",
+    "name": "鹿児島県 山川 (KiK-net)",
+    "lat": 31.2066,
+    "lng": 130.6183
+  },
+  {
+    "id": "KiK-net_KGSH11",
+    "name": "鹿児島県 佐多 (KiK-net)",
+    "lat": 31.0899,
+    "lng": 130.699
+  },
+  {
+    "id": "KiK-net_KGSH12",
+    "name": "鹿児島県 内之浦 (KiK-net)",
+    "lat": 31.2583,
+    "lng": 131.0877
+  },
+  {
+    "id": "KiK-net_KGSH13",
+    "name": "鹿児島県 鹿屋 (KiK-net)",
+    "lat": 31.4005,
+    "lng": 130.8541
+  },
+  {
+    "id": "K-NET_KGW001",
+    "name": "香川県 土庄 (K-NET)",
+    "lat": 34.5452,
+    "lng": 134.2804
+  },
+  {
+    "id": "K-NET_KGW002",
+    "name": "香川県 内海 (K-NET)",
+    "lat": 34.4724,
+    "lng": 134.3142
+  },
+  {
+    "id": "K-NET_KGW003",
+    "name": "香川県 丸亀 (K-NET)",
+    "lat": 34.2644,
+    "lng": 133.7896
+  },
+  {
+    "id": "K-NET_KGW004",
+    "name": "香川県 高松 (K-NET)",
+    "lat": 34.3473,
+    "lng": 134.0375
+  },
+  {
+    "id": "K-NET_KGW005",
+    "name": "香川県 観音寺 (K-NET)",
+    "lat": 34.1139,
+    "lng": 133.6353
+  },
+  {
+    "id": "K-NET_KGW006",
+    "name": "香川県 長尾 (K-NET)",
+    "lat": 34.2499,
+    "lng": 134.1856
+  },
+  {
+    "id": "K-NET_KGW007",
+    "name": "香川県 引田 (K-NET)",
+    "lat": 34.213,
+    "lng": 134.4133
+  },
+  {
+    "id": "K-NET_KGW008",
+    "name": "香川県 琴南 (K-NET)",
+    "lat": 34.1645,
+    "lng": 133.9241
+  },
+  {
+    "id": "KiK-net_KGWH01",
+    "name": "香川県 綾上 (KiK-net)",
+    "lat": 34.2186,
+    "lng": 133.9493
+  },
+  {
+    "id": "KiK-net_KGWH02",
+    "name": "香川県 三野 (KiK-net)",
+    "lat": 34.198,
+    "lng": 133.7081
+  },
+  {
+    "id": "KiK-net_KGWH03",
+    "name": "香川県 三木 (KiK-net)",
+    "lat": 34.27,
+    "lng": 134.1482
+  },
+  {
+    "id": "KiK-net_KGWH04",
+    "name": "香川県 大内 (KiK-net)",
+    "lat": 34.2264,
+    "lng": 134.3043
+  },
+  {
+    "id": "KiK-net_KGWH05",
+    "name": "香川県 内海 (KiK-net)",
+    "lat": 34.4572,
+    "lng": 134.3241
+  },
+  {
+    "id": "KiK-net_KKWH01",
+    "name": "北海道 美深北 (KiK-net)",
+    "lat": 44.5973,
+    "lng": 142.3036
+  },
+  {
+    "id": "KiK-net_KKWH02",
+    "name": "北海道 美深東 (KiK-net)",
+    "lat": 44.5509,
+    "lng": 142.5736
+  },
+  {
+    "id": "KiK-net_KKWH03",
+    "name": "北海道 美深西 (KiK-net)",
+    "lat": 44.4732,
+    "lng": 142.2725
+  },
+  {
+    "id": "KiK-net_KKWH04",
+    "name": "北海道 名寄 (KiK-net)",
+    "lat": 44.4376,
+    "lng": 142.4056
+  },
+  {
+    "id": "KiK-net_KKWH05",
+    "name": "北海道 下川西 (KiK-net)",
+    "lat": 44.2921,
+    "lng": 142.6303
+  },
+  {
+    "id": "KiK-net_KKWH06",
+    "name": "北海道 下川東 (KiK-net)",
+    "lat": 44.3207,
+    "lng": 142.7656
+  },
+  {
+    "id": "KiK-net_KKWH07",
+    "name": "北海道 富良野 (KiK-net)",
+    "lat": 43.3697,
+    "lng": 142.3409
+  },
+  {
+    "id": "KiK-net_KKWH08",
+    "name": "北海道 占冠 (KiK-net)",
+    "lat": 43.0406,
+    "lng": 142.6562
+  },
+  {
+    "id": "KiK-net_KKWH09",
+    "name": "北海道 音威子府 (KiK-net)",
+    "lat": 44.7745,
+    "lng": 142.2542
+  },
+  {
+    "id": "KiK-net_KKWH10",
+    "name": "北海道 中川 (KiK-net)",
+    "lat": 44.6617,
+    "lng": 142.0528
+  },
+  {
+    "id": "KiK-net_KKWH11",
+    "name": "北海道 和寒 (KiK-net)",
+    "lat": 43.9754,
+    "lng": 142.2834
+  },
+  {
+    "id": "KiK-net_KKWH12",
+    "name": "北海道 美瑛東 (KiK-net)",
+    "lat": 43.5038,
+    "lng": 142.6006
+  },
+  {
+    "id": "KiK-net_KKWH13",
+    "name": "北海道 美瑛西 (KiK-net)",
+    "lat": 43.5113,
+    "lng": 142.3906
+  },
+  {
+    "id": "KiK-net_KKWH14",
+    "name": "北海道 中富良野 (KiK-net)",
+    "lat": 43.3841,
+    "lng": 142.5245
+  },
+  {
+    "id": "KiK-net_KKWH15",
+    "name": "北海道 上川 (KiK-net)",
+    "lat": 43.8546,
+    "lng": 142.7656
+  },
+  {
+    "id": "K-NET_KMM001",
+    "name": "熊本県 小国 (K-NET)",
+    "lat": 33.1211,
+    "lng": 131.0689
+  },
+  {
+    "id": "K-NET_KMM002",
+    "name": "熊本県 山鹿 (K-NET)",
+    "lat": 33.0189,
+    "lng": 130.6846
+  },
+  {
+    "id": "K-NET_KMM003",
+    "name": "熊本県 玉名 (K-NET)",
+    "lat": 32.9335,
+    "lng": 130.5477
+  },
+  {
+    "id": "K-NET_KMM004",
+    "name": "熊本県 一の宮 (K-NET)",
+    "lat": 32.9318,
+    "lng": 131.1203
+  },
+  {
+    "id": "K-NET_KMM005",
+    "name": "熊本県 大津 (K-NET)",
+    "lat": 32.8761,
+    "lng": 130.8771
+  },
+  {
+    "id": "K-NET_KMM006",
+    "name": "熊本県 熊本 (K-NET)",
+    "lat": 32.7934,
+    "lng": 130.7772
+  },
+  {
+    "id": "K-NET_KMM007",
+    "name": "熊本県 高森 (K-NET)",
+    "lat": 32.8268,
+    "lng": 131.1224
+  },
+  {
+    "id": "K-NET_KMM008",
+    "name": "熊本県 宇土 (K-NET)",
+    "lat": 32.6875,
+    "lng": 130.6598
+  },
+  {
+    "id": "K-NET_KMM009",
+    "name": "熊本県 矢部 (K-NET)",
+    "lat": 32.6864,
+    "lng": 130.9886
+  },
+  {
+    "id": "K-NET_KMM010",
+    "name": "熊本県 三角 (K-NET)",
+    "lat": 32.6134,
+    "lng": 130.4873
+  },
+  {
+    "id": "K-NET_KMM011",
+    "name": "熊本県 砥用 (K-NET)",
+    "lat": 32.6166,
+    "lng": 130.8635
+  },
+  {
+    "id": "K-NET_KMM012",
+    "name": "熊本県 八代 (K-NET)",
+    "lat": 32.5099,
+    "lng": 130.5908
+  },
+  {
+    "id": "K-NET_KMM013",
+    "name": "熊本県 田浦 (K-NET)",
+    "lat": 32.3644,
+    "lng": 130.5089
+  },
+  {
+    "id": "K-NET_KMM014",
+    "name": "熊本県 五木 (K-NET)",
+    "lat": 32.3961,
+    "lng": 130.8273
+  },
+  {
+    "id": "K-NET_KMM015",
+    "name": "熊本県 水俣 (K-NET)",
+    "lat": 32.2161,
+    "lng": 130.4059
+  },
+  {
+    "id": "K-NET_KMM016",
+    "name": "熊本県 人吉 (K-NET)",
+    "lat": 32.1965,
+    "lng": 130.7757
+  },
+  {
+    "id": "K-NET_KMM017",
+    "name": "熊本県 多良木 (K-NET)",
+    "lat": 32.2567,
+    "lng": 130.9245
+  },
+  {
+    "id": "K-NET_KMM018",
+    "name": "熊本県 龍ヶ岳 (K-NET)",
+    "lat": 32.3941,
+    "lng": 130.3898
+  },
+  {
+    "id": "K-NET_KMM019",
+    "name": "熊本県 本渡 (K-NET)",
+    "lat": 32.4548,
+    "lng": 130.1807
+  },
+  {
+    "id": "K-NET_KMM020",
+    "name": "熊本県 新和 (K-NET)",
+    "lat": 32.3636,
+    "lng": 130.1807
+  },
+  {
+    "id": "K-NET_KMM021",
+    "name": "熊本県 天草 (K-NET)",
+    "lat": 32.3793,
+    "lng": 129.9996
+  },
+  {
+    "id": "K-NET_KMM022",
+    "name": "熊本県 牛深 (K-NET)",
+    "lat": 32.1945,
+    "lng": 130.027
+  },
+  {
+    "id": "KiK-net_KMMH01",
+    "name": "熊本県 鹿北 (KiK-net)",
+    "lat": 33.1089,
+    "lng": 130.6949
+  },
+  {
+    "id": "KiK-net_KMMH02",
+    "name": "熊本県 小国 (KiK-net)",
+    "lat": 33.122,
+    "lng": 131.0629
+  },
+  {
+    "id": "KiK-net_KMMH03",
+    "name": "熊本県 菊池 (KiK-net)",
+    "lat": 32.9984,
+    "lng": 130.8301
+  },
+  {
+    "id": "KiK-net_KMMH04",
+    "name": "熊本県 阿蘇 (KiK-net)",
+    "lat": 32.9514,
+    "lng": 131.0199
+  },
+  {
+    "id": "KiK-net_KMMH05",
+    "name": "熊本県 波野 (KiK-net)",
+    "lat": 32.9553,
+    "lng": 131.2207
+  },
+  {
+    "id": "KiK-net_KMMH06",
+    "name": "熊本県 白水 (KiK-net)",
+    "lat": 32.8114,
+    "lng": 131.101
+  },
+  {
+    "id": "KiK-net_KMMH07",
+    "name": "熊本県 三角 (KiK-net)",
+    "lat": 32.6234,
+    "lng": 130.5584
+  },
+  {
+    "id": "KiK-net_KMMH08",
+    "name": "熊本県 矢部 (KiK-net)",
+    "lat": 32.6501,
+    "lng": 131.0251
+  },
+  {
+    "id": "KiK-net_KMMH09",
+    "name": "熊本県 泉 (KiK-net)",
+    "lat": 32.4901,
+    "lng": 130.9046
+  },
+  {
+    "id": "KiK-net_KMMH10",
+    "name": "熊本県 新和 (KiK-net)",
+    "lat": 32.3151,
+    "lng": 130.1811
+  },
+  {
+    "id": "KiK-net_KMMH11",
+    "name": "熊本県 芦北 (KiK-net)",
+    "lat": 32.2918,
+    "lng": 130.5777
+  },
+  {
+    "id": "KiK-net_KMMH12",
+    "name": "熊本県 人吉 (KiK-net)",
+    "lat": 32.2054,
+    "lng": 130.7371
+  },
+  {
+    "id": "KiK-net_KMMH13",
+    "name": "熊本県 上 (KiK-net)",
+    "lat": 32.2209,
+    "lng": 130.9096
+  },
+  {
+    "id": "KiK-net_KMMH14",
+    "name": "熊本県 豊野 (KiK-net)",
+    "lat": 32.6345,
+    "lng": 130.7521
+  },
+  {
+    "id": "KiK-net_KMMH15",
+    "name": "熊本県 水俣 (KiK-net)",
+    "lat": 32.1704,
+    "lng": 130.3647
+  },
+  {
+    "id": "KiK-net_KMMH16",
+    "name": "熊本県 益城 (KiK-net)",
+    "lat": 32.7967,
+    "lng": 130.8199
+  },
+  {
+    "id": "KiK-net_KMMH17",
+    "name": "熊本県 玉名 (KiK-net)",
+    "lat": 32.9873,
+    "lng": 130.5608
+  },
+  {
+    "id": "KiK-net_KMMH18",
+    "name": "熊本県 阿蘇2 (KiK-net)",
+    "lat": 33.0031,
+    "lng": 131.0071
+  },
+  {
+    "id": "K-NET_KNG001",
+    "name": "神奈川県 川崎 (K-NET)",
+    "lat": 35.5291,
+    "lng": 139.7061
+  },
+  {
+    "id": "K-NET_KNG002",
+    "name": "神奈川県 横浜 (K-NET)",
+    "lat": 35.4372,
+    "lng": 139.6334
+  },
+  {
+    "id": "K-NET_KNG003",
+    "name": "神奈川県 横須賀 (K-NET)",
+    "lat": 35.2731,
+    "lng": 139.6582
+  },
+  {
+    "id": "K-NET_KNG004",
+    "name": "神奈川県 三崎 (K-NET)",
+    "lat": 35.1563,
+    "lng": 139.64
+  },
+  {
+    "id": "K-NET_KNG005",
+    "name": "神奈川県 鎌倉 (K-NET)",
+    "lat": 35.3191,
+    "lng": 139.5461
+  },
+  {
+    "id": "K-NET_KNG006",
+    "name": "神奈川県 二俣川 (K-NET)",
+    "lat": 35.4541,
+    "lng": 139.5391
+  },
+  {
+    "id": "K-NET_KNG007",
+    "name": "神奈川県 藤沢 (K-NET)",
+    "lat": 35.3382,
+    "lng": 139.4926
+  },
+  {
+    "id": "K-NET_KNG008",
+    "name": "神奈川県 相模原 (K-NET)",
+    "lat": 35.5749,
+    "lng": 139.3262
+  },
+  {
+    "id": "K-NET_KNG009",
+    "name": "神奈川県 厚木 (K-NET)",
+    "lat": 35.4425,
+    "lng": 139.3621
+  },
+  {
+    "id": "K-NET_KNG010",
+    "name": "神奈川県 平塚 (K-NET)",
+    "lat": 35.3339,
+    "lng": 139.3446
+  },
+  {
+    "id": "K-NET_KNG011",
+    "name": "神奈川県 藤野 (K-NET)",
+    "lat": 35.6151,
+    "lng": 139.1554
+  },
+  {
+    "id": "K-NET_KNG012",
+    "name": "神奈川県 秦野 (K-NET)",
+    "lat": 35.3793,
+    "lng": 139.2044
+  },
+  {
+    "id": "K-NET_KNG013",
+    "name": "神奈川県 小田原 (K-NET)",
+    "lat": 35.2642,
+    "lng": 139.1521
+  },
+  {
+    "id": "K-NET_KNG014",
+    "name": "神奈川県 山北 (K-NET)",
+    "lat": 35.3609,
+    "lng": 139.0828
+  },
+  {
+    "id": "K-NET_KNG201",
+    "name": "- 平塚ST1 (K-NET)",
+    "lat": 34.5956,
+    "lng": 139.9183
+  },
+  {
+    "id": "K-NET_KNG202",
+    "name": "- 平塚ST2 (K-NET)",
+    "lat": 34.7396,
+    "lng": 139.8393
+  },
+  {
+    "id": "K-NET_KNG203",
+    "name": "- 平塚ST3 (K-NET)",
+    "lat": 34.7983,
+    "lng": 139.6435
+  },
+  {
+    "id": "K-NET_KNG204",
+    "name": "- 平塚ST4 (K-NET)",
+    "lat": 34.8931,
+    "lng": 139.5711
+  },
+  {
+    "id": "K-NET_KNG205",
+    "name": "- 平塚ST5 (K-NET)",
+    "lat": 34.9413,
+    "lng": 139.4213
+  },
+  {
+    "id": "K-NET_KNG206",
+    "name": "- 平塚ST6 (K-NET)",
+    "lat": 35.0966,
+    "lng": 139.3778
+  },
+  {
+    "id": "KiK-net_KNGH10",
+    "name": "神奈川県 横浜 (KiK-net)",
+    "lat": 35.4991,
+    "lng": 139.5195
+  },
+  {
+    "id": "KiK-net_KNGH11",
+    "name": "神奈川県 厚木 (KiK-net)",
+    "lat": 35.404,
+    "lng": 139.3539
+  },
+  {
+    "id": "KiK-net_KNGH18",
+    "name": "神奈川県 藤野 (KiK-net)",
+    "lat": 35.6437,
+    "lng": 139.1283
+  },
+  {
+    "id": "KiK-net_KNGH19",
+    "name": "神奈川県 山北中 (KiK-net)",
+    "lat": 35.4173,
+    "lng": 139.0436
+  },
+  {
+    "id": "KiK-net_KNGH20",
+    "name": "神奈川県 松田 (KiK-net)",
+    "lat": 35.3663,
+    "lng": 139.126
+  },
+  {
+    "id": "KiK-net_KNGH21",
+    "name": "神奈川県 清川 (KiK-net)",
+    "lat": 35.4628,
+    "lng": 139.2146
+  },
+  {
+    "id": "KiK-net_KNGH22",
+    "name": "神奈川県 山北南 (KiK-net)",
+    "lat": 35.3583,
+    "lng": 139.091
+  },
+  {
+    "id": "KiK-net_KNGH23",
+    "name": "神奈川県 葉山 (KiK-net)",
+    "lat": 35.2624,
+    "lng": 139.611
+  },
+  {
+    "id": "K-NET_KOC001",
+    "name": "高知県 東洋 (K-NET)",
+    "lat": 33.5277,
+    "lng": 134.2808
+  },
+  {
+    "id": "K-NET_KOC002",
+    "name": "高知県 室戸 (K-NET)",
+    "lat": 33.2946,
+    "lng": 134.1666
+  },
+  {
+    "id": "K-NET_KOC003",
+    "name": "高知県 安芸 (K-NET)",
+    "lat": 33.5014,
+    "lng": 133.9071
+  },
+  {
+    "id": "K-NET_KOC004",
+    "name": "高知県 物部 (K-NET)",
+    "lat": 33.6975,
+    "lng": 133.8764
+  },
+  {
+    "id": "K-NET_KOC005",
+    "name": "高知県 土佐山田 (K-NET)",
+    "lat": 33.5929,
+    "lng": 133.6923
+  },
+  {
+    "id": "K-NET_KOC006",
+    "name": "高知県 土佐 (K-NET)",
+    "lat": 33.4943,
+    "lng": 133.4166
+  },
+  {
+    "id": "K-NET_KOC007",
+    "name": "高知県 高知 (K-NET)",
+    "lat": 33.5612,
+    "lng": 133.5273
+  },
+  {
+    "id": "K-NET_KOC008",
+    "name": "高知県 本川 (K-NET)",
+    "lat": 33.7758,
+    "lng": 133.3467
+  },
+  {
+    "id": "K-NET_KOC009",
+    "name": "高知県 吾川 (K-NET)",
+    "lat": 33.5736,
+    "lng": 133.172
+  },
+  {
+    "id": "K-NET_KOC010",
+    "name": "高知県 須崎 (K-NET)",
+    "lat": 33.3929,
+    "lng": 133.2852
+  },
+  {
+    "id": "K-NET_KOC011",
+    "name": "高知県 檮原 (K-NET)",
+    "lat": 33.3982,
+    "lng": 132.8962
+  },
+  {
+    "id": "K-NET_KOC012",
+    "name": "高知県 大正 (K-NET)",
+    "lat": 33.1976,
+    "lng": 132.9758
+  },
+  {
+    "id": "K-NET_KOC013",
+    "name": "高知県 佐賀 (K-NET)",
+    "lat": 33.0797,
+    "lng": 133.1023
+  },
+  {
+    "id": "K-NET_KOC014",
+    "name": "高知県 中村 (K-NET)",
+    "lat": 32.9897,
+    "lng": 132.9403
+  },
+  {
+    "id": "K-NET_KOC015",
+    "name": "高知県 宿毛 (K-NET)",
+    "lat": 32.9393,
+    "lng": 132.7258
+  },
+  {
+    "id": "K-NET_KOC016",
+    "name": "高知県 土佐清水 (K-NET)",
+    "lat": 32.7359,
+    "lng": 132.9754
+  },
+  {
+    "id": "K-NET_KOC017",
+    "name": "高知県 大豊 (K-NET)",
+    "lat": 33.7844,
+    "lng": 133.7298
+  },
+  {
+    "id": "KiK-net_KOCH01",
+    "name": "高知県 北川 (KiK-net)",
+    "lat": 33.5421,
+    "lng": 134.1197
+  },
+  {
+    "id": "KiK-net_KOCH02",
+    "name": "高知県 吾北 (KiK-net)",
+    "lat": 33.7079,
+    "lng": 133.3641
+  },
+  {
+    "id": "KiK-net_KOCH03",
+    "name": "高知県 大正 (KiK-net)",
+    "lat": 33.2683,
+    "lng": 132.9891
+  },
+  {
+    "id": "KiK-net_KOCH04",
+    "name": "高知県 大月 (KiK-net)",
+    "lat": 32.8414,
+    "lng": 132.7066
+  },
+  {
+    "id": "KiK-net_KOCH05",
+    "name": "高知県 池川 (KiK-net)",
+    "lat": 33.6472,
+    "lng": 133.1444
+  },
+  {
+    "id": "KiK-net_KOCH06",
+    "name": "高知県 中村 (KiK-net)",
+    "lat": 33.0754,
+    "lng": 132.9524
+  },
+  {
+    "id": "KiK-net_KOCH07",
+    "name": "高知県 須崎 (KiK-net)",
+    "lat": 33.392,
+    "lng": 133.2866
+  },
+  {
+    "id": "KiK-net_KOCH08",
+    "name": "高知県 土佐清水 (KiK-net)",
+    "lat": 32.7797,
+    "lng": 132.9718
+  },
+  {
+    "id": "KiK-net_KOCH09",
+    "name": "高知県 香北 (KiK-net)",
+    "lat": 33.6748,
+    "lng": 133.8243
+  },
+  {
+    "id": "KiK-net_KOCH10",
+    "name": "高知県 伊野 (KiK-net)",
+    "lat": 33.5313,
+    "lng": 133.4388
+  },
+  {
+    "id": "KiK-net_KOCH11",
+    "name": "高知県 室戸 (KiK-net)",
+    "lat": 33.2866,
+    "lng": 134.1603
+  },
+  {
+    "id": "KiK-net_KOCH12",
+    "name": "高知県 芸西 (KiK-net)",
+    "lat": 33.5294,
+    "lng": 133.8192
+  },
+  {
+    "id": "KiK-net_KOCH13",
+    "name": "高知県 本山 (KiK-net)",
+    "lat": 33.7543,
+    "lng": 133.576
+  },
+  {
+    "id": "KiK-net_KSRH01",
+    "name": "北海道 阿寒北 (KiK-net)",
+    "lat": 43.4361,
+    "lng": 144.0844
+  },
+  {
+    "id": "KiK-net_KSRH02",
+    "name": "北海道 阿寒南 (KiK-net)",
+    "lat": 43.1142,
+    "lng": 144.123
+  },
+  {
+    "id": "KiK-net_KSRH03",
+    "name": "北海道 標茶北 (KiK-net)",
+    "lat": 43.3848,
+    "lng": 144.6279
+  },
+  {
+    "id": "KiK-net_KSRH04",
+    "name": "北海道 標茶南 (KiK-net)",
+    "lat": 43.2139,
+    "lng": 144.6804
+  },
+  {
+    "id": "KiK-net_KSRH05",
+    "name": "北海道 鶴居西 (KiK-net)",
+    "lat": 43.2556,
+    "lng": 144.2338
+  },
+  {
+    "id": "KiK-net_KSRH06",
+    "name": "北海道 鶴居東 (KiK-net)",
+    "lat": 43.22,
+    "lng": 144.4285
+  },
+  {
+    "id": "KiK-net_KSRH07",
+    "name": "北海道 鶴居南 (KiK-net)",
+    "lat": 43.1359,
+    "lng": 144.3274
+  },
+  {
+    "id": "KiK-net_KSRH08",
+    "name": "北海道 白糠北 (KiK-net)",
+    "lat": 43.1603,
+    "lng": 143.8936
+  },
+  {
+    "id": "KiK-net_KSRH09",
+    "name": "北海道 白糠南 (KiK-net)",
+    "lat": 42.9856,
+    "lng": 143.9841
+  },
+  {
+    "id": "KiK-net_KSRH10",
+    "name": "北海道 浜中 (KiK-net)",
+    "lat": 43.2084,
+    "lng": 145.1168
+  },
+  {
+    "id": "K-NET_KYT001",
+    "name": "京都府 丹後 (K-NET)",
+    "lat": 35.7404,
+    "lng": 135.1019
+  },
+  {
+    "id": "K-NET_KYT002",
+    "name": "京都府 久美浜 (K-NET)",
+    "lat": 35.6038,
+    "lng": 134.8945
+  },
+  {
+    "id": "K-NET_KYT003",
+    "name": "京都府 伊根 (K-NET)",
+    "lat": 35.6762,
+    "lng": 135.2927
+  },
+  {
+    "id": "K-NET_KYT004",
+    "name": "京都府 宮津 (K-NET)",
+    "lat": 35.5356,
+    "lng": 135.1959
+  },
+  {
+    "id": "K-NET_KYT005",
+    "name": "京都府 舞鶴 (K-NET)",
+    "lat": 35.4756,
+    "lng": 135.3893
+  },
+  {
+    "id": "K-NET_KYT006",
+    "name": "京都府 福知山 (K-NET)",
+    "lat": 35.2766,
+    "lng": 135.182
+  },
+  {
+    "id": "K-NET_KYT007",
+    "name": "京都府 芦生 (K-NET)",
+    "lat": 35.3063,
+    "lng": 135.712
+  },
+  {
+    "id": "K-NET_KYT008",
+    "name": "京都府 本庄 (K-NET)",
+    "lat": 35.261,
+    "lng": 135.3967
+  },
+  {
+    "id": "K-NET_KYT009",
+    "name": "京都府 日吉 (K-NET)",
+    "lat": 35.1639,
+    "lng": 135.5017
+  },
+  {
+    "id": "K-NET_KYT010",
+    "name": "京都府 大布施 (K-NET)",
+    "lat": 35.2098,
+    "lng": 135.7738
+  },
+  {
+    "id": "K-NET_KYT011",
+    "name": "京都府 亀岡 (K-NET)",
+    "lat": 35.0171,
+    "lng": 135.5637
+  },
+  {
+    "id": "K-NET_KYT012",
+    "name": "京都府 京都 (K-NET)",
+    "lat": 34.9977,
+    "lng": 135.8177
+  },
+  {
+    "id": "K-NET_KYT013",
+    "name": "京都府 宇治 (K-NET)",
+    "lat": 34.8784,
+    "lng": 135.8046
+  },
+  {
+    "id": "K-NET_KYT014",
+    "name": "京都府 南山城 (K-NET)",
+    "lat": 34.7731,
+    "lng": 135.9921
+  },
+  {
+    "id": "K-NET_KYT015",
+    "name": "京都府 広河原 (K-NET)",
+    "lat": 35.2496,
+    "lng": 135.7667
+  },
+  {
+    "id": "KiK-net_KYTH01",
+    "name": "京都府 野田川 (KiK-net)",
+    "lat": 35.5243,
+    "lng": 135.1243
+  },
+  {
+    "id": "KiK-net_KYTH02",
+    "name": "京都府 伊根 (KiK-net)",
+    "lat": 35.7101,
+    "lng": 135.2496
+  },
+  {
+    "id": "KiK-net_KYTH03",
+    "name": "京都府 福知山 (KiK-net)",
+    "lat": 35.313,
+    "lng": 135.1334
+  },
+  {
+    "id": "KiK-net_KYTH04",
+    "name": "京都府 美山 (KiK-net)",
+    "lat": 35.2685,
+    "lng": 135.5508
+  },
+  {
+    "id": "KiK-net_KYTH05",
+    "name": "京都府 網野 (KiK-net)",
+    "lat": 35.6814,
+    "lng": 135.0268
+  },
+  {
+    "id": "KiK-net_KYTH06",
+    "name": "京都府 亀岡 (KiK-net)",
+    "lat": 35.0469,
+    "lng": 135.4846
+  },
+  {
+    "id": "KiK-net_KYTH07",
+    "name": "京都府 久御山 (KiK-net)",
+    "lat": 34.8983,
+    "lng": 135.7461
+  },
+  {
+    "id": "KiK-net_KYTH08",
+    "name": "京都府 京都 (KiK-net)",
+    "lat": 35.0094,
+    "lng": 135.7304
+  },
+  {
+    "id": "K-NET_MIE001",
+    "name": "三重県 藤原 (K-NET)",
+    "lat": 35.1719,
+    "lng": 136.4948
+  },
+  {
+    "id": "K-NET_MIE002",
+    "name": "三重県 菰野 (K-NET)",
+    "lat": 35.0283,
+    "lng": 136.5069
+  },
+  {
+    "id": "K-NET_MIE003",
+    "name": "三重県 四日市 (K-NET)",
+    "lat": 34.9708,
+    "lng": 136.6356
+  },
+  {
+    "id": "K-NET_MIE004",
+    "name": "三重県 亀山 (K-NET)",
+    "lat": 34.8568,
+    "lng": 136.4489
+  },
+  {
+    "id": "K-NET_MIE005",
+    "name": "三重県 上野 (K-NET)",
+    "lat": 34.7679,
+    "lng": 136.1149
+  },
+  {
+    "id": "K-NET_MIE006",
+    "name": "三重県 津 (K-NET)",
+    "lat": 34.7178,
+    "lng": 136.5039
+  },
+  {
+    "id": "K-NET_MIE007",
+    "name": "三重県 白山 (K-NET)",
+    "lat": 34.6398,
+    "lng": 136.3399
+  },
+  {
+    "id": "K-NET_MIE008",
+    "name": "三重県 名張 (K-NET)",
+    "lat": 34.6291,
+    "lng": 136.1074
+  },
+  {
+    "id": "K-NET_MIE009",
+    "name": "三重県 松阪 (K-NET)",
+    "lat": 34.5752,
+    "lng": 136.5296
+  },
+  {
+    "id": "K-NET_MIE010",
+    "name": "三重県 伊勢 (K-NET)",
+    "lat": 34.4909,
+    "lng": 136.7331
+  },
+  {
+    "id": "K-NET_MIE011",
+    "name": "三重県 飯高 (K-NET)",
+    "lat": 34.4284,
+    "lng": 136.3328
+  },
+  {
+    "id": "K-NET_MIE012",
+    "name": "三重県 志摩 (K-NET)",
+    "lat": 34.2544,
+    "lng": 136.8229
+  },
+  {
+    "id": "K-NET_MIE013",
+    "name": "三重県 南島 (K-NET)",
+    "lat": 34.2778,
+    "lng": 136.4993
+  },
+  {
+    "id": "K-NET_MIE014",
+    "name": "三重県 尾鷲 (K-NET)",
+    "lat": 34.0636,
+    "lng": 136.1689
+  },
+  {
+    "id": "K-NET_MIE015",
+    "name": "三重県 熊野 (K-NET)",
+    "lat": 33.8788,
+    "lng": 136.0816
+  },
+  {
+    "id": "K-NET_MIE016",
+    "name": "三重県 紀和 (K-NET)",
+    "lat": 33.8764,
+    "lng": 135.9191
+  },
+  {
+    "id": "K-NET_MIE017",
+    "name": "三重県 宮川 (K-NET)",
+    "lat": 34.3628,
+    "lng": 136.3358
+  },
+  {
+    "id": "K-NET_MIE018",
+    "name": "三重県 椿世 (K-NET)",
+    "lat": 34.8701,
+    "lng": 136.4546
+  },
+  {
+    "id": "KiK-net_MIEH01",
+    "name": "三重県 四日市 (KiK-net)",
+    "lat": 34.9849,
+    "lng": 136.4563
+  },
+  {
+    "id": "KiK-net_MIEH02",
+    "name": "三重県 大山田 (KiK-net)",
+    "lat": 34.7662,
+    "lng": 136.2835
+  },
+  {
+    "id": "KiK-net_MIEH03",
+    "name": "三重県 嬉野 (KiK-net)",
+    "lat": 34.547,
+    "lng": 136.3692
+  },
+  {
+    "id": "KiK-net_MIEH04",
+    "name": "三重県 度会 (KiK-net)",
+    "lat": 34.3532,
+    "lng": 136.5866
+  },
+  {
+    "id": "KiK-net_MIEH05",
+    "name": "三重県 尾鷲 (KiK-net)",
+    "lat": 34.0637,
+    "lng": 136.1689
+  },
+  {
+    "id": "KiK-net_MIEH06",
+    "name": "三重県 宮川 (KiK-net)",
+    "lat": 34.358,
+    "lng": 136.3293
+  },
+  {
+    "id": "KiK-net_MIEH07",
+    "name": "三重県 志摩 (KiK-net)",
+    "lat": 34.2544,
+    "lng": 136.8216
+  },
+  {
+    "id": "KiK-net_MIEH08",
+    "name": "三重県 松阪 (KiK-net)",
+    "lat": 34.5424,
+    "lng": 136.5033
+  },
+  {
+    "id": "KiK-net_MIEH09",
+    "name": "三重県 紀宝 (KiK-net)",
+    "lat": 33.7644,
+    "lng": 135.9969
+  },
+  {
+    "id": "KiK-net_MIEH10",
+    "name": "三重県 芸濃 (KiK-net)",
+    "lat": 34.8224,
+    "lng": 136.4245
+  },
+  {
+    "id": "K-NET_MYG001",
+    "name": "宮城県 気仙沼 (K-NET)",
+    "lat": 38.9017,
+    "lng": 141.5709
+  },
+  {
+    "id": "K-NET_MYG002",
+    "name": "宮城県 歌津 (K-NET)",
+    "lat": 38.7261,
+    "lng": 141.511
+  },
+  {
+    "id": "K-NET_MYG003",
+    "name": "宮城県 東和 (K-NET)",
+    "lat": 38.7349,
+    "lng": 141.3116
+  },
+  {
+    "id": "K-NET_MYG004",
+    "name": "宮城県 築館 (K-NET)",
+    "lat": 38.7324,
+    "lng": 141.027
+  },
+  {
+    "id": "K-NET_MYG005",
+    "name": "宮城県 鳴子 (K-NET)",
+    "lat": 38.7989,
+    "lng": 140.6512
+  },
+  {
+    "id": "K-NET_MYG006",
+    "name": "宮城県 古川 (K-NET)",
+    "lat": 38.566,
+    "lng": 140.9767
+  },
+  {
+    "id": "K-NET_MYG007",
+    "name": "宮城県 豊里 (K-NET)",
+    "lat": 38.5877,
+    "lng": 141.251
+  },
+  {
+    "id": "K-NET_MYG008",
+    "name": "宮城県 北上 (K-NET)",
+    "lat": 38.5676,
+    "lng": 141.4267
+  },
+  {
+    "id": "K-NET_MYG009",
+    "name": "宮城県 大和 (K-NET)",
+    "lat": 38.4466,
+    "lng": 140.8871
+  },
+  {
+    "id": "K-NET_MYG010",
+    "name": "宮城県 石巻 (K-NET)",
+    "lat": 38.4292,
+    "lng": 141.2819
+  },
+  {
+    "id": "K-NET_MYG011",
+    "name": "宮城県 牡鹿 (K-NET)",
+    "lat": 38.302,
+    "lng": 141.5079
+  },
+  {
+    "id": "K-NET_MYG012",
+    "name": "宮城県 塩竈 (K-NET)",
+    "lat": 38.3288,
+    "lng": 141.0128
+  },
+  {
+    "id": "K-NET_MYG013",
+    "name": "宮城県 仙台 (K-NET)",
+    "lat": 38.2661,
+    "lng": 140.9286
+  },
+  {
+    "id": "K-NET_MYG014",
+    "name": "宮城県 作並 (K-NET)",
+    "lat": 38.3173,
+    "lng": 140.6362
+  },
+  {
+    "id": "K-NET_MYG015",
+    "name": "宮城県 岩沼 (K-NET)",
+    "lat": 38.1037,
+    "lng": 140.8708
+  },
+  {
+    "id": "K-NET_MYG016",
+    "name": "宮城県 白石 (K-NET)",
+    "lat": 38.0079,
+    "lng": 140.6212
+  },
+  {
+    "id": "K-NET_MYG017",
+    "name": "宮城県 角田 (K-NET)",
+    "lat": 37.976,
+    "lng": 140.7822
+  },
+  {
+    "id": "K-NET_MYG018",
+    "name": "宮城県 伊里前 (K-NET)",
+    "lat": 38.7194,
+    "lng": 141.5228
+  },
+  {
+    "id": "K-NET_MYG019",
+    "name": "宮城県 鳴子温泉 (K-NET)",
+    "lat": 38.7513,
+    "lng": 140.7226
+  },
+  {
+    "id": "KiK-net_MYGH01",
+    "name": "宮城県 仙台 (KiK-net)",
+    "lat": 38.24,
+    "lng": 140.9969
+  },
+  {
+    "id": "KiK-net_MYGH02",
+    "name": "宮城県 鳴子 (KiK-net)",
+    "lat": 38.8587,
+    "lng": 140.6513
+  },
+  {
+    "id": "KiK-net_MYGH03",
+    "name": "宮城県 唐桑 (KiK-net)",
+    "lat": 38.9207,
+    "lng": 141.6377
+  },
+  {
+    "id": "KiK-net_MYGH04",
+    "name": "宮城県 東和 (KiK-net)",
+    "lat": 38.786,
+    "lng": 141.3254
+  },
+  {
+    "id": "KiK-net_MYGH05",
+    "name": "宮城県 小野田 (KiK-net)",
+    "lat": 38.5793,
+    "lng": 140.7804
+  },
+  {
+    "id": "KiK-net_MYGH06",
+    "name": "宮城県 田尻 (KiK-net)",
+    "lat": 38.5907,
+    "lng": 141.071
+  },
+  {
+    "id": "KiK-net_MYGH07",
+    "name": "宮城県 川崎 (KiK-net)",
+    "lat": 38.1802,
+    "lng": 140.6405
+  },
+  {
+    "id": "KiK-net_MYGH08",
+    "name": "宮城県 岩沼 (KiK-net)",
+    "lat": 38.1133,
+    "lng": 140.8441
+  },
+  {
+    "id": "KiK-net_MYGH09",
+    "name": "宮城県 白石 (KiK-net)",
+    "lat": 38.0091,
+    "lng": 140.6027
+  },
+  {
+    "id": "KiK-net_MYGH10",
+    "name": "宮城県 山元 (KiK-net)",
+    "lat": 37.9411,
+    "lng": 140.8924
+  },
+  {
+    "id": "KiK-net_MYGH11",
+    "name": "宮城県 河北 (KiK-net)",
+    "lat": 38.5158,
+    "lng": 141.3421
+  },
+  {
+    "id": "KiK-net_MYGH12",
+    "name": "宮城県 志津川 (KiK-net)",
+    "lat": 38.6416,
+    "lng": 141.4428
+  },
+  {
+    "id": "KiK-net_MYGH13",
+    "name": "宮城県 南三陸 (KiK-net)",
+    "lat": 38.6993,
+    "lng": 141.4176
+  },
+  {
+    "id": "KiK-net_MYGH14",
+    "name": "宮城県 利府 (KiK-net)",
+    "lat": 38.34,
+    "lng": 140.9551
+  },
+  {
+    "id": "K-NET_MYZ001",
+    "name": "宮崎県 高千穂 (K-NET)",
+    "lat": 32.705,
+    "lng": 131.3086
+  },
+  {
+    "id": "K-NET_MYZ002",
+    "name": "宮崎県 北川 (K-NET)",
+    "lat": 32.6978,
+    "lng": 131.6833
+  },
+  {
+    "id": "K-NET_MYZ003",
+    "name": "宮崎県 延岡 (K-NET)",
+    "lat": 32.5659,
+    "lng": 131.6602
+  },
+  {
+    "id": "K-NET_MYZ004",
+    "name": "宮崎県 南郷 (K-NET)",
+    "lat": 32.3888,
+    "lng": 131.3338
+  },
+  {
+    "id": "K-NET_MYZ005",
+    "name": "宮崎県 日向 (K-NET)",
+    "lat": 32.4286,
+    "lng": 131.6009
+  },
+  {
+    "id": "K-NET_MYZ006",
+    "name": "宮崎県 都農 (K-NET)",
+    "lat": 32.2564,
+    "lng": 131.5609
+  },
+  {
+    "id": "K-NET_MYZ007",
+    "name": "宮崎県 西米良 (K-NET)",
+    "lat": 32.2351,
+    "lng": 131.1155
+  },
+  {
+    "id": "K-NET_MYZ008",
+    "name": "宮崎県 西都 (K-NET)",
+    "lat": 32.1056,
+    "lng": 131.3931
+  },
+  {
+    "id": "K-NET_MYZ009",
+    "name": "宮崎県 えびの (K-NET)",
+    "lat": 32.0461,
+    "lng": 130.8115
+  },
+  {
+    "id": "K-NET_MYZ010",
+    "name": "宮崎県 小林 (K-NET)",
+    "lat": 31.9968,
+    "lng": 130.9722
+  },
+  {
+    "id": "K-NET_MYZ011",
+    "name": "宮崎県 綾 (K-NET)",
+    "lat": 31.9951,
+    "lng": 131.2559
+  },
+  {
+    "id": "K-NET_MYZ012",
+    "name": "宮崎県 高崎 (K-NET)",
+    "lat": 31.8723,
+    "lng": 131.0684
+  },
+  {
+    "id": "K-NET_MYZ013",
+    "name": "宮崎県 宮崎 (K-NET)",
+    "lat": 31.9086,
+    "lng": 131.4188
+  },
+  {
+    "id": "K-NET_MYZ014",
+    "name": "宮崎県 田野 (K-NET)",
+    "lat": 31.8457,
+    "lng": 131.307
+  },
+  {
+    "id": "K-NET_MYZ015",
+    "name": "宮崎県 都城 (K-NET)",
+    "lat": 31.7182,
+    "lng": 131.0624
+  },
+  {
+    "id": "K-NET_MYZ016",
+    "name": "宮崎県 日南 (K-NET)",
+    "lat": 31.6131,
+    "lng": 131.3745
+  },
+  {
+    "id": "K-NET_MYZ017",
+    "name": "宮崎県 串間 (K-NET)",
+    "lat": 31.4639,
+    "lng": 131.2281
+  },
+  {
+    "id": "K-NET_MYZ018",
+    "name": "宮崎県 都井岬 (K-NET)",
+    "lat": 31.3987,
+    "lng": 131.3054
+  },
+  {
+    "id": "K-NET_MYZ019",
+    "name": "宮崎県 北郷 (K-NET)",
+    "lat": 32.5008,
+    "lng": 131.4444
+  },
+  {
+    "id": "K-NET_MYZ020",
+    "name": "宮崎県 椎葉 (K-NET)",
+    "lat": 32.4557,
+    "lng": 131.1472
+  },
+  {
+    "id": "KiK-net_MYZH01",
+    "name": "宮崎県 五ヶ瀬 (KiK-net)",
+    "lat": 32.6536,
+    "lng": 131.2257
+  },
+  {
+    "id": "KiK-net_MYZH02",
+    "name": "宮崎県 北川 (KiK-net)",
+    "lat": 32.6972,
+    "lng": 131.6829
+  },
+  {
+    "id": "KiK-net_MYZH03",
+    "name": "宮崎県 椎葉 (KiK-net)",
+    "lat": 32.4754,
+    "lng": 131.1043
+  },
+  {
+    "id": "KiK-net_MYZH04",
+    "name": "宮崎県 諸塚 (KiK-net)",
+    "lat": 32.5181,
+    "lng": 131.3349
+  },
+  {
+    "id": "KiK-net_MYZH05",
+    "name": "宮崎県 南郷 (KiK-net)",
+    "lat": 32.347,
+    "lng": 131.2668
+  },
+  {
+    "id": "KiK-net_MYZH06",
+    "name": "宮崎県 東郷 (KiK-net)",
+    "lat": 32.3607,
+    "lng": 131.4643
+  },
+  {
+    "id": "KiK-net_MYZH07",
+    "name": "宮崎県 西米良 (KiK-net)",
+    "lat": 32.1987,
+    "lng": 131.1946
+  },
+  {
+    "id": "KiK-net_MYZH08",
+    "name": "宮崎県 川南 (KiK-net)",
+    "lat": 32.2132,
+    "lng": 131.5309
+  },
+  {
+    "id": "KiK-net_MYZH09",
+    "name": "宮崎県 須木 (KiK-net)",
+    "lat": 32.0421,
+    "lng": 131.0618
+  },
+  {
+    "id": "KiK-net_MYZH10",
+    "name": "宮崎県 国富 (KiK-net)",
+    "lat": 32.0215,
+    "lng": 131.29
+  },
+  {
+    "id": "KiK-net_MYZH11",
+    "name": "宮崎県 佐土原 (KiK-net)",
+    "lat": 32.0208,
+    "lng": 131.47
+  },
+  {
+    "id": "KiK-net_MYZH12",
+    "name": "宮崎県 都城北 (KiK-net)",
+    "lat": 31.8643,
+    "lng": 130.9454
+  },
+  {
+    "id": "KiK-net_MYZH13",
+    "name": "宮崎県 都城南 (KiK-net)",
+    "lat": 31.7301,
+    "lng": 131.0791
+  },
+  {
+    "id": "KiK-net_MYZH14",
+    "name": "宮崎県 日南 (KiK-net)",
+    "lat": 31.5649,
+    "lng": 131.351
+  },
+  {
+    "id": "KiK-net_MYZH15",
+    "name": "宮崎県 日向 (KiK-net)",
+    "lat": 32.3654,
+    "lng": 131.5893
+  },
+  {
+    "id": "KiK-net_MYZH16",
+    "name": "宮崎県 延岡 (KiK-net)",
+    "lat": 32.506,
+    "lng": 131.6958
+  },
+  {
+    "id": "K-NET_NAR001",
+    "name": "奈良県 生駒 (K-NET)",
+    "lat": 34.7153,
+    "lng": 135.7276
+  },
+  {
+    "id": "K-NET_NAR002",
+    "name": "奈良県 奈良 (K-NET)",
+    "lat": 34.6682,
+    "lng": 135.8353
+  },
+  {
+    "id": "K-NET_NAR003",
+    "name": "奈良県 大和高田 (K-NET)",
+    "lat": 34.5171,
+    "lng": 135.7171
+  },
+  {
+    "id": "K-NET_NAR004",
+    "name": "奈良県 榛原 (K-NET)",
+    "lat": 34.5277,
+    "lng": 135.9511
+  },
+  {
+    "id": "K-NET_NAR005",
+    "name": "奈良県 五條 (K-NET)",
+    "lat": 34.3414,
+    "lng": 135.6844
+  },
+  {
+    "id": "K-NET_NAR006",
+    "name": "奈良県 川上 (K-NET)",
+    "lat": 34.3384,
+    "lng": 135.9545
+  },
+  {
+    "id": "K-NET_NAR007",
+    "name": "奈良県 大塔 (K-NET)",
+    "lat": 34.2214,
+    "lng": 135.7368
+  },
+  {
+    "id": "K-NET_NAR008",
+    "name": "奈良県 上北山 (K-NET)",
+    "lat": 34.1369,
+    "lng": 136.0063
+  },
+  {
+    "id": "K-NET_NAR009",
+    "name": "奈良県 十津川 (K-NET)",
+    "lat": 33.9396,
+    "lng": 135.753
+  },
+  {
+    "id": "KiK-net_NARH01",
+    "name": "奈良県 十津川西 (KiK-net)",
+    "lat": 33.9666,
+    "lng": 135.6489
+  },
+  {
+    "id": "KiK-net_NARH02",
+    "name": "奈良県 十津川東 (KiK-net)",
+    "lat": 33.9692,
+    "lng": 135.8574
+  },
+  {
+    "id": "KiK-net_NARH03",
+    "name": "奈良県 川上 (KiK-net)",
+    "lat": 34.2925,
+    "lng": 136.0022
+  },
+  {
+    "id": "KiK-net_NARH04",
+    "name": "奈良県 黒滝 (KiK-net)",
+    "lat": 34.3061,
+    "lng": 135.8369
+  },
+  {
+    "id": "KiK-net_NARH05",
+    "name": "奈良県 東吉野 (KiK-net)",
+    "lat": 34.4237,
+    "lng": 136.0294
+  },
+  {
+    "id": "KiK-net_NARH06",
+    "name": "奈良県 山添 (KiK-net)",
+    "lat": 34.6413,
+    "lng": 136.0512
+  },
+  {
+    "id": "KiK-net_NARH07",
+    "name": "奈良県 天理 (KiK-net)",
+    "lat": 34.5843,
+    "lng": 135.8541
+  },
+  {
+    "id": "K-NET_NGN001",
+    "name": "長野県 飯山 (K-NET)",
+    "lat": 36.8513,
+    "lng": 138.3657
+  },
+  {
+    "id": "K-NET_NGN002",
+    "name": "長野県 信濃 (K-NET)",
+    "lat": 36.8068,
+    "lng": 138.2069
+  },
+  {
+    "id": "K-NET_NGN003",
+    "name": "長野県 山ノ内 (K-NET)",
+    "lat": 36.74,
+    "lng": 138.4137
+  },
+  {
+    "id": "K-NET_NGN004",
+    "name": "長野県 長野 (K-NET)",
+    "lat": 36.6475,
+    "lng": 138.1941
+  },
+  {
+    "id": "K-NET_NGN005",
+    "name": "長野県 白馬 (K-NET)",
+    "lat": 36.6987,
+    "lng": 137.863
+  },
+  {
+    "id": "K-NET_NGN006",
+    "name": "長野県 大町 (K-NET)",
+    "lat": 36.5084,
+    "lng": 137.8514
+  },
+  {
+    "id": "K-NET_NGN007",
+    "name": "長野県 杭瀬下 (K-NET)",
+    "lat": 36.5344,
+    "lng": 138.1188
+  },
+  {
+    "id": "K-NET_NGN008",
+    "name": "長野県 上田 (K-NET)",
+    "lat": 36.4018,
+    "lng": 138.2483
+  },
+  {
+    "id": "K-NET_NGN009",
+    "name": "長野県 穂高 (K-NET)",
+    "lat": 36.3371,
+    "lng": 137.8718
+  },
+  {
+    "id": "K-NET_NGN010",
+    "name": "長野県 小諸 (K-NET)",
+    "lat": 36.3282,
+    "lng": 138.4349
+  },
+  {
+    "id": "K-NET_NGN011",
+    "name": "長野県 長門 (K-NET)",
+    "lat": 36.2718,
+    "lng": 138.2584
+  },
+  {
+    "id": "K-NET_NGN012",
+    "name": "長野県 松本 (K-NET)",
+    "lat": 36.2571,
+    "lng": 137.9796
+  },
+  {
+    "id": "K-NET_NGN013",
+    "name": "長野県 安曇 (K-NET)",
+    "lat": 36.1827,
+    "lng": 137.785
+  },
+  {
+    "id": "K-NET_NGN014",
+    "name": "長野県 小海 (K-NET)",
+    "lat": 36.0956,
+    "lng": 138.4839
+  },
+  {
+    "id": "K-NET_NGN015",
+    "name": "長野県 諏訪 (K-NET)",
+    "lat": 36.0451,
+    "lng": 138.1114
+  },
+  {
+    "id": "K-NET_NGN016",
+    "name": "長野県 富士見 (K-NET)",
+    "lat": 35.9133,
+    "lng": 138.2229
+  },
+  {
+    "id": "K-NET_NGN017",
+    "name": "長野県 楢川 (K-NET)",
+    "lat": 35.9749,
+    "lng": 137.8259
+  },
+  {
+    "id": "K-NET_NGN018",
+    "name": "長野県 王滝 (K-NET)",
+    "lat": 35.8129,
+    "lng": 137.5298
+  },
+  {
+    "id": "K-NET_NGN019",
+    "name": "長野県 木曽福島 (K-NET)",
+    "lat": 35.8561,
+    "lng": 137.708
+  },
+  {
+    "id": "K-NET_NGN020",
+    "name": "長野県 伊那 (K-NET)",
+    "lat": 35.8278,
+    "lng": 137.9548
+  },
+  {
+    "id": "K-NET_NGN021",
+    "name": "長野県 駒ヶ根 (K-NET)",
+    "lat": 35.7293,
+    "lng": 137.9336
+  },
+  {
+    "id": "K-NET_NGN022",
+    "name": "長野県 南木曽 (K-NET)",
+    "lat": 35.6053,
+    "lng": 137.6126
+  },
+  {
+    "id": "K-NET_NGN023",
+    "name": "長野県 大鹿 (K-NET)",
+    "lat": 35.5775,
+    "lng": 138.0338
+  },
+  {
+    "id": "K-NET_NGN024",
+    "name": "長野県 飯田 (K-NET)",
+    "lat": 35.5232,
+    "lng": 137.8382
+  },
+  {
+    "id": "K-NET_NGN025",
+    "name": "長野県 天龍 (K-NET)",
+    "lat": 35.2864,
+    "lng": 137.8571
+  },
+  {
+    "id": "KiK-net_NGNH03",
+    "name": "長野県 阿智2 (KiK-net)",
+    "lat": 35.4786,
+    "lng": 137.7346
+  },
+  {
+    "id": "KiK-net_NGNH07",
+    "name": "長野県 中野 (KiK-net)",
+    "lat": 36.7434,
+    "lng": 138.376
+  },
+  {
+    "id": "KiK-net_NGNH08",
+    "name": "長野県 三郷 (KiK-net)",
+    "lat": 36.2541,
+    "lng": 137.8591
+  },
+  {
+    "id": "KiK-net_NGNH09",
+    "name": "長野県 武石 (KiK-net)",
+    "lat": 36.2859,
+    "lng": 138.2491
+  },
+  {
+    "id": "KiK-net_NGNH10",
+    "name": "長野県 木祖 (KiK-net)",
+    "lat": 35.9632,
+    "lng": 137.7669
+  },
+  {
+    "id": "KiK-net_NGNH11",
+    "name": "長野県 富士見 (KiK-net)",
+    "lat": 35.9157,
+    "lng": 138.3052
+  },
+  {
+    "id": "KiK-net_NGNH12",
+    "name": "長野県 南牧 (KiK-net)",
+    "lat": 35.9696,
+    "lng": 138.4797
+  },
+  {
+    "id": "KiK-net_NGNH13",
+    "name": "長野県 喬木 (KiK-net)",
+    "lat": 35.5143,
+    "lng": 137.8767
+  },
+  {
+    "id": "KiK-net_NGNH14",
+    "name": "長野県 平谷 (KiK-net)",
+    "lat": 35.3095,
+    "lng": 137.6261
+  },
+  {
+    "id": "KiK-net_NGNH15",
+    "name": "長野県 辰野 (KiK-net)",
+    "lat": 36.0088,
+    "lng": 137.9305
+  },
+  {
+    "id": "KiK-net_NGNH16",
+    "name": "長野県 茅野 (KiK-net)",
+    "lat": 35.9465,
+    "lng": 138.1848
+  },
+  {
+    "id": "KiK-net_NGNH17",
+    "name": "長野県 佐久 (KiK-net)",
+    "lat": 36.1425,
+    "lng": 138.5504
+  },
+  {
+    "id": "KiK-net_NGNH18",
+    "name": "長野県 開田 (KiK-net)",
+    "lat": 35.9324,
+    "lng": 137.595
+  },
+  {
+    "id": "KiK-net_NGNH19",
+    "name": "長野県 川上 (KiK-net)",
+    "lat": 35.9735,
+    "lng": 138.5845
+  },
+  {
+    "id": "KiK-net_NGNH20",
+    "name": "長野県 上松 (KiK-net)",
+    "lat": 35.787,
+    "lng": 137.7173
+  },
+  {
+    "id": "KiK-net_NGNH21",
+    "name": "長野県 伊那 (KiK-net)",
+    "lat": 35.8315,
+    "lng": 137.9236
+  },
+  {
+    "id": "KiK-net_NGNH22",
+    "name": "長野県 長谷 (KiK-net)",
+    "lat": 35.7946,
+    "lng": 138.0824
+  },
+  {
+    "id": "KiK-net_NGNH23",
+    "name": "長野県 南木曽 (KiK-net)",
+    "lat": 35.6056,
+    "lng": 137.6105
+  },
+  {
+    "id": "KiK-net_NGNH24",
+    "name": "長野県 松川 (KiK-net)",
+    "lat": 35.6152,
+    "lng": 137.8797
+  },
+  {
+    "id": "KiK-net_NGNH25",
+    "name": "長野県 南信濃 (KiK-net)",
+    "lat": 35.2986,
+    "lng": 137.9268
+  },
+  {
+    "id": "KiK-net_NGNH26",
+    "name": "長野県 上山田 (KiK-net)",
+    "lat": 36.4663,
+    "lng": 138.1474
+  },
+  {
+    "id": "KiK-net_NGNH27",
+    "name": "長野県 信州新 (KiK-net)",
+    "lat": 36.577,
+    "lng": 138.0479
+  },
+  {
+    "id": "KiK-net_NGNH28",
+    "name": "長野県 戸隠 (KiK-net)",
+    "lat": 36.7075,
+    "lng": 138.0964
+  },
+  {
+    "id": "KiK-net_NGNH29",
+    "name": "長野県 野沢温泉 (KiK-net)",
+    "lat": 36.9102,
+    "lng": 138.4408
+  },
+  {
+    "id": "KiK-net_NGNH30",
+    "name": "長野県 奈川 (KiK-net)",
+    "lat": 36.064,
+    "lng": 137.6849
+  },
+  {
+    "id": "KiK-net_NGNH31",
+    "name": "長野県 塩尻 (KiK-net)",
+    "lat": 36.1184,
+    "lng": 137.9389
+  },
+  {
+    "id": "KiK-net_NGNH32",
+    "name": "長野県 松本 (KiK-net)",
+    "lat": 36.2578,
+    "lng": 137.9898
+  },
+  {
+    "id": "KiK-net_NGNH33",
+    "name": "長野県 生坂 (KiK-net)",
+    "lat": 36.4598,
+    "lng": 137.9637
+  },
+  {
+    "id": "KiK-net_NGNH34",
+    "name": "長野県 大町中 (KiK-net)",
+    "lat": 36.5327,
+    "lng": 137.8201
+  },
+  {
+    "id": "KiK-net_NGNH35",
+    "name": "長野県 穂高 (KiK-net)",
+    "lat": 36.3824,
+    "lng": 137.8201
+  },
+  {
+    "id": "KiK-net_NGNH36",
+    "name": "長野県 白馬 (KiK-net)",
+    "lat": 36.6984,
+    "lng": 137.8482
+  },
+  {
+    "id": "KiK-net_NGNH37",
+    "name": "長野県 御代田 (KiK-net)",
+    "lat": 36.3308,
+    "lng": 138.4967
+  },
+  {
+    "id": "KiK-net_NGNH54",
+    "name": "長野県 飯田 (KiK-net)",
+    "lat": 35.4489,
+    "lng": 138.0058
+  },
+  {
+    "id": "K-NET_NGS001",
+    "name": "長崎県 平戸 (K-NET)",
+    "lat": 33.3617,
+    "lng": 129.5377
+  },
+  {
+    "id": "K-NET_NGS002",
+    "name": "長崎県 松浦 (K-NET)",
+    "lat": 33.3442,
+    "lng": 129.7056
+  },
+  {
+    "id": "K-NET_NGS003",
+    "name": "長崎県 志々伎 (K-NET)",
+    "lat": 33.2016,
+    "lng": 129.4124
+  },
+  {
+    "id": "K-NET_NGS004",
+    "name": "長崎県 佐世保 (K-NET)",
+    "lat": 33.181,
+    "lng": 129.7173
+  },
+  {
+    "id": "K-NET_NGS005",
+    "name": "長崎県 東彼杵 (K-NET)",
+    "lat": 33.037,
+    "lng": 129.9173
+  },
+  {
+    "id": "K-NET_NGS006",
+    "name": "長崎県 大瀬戸 (K-NET)",
+    "lat": 32.933,
+    "lng": 129.6436
+  },
+  {
+    "id": "K-NET_NGS007",
+    "name": "長崎県 琴海 (K-NET)",
+    "lat": 32.9062,
+    "lng": 129.7804
+  },
+  {
+    "id": "K-NET_NGS008",
+    "name": "長崎県 小長井 (K-NET)",
+    "lat": 32.9233,
+    "lng": 130.1846
+  },
+  {
+    "id": "K-NET_NGS009",
+    "name": "長崎県 諫早 (K-NET)",
+    "lat": 32.8457,
+    "lng": 130.0216
+  },
+  {
+    "id": "K-NET_NGS010",
+    "name": "長崎県 長崎 (K-NET)",
+    "lat": 32.7351,
+    "lng": 129.8765
+  },
+  {
+    "id": "K-NET_NGS011",
+    "name": "長崎県 千々石 (K-NET)",
+    "lat": 32.7843,
+    "lng": 130.2023
+  },
+  {
+    "id": "K-NET_NGS012",
+    "name": "長崎県 島原 (K-NET)",
+    "lat": 32.7883,
+    "lng": 130.3463
+  },
+  {
+    "id": "K-NET_NGS013",
+    "name": "長崎県 野母崎 (K-NET)",
+    "lat": 32.581,
+    "lng": 129.7597
+  },
+  {
+    "id": "K-NET_NGS014",
+    "name": "長崎県 口之津 (K-NET)",
+    "lat": 32.6104,
+    "lng": 130.1851
+  },
+  {
+    "id": "K-NET_NGS015",
+    "name": "長崎県 宇久 (K-NET)",
+    "lat": 33.2557,
+    "lng": 129.1256
+  },
+  {
+    "id": "K-NET_NGS016",
+    "name": "長崎県 若松 (K-NET)",
+    "lat": 32.8876,
+    "lng": 129.0213
+  },
+  {
+    "id": "K-NET_NGS017",
+    "name": "長崎県 福江 (K-NET)",
+    "lat": 32.6693,
+    "lng": 128.8432
+  },
+  {
+    "id": "K-NET_NGS018",
+    "name": "長崎県 玉之浦 (K-NET)",
+    "lat": 32.634,
+    "lng": 128.6205
+  },
+  {
+    "id": "K-NET_NGS019",
+    "name": "長崎県 大村 (K-NET)",
+    "lat": 32.9003,
+    "lng": 129.9583
+  },
+  {
+    "id": "K-NET_NGS020",
+    "name": "長崎県 上対馬 (K-NET)",
+    "lat": 34.6551,
+    "lng": 129.4591
+  },
+  {
+    "id": "K-NET_NGS021",
+    "name": "長崎県 豊玉 (K-NET)",
+    "lat": 34.3971,
+    "lng": 129.3239
+  },
+  {
+    "id": "K-NET_NGS022",
+    "name": "長崎県 国分 (K-NET)",
+    "lat": 34.2031,
+    "lng": 129.2874
+  },
+  {
+    "id": "K-NET_NGS023",
+    "name": "長崎県 郷ノ浦 (K-NET)",
+    "lat": 33.75,
+    "lng": 129.691
+  },
+  {
+    "id": "KiK-net_NGSH01",
+    "name": "長崎県 平戸 (KiK-net)",
+    "lat": 33.2116,
+    "lng": 129.4353
+  },
+  {
+    "id": "KiK-net_NGSH02",
+    "name": "長崎県 佐世保北 (KiK-net)",
+    "lat": 33.2122,
+    "lng": 129.7652
+  },
+  {
+    "id": "KiK-net_NGSH03",
+    "name": "長崎県 佐世保南 (KiK-net)",
+    "lat": 33.1256,
+    "lng": 129.8102
+  },
+  {
+    "id": "KiK-net_NGSH04",
+    "name": "長崎県 琴海 (KiK-net)",
+    "lat": 32.9553,
+    "lng": 129.8026
+  },
+  {
+    "id": "KiK-net_NGSH05",
+    "name": "長崎県 高来 (KiK-net)",
+    "lat": 32.9103,
+    "lng": 130.1408
+  },
+  {
+    "id": "KiK-net_NGSH06",
+    "name": "長崎県 長崎 (KiK-net)",
+    "lat": 32.6999,
+    "lng": 129.8625
+  },
+  {
+    "id": "K-NET_NIG001",
+    "name": "新潟県 岩谷口 (K-NET)",
+    "lat": 38.257,
+    "lng": 138.4318
+  },
+  {
+    "id": "K-NET_NIG002",
+    "name": "新潟県 両津 (K-NET)",
+    "lat": 38.0748,
+    "lng": 138.4407
+  },
+  {
+    "id": "K-NET_NIG003",
+    "name": "新潟県 佐和田 (K-NET)",
+    "lat": 37.9977,
+    "lng": 138.3231
+  },
+  {
+    "id": "K-NET_NIG004",
+    "name": "新潟県 小木 (K-NET)",
+    "lat": 37.82,
+    "lng": 138.2788
+  },
+  {
+    "id": "K-NET_NIG005",
+    "name": "新潟県 松ヶ崎 (K-NET)",
+    "lat": 37.9207,
+    "lng": 138.4971
+  },
+  {
+    "id": "K-NET_NIG006",
+    "name": "新潟県 寒川 (K-NET)",
+    "lat": 38.4514,
+    "lng": 139.4963
+  },
+  {
+    "id": "K-NET_NIG007",
+    "name": "新潟県 村上 (K-NET)",
+    "lat": 38.2306,
+    "lng": 139.4863
+  },
+  {
+    "id": "K-NET_NIG008",
+    "name": "新潟県 中条 (K-NET)",
+    "lat": 38.0514,
+    "lng": 139.4086
+  },
+  {
+    "id": "K-NET_NIG009",
+    "name": "新潟県 新発田 (K-NET)",
+    "lat": 37.951,
+    "lng": 139.3377
+  },
+  {
+    "id": "K-NET_NIG010",
+    "name": "新潟県 新潟 (K-NET)",
+    "lat": 37.9144,
+    "lng": 139.0107
+  },
+  {
+    "id": "K-NET_NIG011",
+    "name": "新潟県 新津 (K-NET)",
+    "lat": 37.8012,
+    "lng": 139.1457
+  },
+  {
+    "id": "K-NET_NIG012",
+    "name": "新潟県 鹿瀬 (K-NET)",
+    "lat": 37.6863,
+    "lng": 139.4771
+  },
+  {
+    "id": "K-NET_NIG013",
+    "name": "新潟県 巻 (K-NET)",
+    "lat": 37.7634,
+    "lng": 138.883
+  },
+  {
+    "id": "K-NET_NIG014",
+    "name": "新潟県 三条 (K-NET)",
+    "lat": 37.6412,
+    "lng": 138.9553
+  },
+  {
+    "id": "K-NET_NIG015",
+    "name": "新潟県 村松 (K-NET)",
+    "lat": 37.6938,
+    "lng": 139.1884
+  },
+  {
+    "id": "K-NET_NIG016",
+    "name": "新潟県 寺泊 (K-NET)",
+    "lat": 37.6458,
+    "lng": 138.773
+  },
+  {
+    "id": "K-NET_NIG017",
+    "name": "新潟県 長岡 (K-NET)",
+    "lat": 37.441,
+    "lng": 138.8425
+  },
+  {
+    "id": "K-NET_NIG018",
+    "name": "新潟県 柏崎 (K-NET)",
+    "lat": 37.3727,
+    "lng": 138.5583
+  },
+  {
+    "id": "K-NET_NIG019",
+    "name": "新潟県 小千谷 (K-NET)",
+    "lat": 37.3043,
+    "lng": 138.8121
+  },
+  {
+    "id": "K-NET_NIG020",
+    "name": "新潟県 小出 (K-NET)",
+    "lat": 37.2348,
+    "lng": 138.9621
+  },
+  {
+    "id": "K-NET_NIG021",
+    "name": "新潟県 十日町 (K-NET)",
+    "lat": 37.2011,
+    "lng": 138.7783
+  },
+  {
+    "id": "K-NET_NIG022",
+    "name": "新潟県 塩沢 (K-NET)",
+    "lat": 37.0366,
+    "lng": 138.8461
+  },
+  {
+    "id": "K-NET_NIG023",
+    "name": "新潟県 津南 (K-NET)",
+    "lat": 37.0134,
+    "lng": 138.6546
+  },
+  {
+    "id": "K-NET_NIG024",
+    "name": "新潟県 安塚 (K-NET)",
+    "lat": 37.1274,
+    "lng": 138.4442
+  },
+  {
+    "id": "K-NET_NIG025",
+    "name": "新潟県 直江津 (K-NET)",
+    "lat": 37.161,
+    "lng": 138.2234
+  },
+  {
+    "id": "K-NET_NIG026",
+    "name": "新潟県 新井 (K-NET)",
+    "lat": 37.0224,
+    "lng": 138.2506
+  },
+  {
+    "id": "K-NET_NIG027",
+    "name": "新潟県 糸魚川 (K-NET)",
+    "lat": 37.0235,
+    "lng": 137.8613
+  },
+  {
+    "id": "K-NET_NIG028",
+    "name": "新潟県 長岡支所 (K-NET)",
+    "lat": 37.4257,
+    "lng": 138.8856
+  },
+  {
+    "id": "KiK-net_NIGH01",
+    "name": "新潟県 長岡 (KiK-net)",
+    "lat": 37.4272,
+    "lng": 138.8876
+  },
+  {
+    "id": "KiK-net_NIGH02",
+    "name": "新潟県 朝日 (KiK-net)",
+    "lat": 38.2799,
+    "lng": 139.5486
+  },
+  {
+    "id": "KiK-net_NIGH03",
+    "name": "新潟県 荒川 (KiK-net)",
+    "lat": 38.1327,
+    "lng": 139.4289
+  },
+  {
+    "id": "KiK-net_NIGH04",
+    "name": "新潟県 関川 (KiK-net)",
+    "lat": 38.1313,
+    "lng": 139.5428
+  },
+  {
+    "id": "KiK-net_NIGH05",
+    "name": "新潟県 聖籠 (KiK-net)",
+    "lat": 37.9759,
+    "lng": 139.2788
+  },
+  {
+    "id": "KiK-net_NIGH06",
+    "name": "新潟県 加茂 (KiK-net)",
+    "lat": 37.6527,
+    "lng": 139.0676
+  },
+  {
+    "id": "KiK-net_NIGH07",
+    "name": "新潟県 村松 (KiK-net)",
+    "lat": 37.6658,
+    "lng": 139.261
+  },
+  {
+    "id": "KiK-net_NIGH08",
+    "name": "新潟県 津川 (KiK-net)",
+    "lat": 37.6708,
+    "lng": 139.4648
+  },
+  {
+    "id": "KiK-net_NIGH09",
+    "name": "新潟県 下田 (KiK-net)",
+    "lat": 37.5386,
+    "lng": 139.1279
+  },
+  {
+    "id": "KiK-net_NIGH10",
+    "name": "新潟県 上川 (KiK-net)",
+    "lat": 37.5438,
+    "lng": 139.3648
+  },
+  {
+    "id": "KiK-net_NIGH11",
+    "name": "新潟県 川西 (KiK-net)",
+    "lat": 37.1728,
+    "lng": 138.744
+  },
+  {
+    "id": "KiK-net_NIGH12",
+    "name": "新潟県 湯之谷 (KiK-net)",
+    "lat": 37.2239,
+    "lng": 138.9821
+  },
+  {
+    "id": "KiK-net_NIGH13",
+    "name": "新潟県 牧 (KiK-net)",
+    "lat": 37.0544,
+    "lng": 138.3966
+  },
+  {
+    "id": "KiK-net_NIGH14",
+    "name": "新潟県 塩沢 (KiK-net)",
+    "lat": 37.0303,
+    "lng": 138.8521
+  },
+  {
+    "id": "KiK-net_NIGH15",
+    "name": "新潟県 六日 (KiK-net)",
+    "lat": 37.0533,
+    "lng": 138.9951
+  },
+  {
+    "id": "KiK-net_NIGH16",
+    "name": "新潟県 糸魚川 (KiK-net)",
+    "lat": 36.9378,
+    "lng": 137.848
+  },
+  {
+    "id": "KiK-net_NIGH17",
+    "name": "新潟県 妙高高原 (KiK-net)",
+    "lat": 36.8569,
+    "lng": 138.0966
+  },
+  {
+    "id": "KiK-net_NIGH18",
+    "name": "新潟県 妙高 (KiK-net)",
+    "lat": 36.9425,
+    "lng": 138.2594
+  },
+  {
+    "id": "KiK-net_NIGH19",
+    "name": "新潟県 湯沢 (KiK-net)",
+    "lat": 36.8114,
+    "lng": 138.7849
+  },
+  {
+    "id": "KiK-net_NMRH01",
+    "name": "北海道 標津北 (KiK-net)",
+    "lat": 43.785,
+    "lng": 145.0246
+  },
+  {
+    "id": "KiK-net_NMRH02",
+    "name": "北海道 標津南 (KiK-net)",
+    "lat": 43.6772,
+    "lng": 144.9618
+  },
+  {
+    "id": "KiK-net_NMRH03",
+    "name": "北海道 中標津 (KiK-net)",
+    "lat": 43.5508,
+    "lng": 144.9665
+  },
+  {
+    "id": "KiK-net_NMRH04",
+    "name": "北海道 別海東 (KiK-net)",
+    "lat": 43.3978,
+    "lng": 145.1224
+  },
+  {
+    "id": "KiK-net_NMRH05",
+    "name": "北海道 別海西 (KiK-net)",
+    "lat": 43.39,
+    "lng": 144.8021
+  },
+  {
+    "id": "K-NET_OIT001",
+    "name": "大分県 国見 (K-NET)",
+    "lat": 33.6788,
+    "lng": 131.5949
+  },
+  {
+    "id": "K-NET_OIT002",
+    "name": "大分県 中津 (K-NET)",
+    "lat": 33.5691,
+    "lng": 131.2675
+  },
+  {
+    "id": "K-NET_OIT003",
+    "name": "大分県 豊後高田 (K-NET)",
+    "lat": 33.5575,
+    "lng": 131.446
+  },
+  {
+    "id": "K-NET_OIT004",
+    "name": "大分県 国東 (K-NET)",
+    "lat": 33.5659,
+    "lng": 131.7316
+  },
+  {
+    "id": "K-NET_OIT005",
+    "name": "大分県 耶馬渓 (K-NET)",
+    "lat": 33.4524,
+    "lng": 131.1142
+  },
+  {
+    "id": "K-NET_OIT006",
+    "name": "大分県 院内 (K-NET)",
+    "lat": 33.4211,
+    "lng": 131.3173
+  },
+  {
+    "id": "K-NET_OIT007",
+    "name": "大分県 杵築 (K-NET)",
+    "lat": 33.4169,
+    "lng": 131.6142
+  },
+  {
+    "id": "K-NET_OIT008",
+    "name": "大分県 天瀬 (K-NET)",
+    "lat": 33.2548,
+    "lng": 131.0197
+  },
+  {
+    "id": "K-NET_OIT009",
+    "name": "大分県 湯布院 (K-NET)",
+    "lat": 33.2568,
+    "lng": 131.3443
+  },
+  {
+    "id": "K-NET_OIT010",
+    "name": "大分県 大分 (K-NET)",
+    "lat": 33.2317,
+    "lng": 131.5934
+  },
+  {
+    "id": "K-NET_OIT011",
+    "name": "大分県 佐賀関 (K-NET)",
+    "lat": 33.2468,
+    "lng": 131.8816
+  },
+  {
+    "id": "K-NET_OIT012",
+    "name": "大分県 直入 (K-NET)",
+    "lat": 33.0666,
+    "lng": 131.3729
+  },
+  {
+    "id": "K-NET_OIT013",
+    "name": "大分県 犬飼 (K-NET)",
+    "lat": 33.0727,
+    "lng": 131.5934
+  },
+  {
+    "id": "K-NET_OIT014",
+    "name": "大分県 津久見 (K-NET)",
+    "lat": 33.0656,
+    "lng": 131.8588
+  },
+  {
+    "id": "K-NET_OIT015",
+    "name": "大分県 竹田 (K-NET)",
+    "lat": 32.9733,
+    "lng": 131.3998
+  },
+  {
+    "id": "K-NET_OIT016",
+    "name": "大分県 佐伯 (K-NET)",
+    "lat": 32.9748,
+    "lng": 131.903
+  },
+  {
+    "id": "K-NET_OIT017",
+    "name": "大分県 宇目 (K-NET)",
+    "lat": 32.8579,
+    "lng": 131.6576
+  },
+  {
+    "id": "K-NET_OIT018",
+    "name": "大分県 蒲江 (K-NET)",
+    "lat": 32.798,
+    "lng": 131.9255
+  },
+  {
+    "id": "KiK-net_OITH01",
+    "name": "大分県 山国 (KiK-net)",
+    "lat": 33.4122,
+    "lng": 131.0326
+  },
+  {
+    "id": "KiK-net_OITH02",
+    "name": "大分県 山香 (KiK-net)",
+    "lat": 33.4581,
+    "lng": 131.4429
+  },
+  {
+    "id": "KiK-net_OITH03",
+    "name": "大分県 安岐 (KiK-net)",
+    "lat": 33.4736,
+    "lng": 131.6856
+  },
+  {
+    "id": "KiK-net_OITH04",
+    "name": "大分県 庄内 (KiK-net)",
+    "lat": 33.1306,
+    "lng": 131.3473
+  },
+  {
+    "id": "KiK-net_OITH05",
+    "name": "大分県 野津原 (KiK-net)",
+    "lat": 33.1525,
+    "lng": 131.542
+  },
+  {
+    "id": "KiK-net_OITH06",
+    "name": "大分県 竹田 (KiK-net)",
+    "lat": 32.9726,
+    "lng": 131.3984
+  },
+  {
+    "id": "KiK-net_OITH07",
+    "name": "大分県 三重 (KiK-net)",
+    "lat": 32.987,
+    "lng": 131.5881
+  },
+  {
+    "id": "KiK-net_OITH08",
+    "name": "大分県 宇目西 (KiK-net)",
+    "lat": 32.8392,
+    "lng": 131.5357
+  },
+  {
+    "id": "KiK-net_OITH09",
+    "name": "大分県 宇目東 (KiK-net)",
+    "lat": 32.8486,
+    "lng": 131.6786
+  },
+  {
+    "id": "KiK-net_OITH10",
+    "name": "大分県 佐伯 (KiK-net)",
+    "lat": 32.9278,
+    "lng": 131.8695
+  },
+  {
+    "id": "KiK-net_OITH11",
+    "name": "大分県 九重 (KiK-net)",
+    "lat": 33.2844,
+    "lng": 131.2118
+  },
+  {
+    "id": "K-NET_OKN001",
+    "name": "沖縄県 国頭 (K-NET)",
+    "lat": 26.7402,
+    "lng": 128.1736
+  },
+  {
+    "id": "K-NET_OKN002",
+    "name": "沖縄県 名護 (K-NET)",
+    "lat": 26.5916,
+    "lng": 127.9767
+  },
+  {
+    "id": "K-NET_OKN003",
+    "name": "沖縄県 具志川 (K-NET)",
+    "lat": 26.38,
+    "lng": 127.8572
+  },
+  {
+    "id": "K-NET_OKN004",
+    "name": "沖縄県 那覇 (K-NET)",
+    "lat": 26.2497,
+    "lng": 127.6786
+  },
+  {
+    "id": "K-NET_OKN005",
+    "name": "沖縄県 知念 (K-NET)",
+    "lat": 26.1686,
+    "lng": 127.8267
+  },
+  {
+    "id": "K-NET_OKN006",
+    "name": "沖縄県 久米島 (K-NET)",
+    "lat": 26.3497,
+    "lng": 126.7479
+  },
+  {
+    "id": "K-NET_OKN007",
+    "name": "沖縄県 狩俣 (K-NET)",
+    "lat": 24.853,
+    "lng": 125.2964
+  },
+  {
+    "id": "K-NET_OKN008",
+    "name": "沖縄県 城辺 (K-NET)",
+    "lat": 24.7558,
+    "lng": 125.3864
+  },
+  {
+    "id": "K-NET_OKN009",
+    "name": "沖縄県 新栄 (K-NET)",
+    "lat": 24.3413,
+    "lng": 124.1526
+  },
+  {
+    "id": "K-NET_OKN010",
+    "name": "沖縄県 伊原間 (K-NET)",
+    "lat": 24.5088,
+    "lng": 124.282
+  },
+  {
+    "id": "K-NET_OKN011",
+    "name": "沖縄県 上原 (K-NET)",
+    "lat": 24.4324,
+    "lng": 123.7798
+  },
+  {
+    "id": "K-NET_OKY001",
+    "name": "岡山県 湯原 (K-NET)",
+    "lat": 35.1702,
+    "lng": 133.7311
+  },
+  {
+    "id": "K-NET_OKY002",
+    "name": "岡山県 加茂 (K-NET)",
+    "lat": 35.1785,
+    "lng": 134.0505
+  },
+  {
+    "id": "K-NET_OKY003",
+    "name": "岡山県 西粟倉 (K-NET)",
+    "lat": 35.1732,
+    "lng": 134.3346
+  },
+  {
+    "id": "K-NET_OKY004",
+    "name": "岡山県 新見 (K-NET)",
+    "lat": 34.9586,
+    "lng": 133.5018
+  },
+  {
+    "id": "K-NET_OKY005",
+    "name": "岡山県 落合 (K-NET)",
+    "lat": 35.0096,
+    "lng": 133.7318
+  },
+  {
+    "id": "K-NET_OKY006",
+    "name": "岡山県 津山 (K-NET)",
+    "lat": 35.0685,
+    "lng": 134.0054
+  },
+  {
+    "id": "K-NET_OKY007",
+    "name": "岡山県 高梁 (K-NET)",
+    "lat": 34.7805,
+    "lng": 133.6104
+  },
+  {
+    "id": "K-NET_OKY008",
+    "name": "岡山県 建部 (K-NET)",
+    "lat": 34.8688,
+    "lng": 133.9039
+  },
+  {
+    "id": "K-NET_OKY009",
+    "name": "岡山県 吉井 (K-NET)",
+    "lat": 34.9185,
+    "lng": 134.0931
+  },
+  {
+    "id": "K-NET_OKY010",
+    "name": "岡山県 備前 (K-NET)",
+    "lat": 34.7228,
+    "lng": 134.1229
+  },
+  {
+    "id": "K-NET_OKY011",
+    "name": "岡山県 岡山 (K-NET)",
+    "lat": 34.6554,
+    "lng": 133.9075
+  },
+  {
+    "id": "K-NET_OKY012",
+    "name": "岡山県 倉敷 (K-NET)",
+    "lat": 34.5897,
+    "lng": 133.754
+  },
+  {
+    "id": "K-NET_OKY013",
+    "name": "岡山県 笠岡 (K-NET)",
+    "lat": 34.5094,
+    "lng": 133.509
+  },
+  {
+    "id": "K-NET_OKY014",
+    "name": "岡山県 下津井 (K-NET)",
+    "lat": 34.4483,
+    "lng": 133.787
+  },
+  {
+    "id": "K-NET_OKY015",
+    "name": "岡山県 上斎原 (K-NET)",
+    "lat": 35.2793,
+    "lng": 133.926
+  },
+  {
+    "id": "KiK-net_OKYH01",
+    "name": "岡山県 玉野 (KiK-net)",
+    "lat": 34.507,
+    "lng": 133.8905
+  },
+  {
+    "id": "KiK-net_OKYH02",
+    "name": "岡山県 瀬戸 (KiK-net)",
+    "lat": 34.7501,
+    "lng": 134.0702
+  },
+  {
+    "id": "KiK-net_OKYH03",
+    "name": "岡山県 岡山 (KiK-net)",
+    "lat": 34.7783,
+    "lng": 133.789
+  },
+  {
+    "id": "KiK-net_OKYH04",
+    "name": "岡山県 真備 (KiK-net)",
+    "lat": 34.6429,
+    "lng": 133.6861
+  },
+  {
+    "id": "KiK-net_OKYH05",
+    "name": "岡山県 建部 (KiK-net)",
+    "lat": 34.8684,
+    "lng": 133.8527
+  },
+  {
+    "id": "KiK-net_OKYH06",
+    "name": "岡山県 美星 (KiK-net)",
+    "lat": 34.6756,
+    "lng": 133.5283
+  },
+  {
+    "id": "KiK-net_OKYH07",
+    "name": "岡山県 神郷 (KiK-net)",
+    "lat": 35.0493,
+    "lng": 133.3169
+  },
+  {
+    "id": "KiK-net_OKYH08",
+    "name": "岡山県 哲多 (KiK-net)",
+    "lat": 34.9103,
+    "lng": 133.4055
+  },
+  {
+    "id": "KiK-net_OKYH09",
+    "name": "岡山県 湯原 (KiK-net)",
+    "lat": 35.1809,
+    "lng": 133.6765
+  },
+  {
+    "id": "KiK-net_OKYH10",
+    "name": "岡山県 上斎原 (KiK-net)",
+    "lat": 35.2826,
+    "lng": 133.9263
+  },
+  {
+    "id": "KiK-net_OKYH11",
+    "name": "岡山県 勝央 (KiK-net)",
+    "lat": 35.0732,
+    "lng": 134.1162
+  },
+  {
+    "id": "KiK-net_OKYH12",
+    "name": "岡山県 大原 (KiK-net)",
+    "lat": 35.0999,
+    "lng": 134.319
+  },
+  {
+    "id": "KiK-net_OKYH13",
+    "name": "岡山県 日生 (KiK-net)",
+    "lat": 34.7283,
+    "lng": 134.2744
+  },
+  {
+    "id": "KiK-net_OKYH14",
+    "name": "岡山県 北房 (KiK-net)",
+    "lat": 34.9363,
+    "lng": 133.6205
+  },
+  {
+    "id": "K-NET_OSK001",
+    "name": "大阪府 能勢 (K-NET)",
+    "lat": 34.9688,
+    "lng": 135.396
+  },
+  {
+    "id": "K-NET_OSK002",
+    "name": "大阪府 高槻 (K-NET)",
+    "lat": 34.8572,
+    "lng": 135.5958
+  },
+  {
+    "id": "K-NET_OSK003",
+    "name": "大阪府 豊中 (K-NET)",
+    "lat": 34.7668,
+    "lng": 135.4684
+  },
+  {
+    "id": "K-NET_OSK004",
+    "name": "大阪府 四條畷 (K-NET)",
+    "lat": 34.7407,
+    "lng": 135.6396
+  },
+  {
+    "id": "K-NET_OSK005",
+    "name": "大阪府 大阪 (K-NET)",
+    "lat": 34.7256,
+    "lng": 135.5101
+  },
+  {
+    "id": "K-NET_OSK006",
+    "name": "大阪府 堺 (K-NET)",
+    "lat": 34.5894,
+    "lng": 135.471
+  },
+  {
+    "id": "K-NET_OSK007",
+    "name": "大阪府 羽曳野 (K-NET)",
+    "lat": 34.5575,
+    "lng": 135.606
+  },
+  {
+    "id": "K-NET_OSK008",
+    "name": "大阪府 岸和田 (K-NET)",
+    "lat": 34.4404,
+    "lng": 135.3918
+  },
+  {
+    "id": "K-NET_OSK009",
+    "name": "大阪府 河内長野 (K-NET)",
+    "lat": 34.4364,
+    "lng": 135.5805
+  },
+  {
+    "id": "K-NET_OSK010",
+    "name": "大阪府 泉南 (K-NET)",
+    "lat": 34.3744,
+    "lng": 135.2553
+  },
+  {
+    "id": "KiK-net_OSKH01",
+    "name": "大阪府 田尻 (KiK-net)",
+    "lat": 34.3977,
+    "lng": 135.2836
+  },
+  {
+    "id": "KiK-net_OSKH02",
+    "name": "大阪府 此花 (KiK-net)",
+    "lat": 34.6628,
+    "lng": 135.3896
+  },
+  {
+    "id": "KiK-net_OSKH03",
+    "name": "大阪府 太子 (KiK-net)",
+    "lat": 34.5248,
+    "lng": 135.6608
+  },
+  {
+    "id": "KiK-net_OSKH04",
+    "name": "大阪府 交野 (KiK-net)",
+    "lat": 34.763,
+    "lng": 135.7052
+  },
+  {
+    "id": "KiK-net_OSKH05",
+    "name": "大阪府 大阪 (KiK-net)",
+    "lat": 34.7159,
+    "lng": 135.5199
+  },
+  {
+    "id": "KiK-net_OSMH01",
+    "name": "北海道 知内 (KiK-net)",
+    "lat": 41.5977,
+    "lng": 140.4207
+  },
+  {
+    "id": "KiK-net_OSMH02",
+    "name": "北海道 上磯 (KiK-net)",
+    "lat": 41.8374,
+    "lng": 140.6331
+  },
+  {
+    "id": "KiK-net_RMIH01",
+    "name": "北海道 幌延 (KiK-net)",
+    "lat": 45.0167,
+    "lng": 142.0795
+  },
+  {
+    "id": "KiK-net_RMIH02",
+    "name": "北海道 天塩 (KiK-net)",
+    "lat": 44.8948,
+    "lng": 141.9251
+  },
+  {
+    "id": "KiK-net_RMIH03",
+    "name": "北海道 遠別 (KiK-net)",
+    "lat": 44.6359,
+    "lng": 141.8187
+  },
+  {
+    "id": "KiK-net_RMIH04",
+    "name": "北海道 小平東 (KiK-net)",
+    "lat": 44.0974,
+    "lng": 141.9621
+  },
+  {
+    "id": "KiK-net_RMIH05",
+    "name": "北海道 小平西 (KiK-net)",
+    "lat": 44.0254,
+    "lng": 141.7876
+  },
+  {
+    "id": "K-NET_SAG001",
+    "name": "佐賀県 鎮西 (K-NET)",
+    "lat": 33.5274,
+    "lng": 129.8772
+  },
+  {
+    "id": "K-NET_SAG002",
+    "name": "佐賀県 唐津 (K-NET)",
+    "lat": 33.4228,
+    "lng": 129.9192
+  },
+  {
+    "id": "K-NET_SAG003",
+    "name": "佐賀県 富士 (K-NET)",
+    "lat": 33.3732,
+    "lng": 130.2081
+  },
+  {
+    "id": "K-NET_SAG004",
+    "name": "佐賀県 伊万里 (K-NET)",
+    "lat": 33.2649,
+    "lng": 129.8813
+  },
+  {
+    "id": "K-NET_SAG005",
+    "name": "佐賀県 厳木 (K-NET)",
+    "lat": 33.3213,
+    "lng": 130.0645
+  },
+  {
+    "id": "K-NET_SAG006",
+    "name": "佐賀県 武雄 (K-NET)",
+    "lat": 33.1917,
+    "lng": 130.0317
+  },
+  {
+    "id": "K-NET_SAG007",
+    "name": "佐賀県 佐賀 (K-NET)",
+    "lat": 33.2626,
+    "lng": 130.3005
+  },
+  {
+    "id": "K-NET_SAG008",
+    "name": "佐賀県 鹿島 (K-NET)",
+    "lat": 33.1041,
+    "lng": 130.0998
+  },
+  {
+    "id": "KiK-net_SAGH01",
+    "name": "佐賀県 鎮西 (KiK-net)",
+    "lat": 33.508,
+    "lng": 129.8877
+  },
+  {
+    "id": "KiK-net_SAGH02",
+    "name": "佐賀県 伊万里 (KiK-net)",
+    "lat": 33.2656,
+    "lng": 129.8798
+  },
+  {
+    "id": "KiK-net_SAGH03",
+    "name": "佐賀県 富士 (KiK-net)",
+    "lat": 33.4098,
+    "lng": 130.2329
+  },
+  {
+    "id": "KiK-net_SAGH04",
+    "name": "佐賀県 東脊振 (KiK-net)",
+    "lat": 33.3654,
+    "lng": 130.4046
+  },
+  {
+    "id": "KiK-net_SAGH05",
+    "name": "佐賀県 白石 (KiK-net)",
+    "lat": 33.1806,
+    "lng": 130.1046
+  },
+  {
+    "id": "KiK-net_SBSH01",
+    "name": "北海道 古平 (KiK-net)",
+    "lat": 43.2341,
+    "lng": 140.6228
+  },
+  {
+    "id": "KiK-net_SBSH02",
+    "name": "北海道 泊 (KiK-net)",
+    "lat": 43.0527,
+    "lng": 140.5017
+  },
+  {
+    "id": "KiK-net_SBSH03",
+    "name": "北海道 赤井川 (KiK-net)",
+    "lat": 43.0842,
+    "lng": 140.8199
+  },
+  {
+    "id": "KiK-net_SBSH04",
+    "name": "北海道 共和 (KiK-net)",
+    "lat": 42.9758,
+    "lng": 140.6219
+  },
+  {
+    "id": "KiK-net_SBSH05",
+    "name": "北海道 倶知安 (KiK-net)",
+    "lat": 42.95,
+    "lng": 140.8223
+  },
+  {
+    "id": "KiK-net_SBSH06",
+    "name": "北海道 蘭越 (KiK-net)",
+    "lat": 42.8309,
+    "lng": 140.4831
+  },
+  {
+    "id": "KiK-net_SBSH07",
+    "name": "北海道 真狩 (KiK-net)",
+    "lat": 42.763,
+    "lng": 140.8084
+  },
+  {
+    "id": "KiK-net_SBSH08",
+    "name": "北海道 喜茂別 (KiK-net)",
+    "lat": 42.768,
+    "lng": 140.9766
+  },
+  {
+    "id": "KiK-net_SBSH09",
+    "name": "北海道 黒松内 (KiK-net)",
+    "lat": 42.6104,
+    "lng": 140.4841
+  },
+  {
+    "id": "KiK-net_SBSH10",
+    "name": "北海道 島牧 (KiK-net)",
+    "lat": 42.7797,
+    "lng": 140.1557
+  },
+  {
+    "id": "K-NET_SIG001",
+    "name": "滋賀県 余呉 (K-NET)",
+    "lat": 35.5399,
+    "lng": 136.2066
+  },
+  {
+    "id": "K-NET_SIG002",
+    "name": "滋賀県 今津 (K-NET)",
+    "lat": 35.4214,
+    "lng": 136.0243
+  },
+  {
+    "id": "K-NET_SIG003",
+    "name": "滋賀県 長浜 (K-NET)",
+    "lat": 35.3773,
+    "lng": 136.2642
+  },
+  {
+    "id": "K-NET_SIG004",
+    "name": "滋賀県 朽木 (K-NET)",
+    "lat": 35.3474,
+    "lng": 135.9187
+  },
+  {
+    "id": "K-NET_SIG005",
+    "name": "滋賀県 彦根 (K-NET)",
+    "lat": 35.2499,
+    "lng": 136.2414
+  },
+  {
+    "id": "K-NET_SIG006",
+    "name": "滋賀県 志賀 (K-NET)",
+    "lat": 35.2002,
+    "lng": 135.921
+  },
+  {
+    "id": "K-NET_SIG007",
+    "name": "滋賀県 近江八幡 (K-NET)",
+    "lat": 35.1339,
+    "lng": 136.0957
+  },
+  {
+    "id": "K-NET_SIG008",
+    "name": "滋賀県 永源寺 (K-NET)",
+    "lat": 35.0704,
+    "lng": 136.2946
+  },
+  {
+    "id": "K-NET_SIG009",
+    "name": "滋賀県 甲西 (K-NET)",
+    "lat": 35.0052,
+    "lng": 136.0841
+  },
+  {
+    "id": "K-NET_SIG010",
+    "name": "滋賀県 大津 (K-NET)",
+    "lat": 34.9719,
+    "lng": 135.8965
+  },
+  {
+    "id": "K-NET_SIG011",
+    "name": "滋賀県 信楽 (K-NET)",
+    "lat": 34.8781,
+    "lng": 136.0591
+  },
+  {
+    "id": "K-NET_SIG012",
+    "name": "滋賀県 甲賀 (K-NET)",
+    "lat": 34.9018,
+    "lng": 136.2324
+  },
+  {
+    "id": "KiK-net_SIGH01",
+    "name": "滋賀県 多賀 (KiK-net)",
+    "lat": 35.2383,
+    "lng": 136.3599
+  },
+  {
+    "id": "KiK-net_SIGH02",
+    "name": "滋賀県 大津 (KiK-net)",
+    "lat": 35.2482,
+    "lng": 135.8671
+  },
+  {
+    "id": "KiK-net_SIGH03",
+    "name": "滋賀県 信楽 (KiK-net)",
+    "lat": 34.853,
+    "lng": 136.0316
+  },
+  {
+    "id": "KiK-net_SIGH04",
+    "name": "滋賀県 日野 (KiK-net)",
+    "lat": 34.9638,
+    "lng": 136.261
+  },
+  {
+    "id": "K-NET_SIT001",
+    "name": "埼玉県 本庄 (K-NET)",
+    "lat": 36.2431,
+    "lng": 139.1938
+  },
+  {
+    "id": "K-NET_SIT002",
+    "name": "埼玉県 熊谷 (K-NET)",
+    "lat": 36.1478,
+    "lng": 139.3888
+  },
+  {
+    "id": "K-NET_SIT003",
+    "name": "埼玉県 久喜 (K-NET)",
+    "lat": 36.0721,
+    "lng": 139.6969
+  },
+  {
+    "id": "K-NET_SIT004",
+    "name": "埼玉県 長瀞 (K-NET)",
+    "lat": 36.1178,
+    "lng": 139.1044
+  },
+  {
+    "id": "K-NET_SIT005",
+    "name": "埼玉県 小川 (K-NET)",
+    "lat": 36.0563,
+    "lng": 139.2626
+  },
+  {
+    "id": "K-NET_SIT006",
+    "name": "埼玉県 秩父 (K-NET)",
+    "lat": 35.9959,
+    "lng": 139.0713
+  },
+  {
+    "id": "K-NET_SIT007",
+    "name": "埼玉県 東松山 (K-NET)",
+    "lat": 36.0542,
+    "lng": 139.3933
+  },
+  {
+    "id": "K-NET_SIT008",
+    "name": "埼玉県 春日部 (K-NET)",
+    "lat": 35.9829,
+    "lng": 139.7456
+  },
+  {
+    "id": "K-NET_SIT009",
+    "name": "埼玉県 川越 (K-NET)",
+    "lat": 35.9033,
+    "lng": 139.4826
+  },
+  {
+    "id": "K-NET_SIT010",
+    "name": "埼玉県 大宮 (K-NET)",
+    "lat": 35.9071,
+    "lng": 139.6478
+  },
+  {
+    "id": "K-NET_SIT011",
+    "name": "埼玉県 川口 (K-NET)",
+    "lat": 35.8098,
+    "lng": 139.7214
+  },
+  {
+    "id": "K-NET_SIT012",
+    "name": "埼玉県 飯能 (K-NET)",
+    "lat": 35.8403,
+    "lng": 139.3216
+  },
+  {
+    "id": "K-NET_SIT013",
+    "name": "埼玉県 所沢 (K-NET)",
+    "lat": 35.7966,
+    "lng": 139.4659
+  },
+  {
+    "id": "K-NET_SIT014",
+    "name": "埼玉県 中津川 (K-NET)",
+    "lat": 35.9954,
+    "lng": 138.801
+  },
+  {
+    "id": "KiK-net_SITH01",
+    "name": "埼玉県 岩槻 (KiK-net)",
+    "lat": 35.929,
+    "lng": 139.7349
+  },
+  {
+    "id": "KiK-net_SITH03",
+    "name": "埼玉県 日高 (KiK-net)",
+    "lat": 35.899,
+    "lng": 139.3843
+  },
+  {
+    "id": "KiK-net_SITH04",
+    "name": "埼玉県 所沢 (KiK-net)",
+    "lat": 35.8028,
+    "lng": 139.5353
+  },
+  {
+    "id": "KiK-net_SITH05",
+    "name": "埼玉県 神泉 (KiK-net)",
+    "lat": 36.1509,
+    "lng": 139.0504
+  },
+  {
+    "id": "KiK-net_SITH06",
+    "name": "埼玉県 川本 (KiK-net)",
+    "lat": 36.1131,
+    "lng": 139.2894
+  },
+  {
+    "id": "KiK-net_SITH07",
+    "name": "埼玉県 名栗 (KiK-net)",
+    "lat": 35.9118,
+    "lng": 139.1485
+  },
+  {
+    "id": "KiK-net_SITH08",
+    "name": "埼玉県 小鹿野 (KiK-net)",
+    "lat": 36.0274,
+    "lng": 138.9691
+  },
+  {
+    "id": "KiK-net_SITH09",
+    "name": "埼玉県 皆野 (KiK-net)",
+    "lat": 36.0715,
+    "lng": 139.0993
+  },
+  {
+    "id": "KiK-net_SITH10",
+    "name": "埼玉県 都幾川 (KiK-net)",
+    "lat": 35.9964,
+    "lng": 139.2191
+  },
+  {
+    "id": "KiK-net_SITH11",
+    "name": "埼玉県 飯能 (KiK-net)",
+    "lat": 35.8637,
+    "lng": 139.2726
+  },
+  {
+    "id": "KiK-net_SITH12",
+    "name": "埼玉県 都幾川2 (KiK-net)",
+    "lat": 35.9969,
+    "lng": 139.2194
+  },
+  {
+    "id": "K-NET_SMN001",
+    "name": "島根県 美保関 (K-NET)",
+    "lat": 35.5371,
+    "lng": 133.1614
+  },
+  {
+    "id": "K-NET_SMN002",
+    "name": "島根県 松江 (K-NET)",
+    "lat": 35.4713,
+    "lng": 133.0681
+  },
+  {
+    "id": "K-NET_SMN003",
+    "name": "島根県 横田 (K-NET)",
+    "lat": 35.1798,
+    "lng": 133.0934
+  },
+  {
+    "id": "K-NET_SMN004",
+    "name": "島根県 木次 (K-NET)",
+    "lat": 35.2875,
+    "lng": 132.9022
+  },
+  {
+    "id": "K-NET_SMN005",
+    "name": "島根県 出雲 (K-NET)",
+    "lat": 35.3608,
+    "lng": 132.7449
+  },
+  {
+    "id": "K-NET_SMN006",
+    "name": "島根県 大田 (K-NET)",
+    "lat": 35.1908,
+    "lng": 132.4981
+  },
+  {
+    "id": "K-NET_SMN007",
+    "name": "島根県 邑智 (K-NET)",
+    "lat": 35.0773,
+    "lng": 132.5919
+  },
+  {
+    "id": "K-NET_SMN008",
+    "name": "島根県 瑞穂 (K-NET)",
+    "lat": 34.8521,
+    "lng": 132.5308
+  },
+  {
+    "id": "K-NET_SMN009",
+    "name": "島根県 江津 (K-NET)",
+    "lat": 35.0117,
+    "lng": 132.2219
+  },
+  {
+    "id": "K-NET_SMN010",
+    "name": "島根県 浜田 (K-NET)",
+    "lat": 34.8876,
+    "lng": 132.0757
+  },
+  {
+    "id": "K-NET_SMN011",
+    "name": "島根県 匹見 (K-NET)",
+    "lat": 34.5722,
+    "lng": 132.0136
+  },
+  {
+    "id": "K-NET_SMN012",
+    "name": "島根県 六日市 (K-NET)",
+    "lat": 34.3551,
+    "lng": 131.9354
+  },
+  {
+    "id": "K-NET_SMN013",
+    "name": "島根県 益田 (K-NET)",
+    "lat": 34.6696,
+    "lng": 131.8461
+  },
+  {
+    "id": "K-NET_SMN014",
+    "name": "島根県 津和野 (K-NET)",
+    "lat": 34.4668,
+    "lng": 131.7747
+  },
+  {
+    "id": "K-NET_SMN015",
+    "name": "島根県 広瀬 (K-NET)",
+    "lat": 35.3653,
+    "lng": 133.1706
+  },
+  {
+    "id": "K-NET_SMN016",
+    "name": "島根県 掛合 (K-NET)",
+    "lat": 35.1959,
+    "lng": 132.8144
+  },
+  {
+    "id": "K-NET_SMN017",
+    "name": "島根県 西ノ島 (K-NET)",
+    "lat": 36.093,
+    "lng": 132.9838
+  },
+  {
+    "id": "K-NET_SMN018",
+    "name": "島根県 都万 (K-NET)",
+    "lat": 36.1969,
+    "lng": 133.2348
+  },
+  {
+    "id": "K-NET_SMN019",
+    "name": "島根県 布施 (K-NET)",
+    "lat": 36.2938,
+    "lng": 133.3526
+  },
+  {
+    "id": "K-NET_SMN020",
+    "name": "島根県 下宇部尾 (K-NET)",
+    "lat": 35.5347,
+    "lng": 133.1651
+  },
+  {
+    "id": "KiK-net_SMNH01",
+    "name": "島根県 伯太 (KiK-net)",
+    "lat": 35.2963,
+    "lng": 133.2604
+  },
+  {
+    "id": "KiK-net_SMNH02",
+    "name": "島根県 仁多 (KiK-net)",
+    "lat": 35.2235,
+    "lng": 133.0856
+  },
+  {
+    "id": "KiK-net_SMNH03",
+    "name": "島根県 佐田 (KiK-net)",
+    "lat": 35.2243,
+    "lng": 132.7223
+  },
+  {
+    "id": "KiK-net_SMNH04",
+    "name": "島根県 邑智 (KiK-net)",
+    "lat": 35.0918,
+    "lng": 132.5308
+  },
+  {
+    "id": "KiK-net_SMNH05",
+    "name": "島根県 羽須美 (KiK-net)",
+    "lat": 34.8697,
+    "lng": 132.6396
+  },
+  {
+    "id": "KiK-net_SMNH06",
+    "name": "島根県 金城 (KiK-net)",
+    "lat": 34.8839,
+    "lng": 132.2026
+  },
+  {
+    "id": "KiK-net_SMNH07",
+    "name": "島根県 美都 (KiK-net)",
+    "lat": 34.694,
+    "lng": 132.0402
+  },
+  {
+    "id": "KiK-net_SMNH08",
+    "name": "島根県 石見 (KiK-net)",
+    "lat": 34.8801,
+    "lng": 132.4208
+  },
+  {
+    "id": "KiK-net_SMNH09",
+    "name": "島根県 匹見 (KiK-net)",
+    "lat": 34.5725,
+    "lng": 132.0122
+  },
+  {
+    "id": "KiK-net_SMNH10",
+    "name": "島根県 美保関 (KiK-net)",
+    "lat": 35.5579,
+    "lng": 133.3004
+  },
+  {
+    "id": "KiK-net_SMNH11",
+    "name": "島根県 平田 (KiK-net)",
+    "lat": 35.4259,
+    "lng": 132.8008
+  },
+  {
+    "id": "KiK-net_SMNH12",
+    "name": "島根県 吉田 (KiK-net)",
+    "lat": 35.1634,
+    "lng": 132.8558
+  },
+  {
+    "id": "KiK-net_SMNH13",
+    "name": "島根県 江津 (KiK-net)",
+    "lat": 35.0087,
+    "lng": 132.3069
+  },
+  {
+    "id": "KiK-net_SMNH14",
+    "name": "島根県 六日市 (KiK-net)",
+    "lat": 34.3904,
+    "lng": 131.8925
+  },
+  {
+    "id": "KiK-net_SMNH15",
+    "name": "島根県 鹿島 (KiK-net)",
+    "lat": 35.5232,
+    "lng": 133.0226
+  },
+  {
+    "id": "KiK-net_SMNH16",
+    "name": "島根県 加茂 (KiK-net)",
+    "lat": 35.3422,
+    "lng": 132.8989
+  },
+  {
+    "id": "KiK-net_SOYH01",
+    "name": "北海道 猿払北 (KiK-net)",
+    "lat": 45.3346,
+    "lng": 142.1185
+  },
+  {
+    "id": "KiK-net_SOYH02",
+    "name": "北海道 猿払南 (KiK-net)",
+    "lat": 45.2163,
+    "lng": 142.2254
+  },
+  {
+    "id": "KiK-net_SOYH03",
+    "name": "北海道 稚内西 (KiK-net)",
+    "lat": 45.2531,
+    "lng": 141.6334
+  },
+  {
+    "id": "KiK-net_SOYH04",
+    "name": "北海道 稚内東 (KiK-net)",
+    "lat": 45.2303,
+    "lng": 141.8806
+  },
+  {
+    "id": "KiK-net_SOYH05",
+    "name": "北海道 稚内北 (KiK-net)",
+    "lat": 45.4883,
+    "lng": 141.885
+  },
+  {
+    "id": "KiK-net_SOYH06",
+    "name": "北海道 豊富 (KiK-net)",
+    "lat": 45.1019,
+    "lng": 141.7834
+  },
+  {
+    "id": "KiK-net_SOYH07",
+    "name": "北海道 浜頓別 (KiK-net)",
+    "lat": 45.1001,
+    "lng": 142.4307
+  },
+  {
+    "id": "KiK-net_SOYH08",
+    "name": "北海道 中頓別 (KiK-net)",
+    "lat": 44.9387,
+    "lng": 142.2247
+  },
+  {
+    "id": "KiK-net_SOYH09",
+    "name": "北海道 歌登北 (KiK-net)",
+    "lat": 44.857,
+    "lng": 142.4868
+  },
+  {
+    "id": "KiK-net_SOYH10",
+    "name": "北海道 歌登南 (KiK-net)",
+    "lat": 44.7433,
+    "lng": 142.6039
+  },
+  {
+    "id": "KiK-net_SRCH01",
+    "name": "北海道 幌加内北 (KiK-net)",
+    "lat": 44.2803,
+    "lng": 142.1594
+  },
+  {
+    "id": "KiK-net_SRCH02",
+    "name": "北海道 幌加内中 (KiK-net)",
+    "lat": 44.116,
+    "lng": 142.1414
+  },
+  {
+    "id": "KiK-net_SRCH03",
+    "name": "北海道 幌加内南 (KiK-net)",
+    "lat": 43.9994,
+    "lng": 142.1258
+  },
+  {
+    "id": "KiK-net_SRCH04",
+    "name": "北海道 沼田 (KiK-net)",
+    "lat": 43.8203,
+    "lng": 141.9397
+  },
+  {
+    "id": "KiK-net_SRCH05",
+    "name": "北海道 深川北 (KiK-net)",
+    "lat": 43.8243,
+    "lng": 142.1594
+  },
+  {
+    "id": "KiK-net_SRCH06",
+    "name": "北海道 深川南 (KiK-net)",
+    "lat": 43.6948,
+    "lng": 142.0776
+  },
+  {
+    "id": "KiK-net_SRCH07",
+    "name": "北海道 三笠 (KiK-net)",
+    "lat": 43.23,
+    "lng": 141.8978
+  },
+  {
+    "id": "KiK-net_SRCH08",
+    "name": "北海道 砂川 (KiK-net)",
+    "lat": 43.5138,
+    "lng": 141.909
+  },
+  {
+    "id": "KiK-net_SRCH09",
+    "name": "北海道 栗山 (KiK-net)",
+    "lat": 43.0587,
+    "lng": 141.8063
+  },
+  {
+    "id": "KiK-net_SRCH10",
+    "name": "北海道 夕張 (KiK-net)",
+    "lat": 42.993,
+    "lng": 142.0085
+  },
+  {
+    "id": "K-NET_SZO001",
+    "name": "静岡県 熱海 (K-NET)",
+    "lat": 35.1425,
+    "lng": 139.0798
+  },
+  {
+    "id": "K-NET_SZO002",
+    "name": "静岡県 伊東 (K-NET)",
+    "lat": 34.9653,
+    "lng": 139.103
+  },
+  {
+    "id": "K-NET_SZO003",
+    "name": "静岡県 東伊豆 (K-NET)",
+    "lat": 34.8158,
+    "lng": 139.0544
+  },
+  {
+    "id": "K-NET_SZO004",
+    "name": "静岡県 南伊豆 (K-NET)",
+    "lat": 34.6471,
+    "lng": 138.8193
+  },
+  {
+    "id": "K-NET_SZO005",
+    "name": "静岡県 松崎 (K-NET)",
+    "lat": 34.755,
+    "lng": 138.7841
+  },
+  {
+    "id": "K-NET_SZO006",
+    "name": "静岡県 土肥 (K-NET)",
+    "lat": 34.9111,
+    "lng": 138.7948
+  },
+  {
+    "id": "K-NET_SZO007",
+    "name": "静岡県 修善寺 (K-NET)",
+    "lat": 34.9771,
+    "lng": 138.9468
+  },
+  {
+    "id": "K-NET_SZO008",
+    "name": "静岡県 沼津 (K-NET)",
+    "lat": 35.1105,
+    "lng": 138.8436
+  },
+  {
+    "id": "K-NET_SZO009",
+    "name": "静岡県 裾野 (K-NET)",
+    "lat": 35.1972,
+    "lng": 138.9129
+  },
+  {
+    "id": "K-NET_SZO010",
+    "name": "静岡県 御殿場 (K-NET)",
+    "lat": 35.3134,
+    "lng": 138.9063
+  },
+  {
+    "id": "K-NET_SZO011",
+    "name": "静岡県 富士宮 (K-NET)",
+    "lat": 35.2129,
+    "lng": 138.6015
+  },
+  {
+    "id": "K-NET_SZO012",
+    "name": "静岡県 蒲原 (K-NET)",
+    "lat": 35.1257,
+    "lng": 138.6222
+  },
+  {
+    "id": "K-NET_SZO013",
+    "name": "静岡県 清水 (K-NET)",
+    "lat": 35.0409,
+    "lng": 138.4765
+  },
+  {
+    "id": "K-NET_SZO014",
+    "name": "静岡県 静岡 (K-NET)",
+    "lat": 34.9649,
+    "lng": 138.3741
+  },
+  {
+    "id": "K-NET_SZO015",
+    "name": "静岡県 梅ヶ島 (K-NET)",
+    "lat": 35.2433,
+    "lng": 138.341
+  },
+  {
+    "id": "K-NET_SZO016",
+    "name": "静岡県 焼津 (K-NET)",
+    "lat": 34.8564,
+    "lng": 138.312
+  },
+  {
+    "id": "K-NET_SZO017",
+    "name": "静岡県 浜岡 (K-NET)",
+    "lat": 34.6375,
+    "lng": 138.1286
+  },
+  {
+    "id": "K-NET_SZO018",
+    "name": "静岡県 榛原 (K-NET)",
+    "lat": 34.7389,
+    "lng": 138.2247
+  },
+  {
+    "id": "K-NET_SZO019",
+    "name": "静岡県 掛川 (K-NET)",
+    "lat": 34.7705,
+    "lng": 137.9989
+  },
+  {
+    "id": "K-NET_SZO020",
+    "name": "静岡県 川根 (K-NET)",
+    "lat": 35.0084,
+    "lng": 138.1474
+  },
+  {
+    "id": "K-NET_SZO021",
+    "name": "静岡県 本川根 (K-NET)",
+    "lat": 35.0978,
+    "lng": 138.1332
+  },
+  {
+    "id": "K-NET_SZO022",
+    "name": "静岡県 佐久間 (K-NET)",
+    "lat": 35.0918,
+    "lng": 137.8127
+  },
+  {
+    "id": "K-NET_SZO023",
+    "name": "静岡県 天竜 (K-NET)",
+    "lat": 34.8736,
+    "lng": 137.8167
+  },
+  {
+    "id": "K-NET_SZO024",
+    "name": "静岡県 浜松 (K-NET)",
+    "lat": 34.7104,
+    "lng": 137.7199
+  },
+  {
+    "id": "K-NET_SZO025",
+    "name": "静岡県 湖西 (K-NET)",
+    "lat": 34.7189,
+    "lng": 137.5318
+  },
+  {
+    "id": "K-NET_SZO026",
+    "name": "静岡県 春野 (K-NET)",
+    "lat": 34.9812,
+    "lng": 137.8964
+  },
+  {
+    "id": "K-NET_SZO027",
+    "name": "静岡県 西伊豆 (K-NET)",
+    "lat": 34.7809,
+    "lng": 138.7934
+  },
+  {
+    "id": "K-NET_SZO028",
+    "name": "静岡県 川奈 (K-NET)",
+    "lat": 34.9522,
+    "lng": 139.1379
+  },
+  {
+    "id": "KiK-net_SZOH21",
+    "name": "静岡県 森 (KiK-net)",
+    "lat": 34.8601,
+    "lng": 137.9426
+  },
+  {
+    "id": "KiK-net_SZOH22",
+    "name": "静岡県 黒俣 (KiK-net)",
+    "lat": 35.0332,
+    "lng": 138.1979
+  },
+  {
+    "id": "KiK-net_SZOH24",
+    "name": "静岡県 引佐 (KiK-net)",
+    "lat": 34.8343,
+    "lng": 137.6616
+  },
+  {
+    "id": "KiK-net_SZOH25",
+    "name": "静岡県 新居 (KiK-net)",
+    "lat": 34.6913,
+    "lng": 137.5604
+  },
+  {
+    "id": "KiK-net_SZOH26",
+    "name": "静岡県 袋井 (KiK-net)",
+    "lat": 34.7948,
+    "lng": 137.9034
+  },
+  {
+    "id": "KiK-net_SZOH28",
+    "name": "静岡県 浜松 (KiK-net)",
+    "lat": 34.6683,
+    "lng": 137.7441
+  },
+  {
+    "id": "KiK-net_SZOH29",
+    "name": "静岡県 静岡北 (KiK-net)",
+    "lat": 35.307,
+    "lng": 138.1973
+  },
+  {
+    "id": "KiK-net_SZOH30",
+    "name": "静岡県 水窪北 (KiK-net)",
+    "lat": 35.2233,
+    "lng": 137.9181
+  },
+  {
+    "id": "KiK-net_SZOH31",
+    "name": "静岡県 川根 (KiK-net)",
+    "lat": 34.9398,
+    "lng": 138.0767
+  },
+  {
+    "id": "KiK-net_SZOH32",
+    "name": "静岡県 龍山東 (KiK-net)",
+    "lat": 35.0086,
+    "lng": 137.8409
+  },
+  {
+    "id": "KiK-net_SZOH33",
+    "name": "静岡県 静岡南 (KiK-net)",
+    "lat": 35.0146,
+    "lng": 138.3526
+  },
+  {
+    "id": "KiK-net_SZOH34",
+    "name": "静岡県 清水北 (KiK-net)",
+    "lat": 35.1304,
+    "lng": 138.4243
+  },
+  {
+    "id": "KiK-net_SZOH35",
+    "name": "静岡県 伊東中 (KiK-net)",
+    "lat": 34.9467,
+    "lng": 139.0855
+  },
+  {
+    "id": "KiK-net_SZOH36",
+    "name": "静岡県 藤枝 (KiK-net)",
+    "lat": 34.9142,
+    "lng": 138.2008
+  },
+  {
+    "id": "KiK-net_SZOH37",
+    "name": "静岡県 芝川 (KiK-net)",
+    "lat": 35.2028,
+    "lng": 138.5659
+  },
+  {
+    "id": "KiK-net_SZOH38",
+    "name": "静岡県 函南 (KiK-net)",
+    "lat": 35.0854,
+    "lng": 138.9779
+  },
+  {
+    "id": "KiK-net_SZOH39",
+    "name": "静岡県 西伊豆西 (KiK-net)",
+    "lat": 34.7988,
+    "lng": 138.7724
+  },
+  {
+    "id": "KiK-net_SZOH40",
+    "name": "静岡県 河津 (KiK-net)",
+    "lat": 34.7832,
+    "lng": 138.97
+  },
+  {
+    "id": "KiK-net_SZOH41",
+    "name": "静岡県 南伊豆 (KiK-net)",
+    "lat": 34.6749,
+    "lng": 138.834
+  },
+  {
+    "id": "KiK-net_SZOH42",
+    "name": "静岡県 修善寺 (KiK-net)",
+    "lat": 34.9756,
+    "lng": 138.9128
+  },
+  {
+    "id": "KiK-net_SZOH43",
+    "name": "静岡県 清水南 (KiK-net)",
+    "lat": 34.9739,
+    "lng": 138.4924
+  },
+  {
+    "id": "KiK-net_SZOH53",
+    "name": "静岡県 掛川3 (KiK-net)",
+    "lat": 34.8768,
+    "lng": 138.0174
+  },
+  {
+    "id": "KiK-net_SZOH54",
+    "name": "静岡県 初島2 (KiK-net)",
+    "lat": 35.0417,
+    "lng": 139.1685
+  },
+  {
+    "id": "K-NET_TCG001",
+    "name": "栃木県 黒磯 (K-NET)",
+    "lat": 36.9432,
+    "lng": 140.0825
+  },
+  {
+    "id": "K-NET_TCG002",
+    "name": "栃木県 塩原 (K-NET)",
+    "lat": 36.9903,
+    "lng": 139.8029
+  },
+  {
+    "id": "K-NET_TCG003",
+    "name": "栃木県 藤原 (K-NET)",
+    "lat": 36.8153,
+    "lng": 139.7184
+  },
+  {
+    "id": "K-NET_TCG004",
+    "name": "栃木県 湯元 (K-NET)",
+    "lat": 36.8065,
+    "lng": 139.4221
+  },
+  {
+    "id": "K-NET_TCG005",
+    "name": "栃木県 矢板 (K-NET)",
+    "lat": 36.8061,
+    "lng": 139.9264
+  },
+  {
+    "id": "K-NET_TCG006",
+    "name": "栃木県 小川 (K-NET)",
+    "lat": 36.7638,
+    "lng": 140.1295
+  },
+  {
+    "id": "K-NET_TCG007",
+    "name": "栃木県 宇都宮 (K-NET)",
+    "lat": 36.5677,
+    "lng": 139.8873
+  },
+  {
+    "id": "K-NET_TCG008",
+    "name": "栃木県 鹿沼 (K-NET)",
+    "lat": 36.56,
+    "lng": 139.7676
+  },
+  {
+    "id": "K-NET_TCG009",
+    "name": "栃木県 今市 (K-NET)",
+    "lat": 36.7261,
+    "lng": 139.7159
+  },
+  {
+    "id": "K-NET_TCG010",
+    "name": "栃木県 足尾 (K-NET)",
+    "lat": 36.6348,
+    "lng": 139.4379
+  },
+  {
+    "id": "K-NET_TCG011",
+    "name": "栃木県 葛生 (K-NET)",
+    "lat": 36.3869,
+    "lng": 139.6144
+  },
+  {
+    "id": "K-NET_TCG012",
+    "name": "栃木県 小山 (K-NET)",
+    "lat": 36.2863,
+    "lng": 139.8048
+  },
+  {
+    "id": "K-NET_TCG013",
+    "name": "栃木県 真岡 (K-NET)",
+    "lat": 36.4368,
+    "lng": 140.0227
+  },
+  {
+    "id": "K-NET_TCG014",
+    "name": "栃木県 茂木 (K-NET)",
+    "lat": 36.5428,
+    "lng": 140.1804
+  },
+  {
+    "id": "K-NET_TCG015",
+    "name": "栃木県 芹沼 (K-NET)",
+    "lat": 36.7488,
+    "lng": 139.7144
+  },
+  {
+    "id": "K-NET_TCG016",
+    "name": "栃木県 北高岡 (K-NET)",
+    "lat": 36.5288,
+    "lng": 140.1558
+  },
+  {
+    "id": "KiK-net_TCGH06",
+    "name": "栃木県 真岡 (KiK-net)",
+    "lat": 36.4458,
+    "lng": 139.9509
+  },
+  {
+    "id": "KiK-net_TCGH07",
+    "name": "栃木県 栗山西 (KiK-net)",
+    "lat": 36.8817,
+    "lng": 139.4534
+  },
+  {
+    "id": "KiK-net_TCGH08",
+    "name": "栃木県 栗山東 (KiK-net)",
+    "lat": 36.8828,
+    "lng": 139.6459
+  },
+  {
+    "id": "KiK-net_TCGH09",
+    "name": "栃木県 矢板 (KiK-net)",
+    "lat": 36.8625,
+    "lng": 139.8364
+  },
+  {
+    "id": "KiK-net_TCGH10",
+    "name": "栃木県 大田原 (KiK-net)",
+    "lat": 36.8578,
+    "lng": 140.0225
+  },
+  {
+    "id": "KiK-net_TCGH11",
+    "name": "栃木県 今市 (KiK-net)",
+    "lat": 36.7084,
+    "lng": 139.7694
+  },
+  {
+    "id": "KiK-net_TCGH12",
+    "name": "栃木県 氏家 (KiK-net)",
+    "lat": 36.6959,
+    "lng": 139.9842
+  },
+  {
+    "id": "KiK-net_TCGH13",
+    "name": "栃木県 馬頭 (KiK-net)",
+    "lat": 36.7342,
+    "lng": 140.1781
+  },
+  {
+    "id": "KiK-net_TCGH14",
+    "name": "栃木県 粟野 (KiK-net)",
+    "lat": 36.5509,
+    "lng": 139.6154
+  },
+  {
+    "id": "KiK-net_TCGH15",
+    "name": "栃木県 宇都宮 (KiK-net)",
+    "lat": 36.5595,
+    "lng": 139.8637
+  },
+  {
+    "id": "KiK-net_TCGH16",
+    "name": "栃木県 芳賀 (KiK-net)",
+    "lat": 36.548,
+    "lng": 140.0751
+  },
+  {
+    "id": "KiK-net_TCGH17",
+    "name": "栃木県 藤原2 (KiK-net)",
+    "lat": 36.9853,
+    "lng": 139.6922
+  },
+  {
+    "id": "KiK-net_TCGH19",
+    "name": "栃木県 大田原2 (KiK-net)",
+    "lat": 36.906,
+    "lng": 140.1119
+  },
+  {
+    "id": "KiK-net_TKCH01",
+    "name": "北海道 陸別 (KiK-net)",
+    "lat": 43.4683,
+    "lng": 143.683
+  },
+  {
+    "id": "KiK-net_TKCH02",
+    "name": "北海道 足寄東 (KiK-net)",
+    "lat": 43.3822,
+    "lng": 143.8983
+  },
+  {
+    "id": "KiK-net_TKCH03",
+    "name": "北海道 足寄西 (KiK-net)",
+    "lat": 43.2708,
+    "lng": 143.4317
+  },
+  {
+    "id": "KiK-net_TKCH04",
+    "name": "北海道 新得南 (KiK-net)",
+    "lat": 43.1739,
+    "lng": 142.9176
+  },
+  {
+    "id": "KiK-net_TKCH05",
+    "name": "北海道 本別 (KiK-net)",
+    "lat": 43.1211,
+    "lng": 143.6181
+  },
+  {
+    "id": "KiK-net_TKCH06",
+    "name": "北海道 芽室 (KiK-net)",
+    "lat": 42.892,
+    "lng": 143.0603
+  },
+  {
+    "id": "KiK-net_TKCH07",
+    "name": "北海道 豊頃 (KiK-net)",
+    "lat": 42.8114,
+    "lng": 143.5203
+  },
+  {
+    "id": "KiK-net_TKCH08",
+    "name": "北海道 大樹 (KiK-net)",
+    "lat": 42.4865,
+    "lng": 143.152
+  },
+  {
+    "id": "KiK-net_TKCH10",
+    "name": "北海道 新得北 (KiK-net)",
+    "lat": 43.3337,
+    "lng": 142.9448
+  },
+  {
+    "id": "KiK-net_TKCH11",
+    "name": "北海道 清水 (KiK-net)",
+    "lat": 42.8742,
+    "lng": 142.883
+  },
+  {
+    "id": "K-NET_TKS001",
+    "name": "徳島県 鳴門 (K-NET)",
+    "lat": 34.2034,
+    "lng": 134.6096
+  },
+  {
+    "id": "K-NET_TKS002",
+    "name": "徳島県 徳島 (K-NET)",
+    "lat": 34.0439,
+    "lng": 134.582
+  },
+  {
+    "id": "K-NET_TKS003",
+    "name": "徳島県 阿南 (K-NET)",
+    "lat": 33.8716,
+    "lng": 134.604
+  },
+  {
+    "id": "K-NET_TKS004",
+    "name": "徳島県 由岐 (K-NET)",
+    "lat": 33.775,
+    "lng": 134.5907
+  },
+  {
+    "id": "K-NET_TKS005",
+    "name": "徳島県 上勝 (K-NET)",
+    "lat": 33.8788,
+    "lng": 134.389
+  },
+  {
+    "id": "K-NET_TKS006",
+    "name": "徳島県 牟岐 (K-NET)",
+    "lat": 33.6689,
+    "lng": 134.4191
+  },
+  {
+    "id": "K-NET_TKS007",
+    "name": "徳島県 市場 (K-NET)",
+    "lat": 34.0903,
+    "lng": 134.2854
+  },
+  {
+    "id": "K-NET_TKS008",
+    "name": "徳島県 木屋平 (K-NET)",
+    "lat": 33.9341,
+    "lng": 134.2113
+  },
+  {
+    "id": "K-NET_TKS009",
+    "name": "徳島県 木頭 (K-NET)",
+    "lat": 33.7722,
+    "lng": 134.1993
+  },
+  {
+    "id": "K-NET_TKS010",
+    "name": "徳島県 貞光 (K-NET)",
+    "lat": 34.0382,
+    "lng": 134.0614
+  },
+  {
+    "id": "K-NET_TKS011",
+    "name": "徳島県 東祖谷山 (K-NET)",
+    "lat": 33.8744,
+    "lng": 133.9219
+  },
+  {
+    "id": "K-NET_TKS012",
+    "name": "徳島県 池田 (K-NET)",
+    "lat": 34.0317,
+    "lng": 133.8064
+  },
+  {
+    "id": "KiK-net_TKSH01",
+    "name": "徳島県 日和佐 (KiK-net)",
+    "lat": 33.7751,
+    "lng": 134.4994
+  },
+  {
+    "id": "KiK-net_TKSH02",
+    "name": "徳島県 貞光 (KiK-net)",
+    "lat": 34.0112,
+    "lng": 134.0918
+  },
+  {
+    "id": "KiK-net_TKSH03",
+    "name": "徳島県 木屋平 (KiK-net)",
+    "lat": 33.8778,
+    "lng": 134.1294
+  },
+  {
+    "id": "KiK-net_TKSH04",
+    "name": "徳島県 徳島 (KiK-net)",
+    "lat": 33.9902,
+    "lng": 134.5337
+  },
+  {
+    "id": "KiK-net_TKSH05",
+    "name": "徳島県 海南 (KiK-net)",
+    "lat": 33.6628,
+    "lng": 134.3156
+  },
+  {
+    "id": "KiK-net_TKSH06",
+    "name": "徳島県 井川 (KiK-net)",
+    "lat": 33.9997,
+    "lng": 133.8933
+  },
+  {
+    "id": "K-NET_TKY001",
+    "name": "東京都 氷川 (K-NET)",
+    "lat": 35.8031,
+    "lng": 139.0953
+  },
+  {
+    "id": "K-NET_TKY002",
+    "name": "東京都 桧原 (K-NET)",
+    "lat": 35.7306,
+    "lng": 139.1454
+  },
+  {
+    "id": "K-NET_TKY003",
+    "name": "東京都 青梅 (K-NET)",
+    "lat": 35.7968,
+    "lng": 139.2916
+  },
+  {
+    "id": "K-NET_TKY004",
+    "name": "東京都 八王子 (K-NET)",
+    "lat": 35.6301,
+    "lng": 139.4034
+  },
+  {
+    "id": "K-NET_TKY005",
+    "name": "東京都 町田 (K-NET)",
+    "lat": 35.5798,
+    "lng": 139.4137
+  },
+  {
+    "id": "K-NET_TKY006",
+    "name": "東京都 小金井 (K-NET)",
+    "lat": 35.6989,
+    "lng": 139.5028
+  },
+  {
+    "id": "K-NET_TKY007",
+    "name": "東京都 新宿 (K-NET)",
+    "lat": 35.7111,
+    "lng": 139.6864
+  },
+  {
+    "id": "K-NET_TKY008",
+    "name": "東京都 岡田 (K-NET)",
+    "lat": 34.7851,
+    "lng": 139.3909
+  },
+  {
+    "id": "K-NET_TKY009",
+    "name": "東京都 波浮港 (K-NET)",
+    "lat": 34.6867,
+    "lng": 139.441
+  },
+  {
+    "id": "K-NET_TKY010",
+    "name": "東京都 新島 (K-NET)",
+    "lat": 34.3779,
+    "lng": 139.2573
+  },
+  {
+    "id": "K-NET_TKY011",
+    "name": "東京都 神着 (K-NET)",
+    "lat": 34.1228,
+    "lng": 139.5315
+  },
+  {
+    "id": "K-NET_TKY012",
+    "name": "東京都 八丈 (K-NET)",
+    "lat": 33.1195,
+    "lng": 139.7986
+  },
+  {
+    "id": "K-NET_TKY013",
+    "name": "東京都 砂町 (K-NET)",
+    "lat": 35.6627,
+    "lng": 139.8341
+  },
+  {
+    "id": "K-NET_TKY014",
+    "name": "東京都 亀戸 (K-NET)",
+    "lat": 35.7002,
+    "lng": 139.8351
+  },
+  {
+    "id": "K-NET_TKY015",
+    "name": "東京都 東白鬚 (K-NET)",
+    "lat": 35.7313,
+    "lng": 139.8119
+  },
+  {
+    "id": "K-NET_TKY016",
+    "name": "東京都 東雲 (K-NET)",
+    "lat": 35.6486,
+    "lng": 139.799
+  },
+  {
+    "id": "K-NET_TKY017",
+    "name": "東京都 辰巳 (K-NET)",
+    "lat": 35.6473,
+    "lng": 139.8092
+  },
+  {
+    "id": "K-NET_TKY018",
+    "name": "東京都 八枝 (K-NET)",
+    "lat": 35.6553,
+    "lng": 139.8114
+  },
+  {
+    "id": "K-NET_TKY019",
+    "name": "東京都 豊洲 (K-NET)",
+    "lat": 35.6538,
+    "lng": 139.7948
+  },
+  {
+    "id": "K-NET_TKY020",
+    "name": "東京都 塩浜 (K-NET)",
+    "lat": 35.6646,
+    "lng": 139.8086
+  },
+  {
+    "id": "K-NET_TKY021",
+    "name": "東京都 猿江 (K-NET)",
+    "lat": 35.6875,
+    "lng": 139.819
+  },
+  {
+    "id": "K-NET_TKY022",
+    "name": "東京都 横網 (K-NET)",
+    "lat": 35.7002,
+    "lng": 139.7963
+  },
+  {
+    "id": "K-NET_TKY023",
+    "name": "東京都 八広 (K-NET)",
+    "lat": 35.7259,
+    "lng": 139.8254
+  },
+  {
+    "id": "K-NET_TKY024",
+    "name": "東京都 奥戸 (K-NET)",
+    "lat": 35.7422,
+    "lng": 139.8612
+  },
+  {
+    "id": "K-NET_TKY025",
+    "name": "東京都 篠崎 (K-NET)",
+    "lat": 35.7136,
+    "lng": 139.8972
+  },
+  {
+    "id": "K-NET_TKY026",
+    "name": "東京都 宇喜田 (K-NET)",
+    "lat": 35.6707,
+    "lng": 139.8633
+  },
+  {
+    "id": "K-NET_TKY027",
+    "name": "東京都 瑞江 (K-NET)",
+    "lat": 35.693,
+    "lng": 139.8913
+  },
+  {
+    "id": "K-NET_TKY028",
+    "name": "東京都 越中島 (K-NET)",
+    "lat": 35.6698,
+    "lng": 139.7891
+  },
+  {
+    "id": "K-NET_TKY029",
+    "name": "東京都 三宅 (K-NET)",
+    "lat": 34.0757,
+    "lng": 139.4789
+  },
+  {
+    "id": "K-NET_TKY030",
+    "name": "東京都 赤坂 (K-NET)",
+    "lat": 35.6698,
+    "lng": 139.736
+  },
+  {
+    "id": "K-NET_TKY031",
+    "name": "東京都 千駄ヶ谷 (K-NET)",
+    "lat": 35.6789,
+    "lng": 139.707
+  },
+  {
+    "id": "KiK-net_TKYH02",
+    "name": "東京都 府中 (KiK-net)",
+    "lat": 35.6539,
+    "lng": 139.4704
+  },
+  {
+    "id": "KiK-net_TKYH11",
+    "name": "東京都 江東 (KiK-net)",
+    "lat": 35.6114,
+    "lng": 139.8125
+  },
+  {
+    "id": "KiK-net_TKYH12",
+    "name": "東京都 八王子 (KiK-net)",
+    "lat": 35.6701,
+    "lng": 139.265
+  },
+  {
+    "id": "KiK-net_TKYH13",
+    "name": "東京都 檜原南 (KiK-net)",
+    "lat": 35.7017,
+    "lng": 139.1275
+  },
+  {
+    "id": "K-NET_TTR001",
+    "name": "鳥取県 若桜 (K-NET)",
+    "lat": 35.3398,
+    "lng": 134.4007
+  },
+  {
+    "id": "K-NET_TTR002",
+    "name": "鳥取県 鳥取 (K-NET)",
+    "lat": 35.4859,
+    "lng": 134.2201
+  },
+  {
+    "id": "K-NET_TTR003",
+    "name": "鳥取県 用瀬 (K-NET)",
+    "lat": 35.3432,
+    "lng": 134.2075
+  },
+  {
+    "id": "K-NET_TTR004",
+    "name": "鳥取県 鹿野 (K-NET)",
+    "lat": 35.4606,
+    "lng": 134.0548
+  },
+  {
+    "id": "K-NET_TTR005",
+    "name": "鳥取県 倉吉 (K-NET)",
+    "lat": 35.4298,
+    "lng": 133.8258
+  },
+  {
+    "id": "K-NET_TTR006",
+    "name": "鳥取県 赤碕 (K-NET)",
+    "lat": 35.5144,
+    "lng": 133.6297
+  },
+  {
+    "id": "K-NET_TTR007",
+    "name": "鳥取県 江府 (K-NET)",
+    "lat": 35.2836,
+    "lng": 133.4866
+  },
+  {
+    "id": "K-NET_TTR008",
+    "name": "鳥取県 米子 (K-NET)",
+    "lat": 35.4259,
+    "lng": 133.3301
+  },
+  {
+    "id": "K-NET_TTR009",
+    "name": "鳥取県 日南 (K-NET)",
+    "lat": 35.1712,
+    "lng": 133.3118
+  },
+  {
+    "id": "KiK-net_TTRH01",
+    "name": "鳥取県 智頭 (KiK-net)",
+    "lat": 35.2604,
+    "lng": 134.2173
+  },
+  {
+    "id": "KiK-net_TTRH02",
+    "name": "鳥取県 日野 (KiK-net)",
+    "lat": 35.2313,
+    "lng": 133.3909
+  },
+  {
+    "id": "KiK-net_TTRH03",
+    "name": "鳥取県 溝口 (KiK-net)",
+    "lat": 35.3553,
+    "lng": 133.4918
+  },
+  {
+    "id": "KiK-net_TTRH04",
+    "name": "鳥取県 赤碕 (KiK-net)",
+    "lat": 35.4668,
+    "lng": 133.6307
+  },
+  {
+    "id": "KiK-net_TTRH05",
+    "name": "鳥取県 岩美 (KiK-net)",
+    "lat": 35.5729,
+    "lng": 134.3426
+  },
+  {
+    "id": "KiK-net_TTRH06",
+    "name": "鳥取県 河原 (KiK-net)",
+    "lat": 35.3946,
+    "lng": 134.1988
+  },
+  {
+    "id": "KiK-net_TTRH07",
+    "name": "鳥取県 関金 (KiK-net)",
+    "lat": 35.3649,
+    "lng": 133.7486
+  },
+  {
+    "id": "K-NET_TYM001",
+    "name": "富山県 境 (K-NET)",
+    "lat": 36.9764,
+    "lng": 137.6257
+  },
+  {
+    "id": "K-NET_TYM002",
+    "name": "富山県 氷見 (K-NET)",
+    "lat": 36.8659,
+    "lng": 136.975
+  },
+  {
+    "id": "K-NET_TYM003",
+    "name": "富山県 魚津 (K-NET)",
+    "lat": 36.8164,
+    "lng": 137.42
+  },
+  {
+    "id": "K-NET_TYM004",
+    "name": "富山県 宇奈月 (K-NET)",
+    "lat": 36.8626,
+    "lng": 137.5274
+  },
+  {
+    "id": "K-NET_TYM005",
+    "name": "富山県 新湊 (K-NET)",
+    "lat": 36.7611,
+    "lng": 137.0931
+  },
+  {
+    "id": "K-NET_TYM006",
+    "name": "富山県 小矢部 (K-NET)",
+    "lat": 36.6731,
+    "lng": 136.8974
+  },
+  {
+    "id": "K-NET_TYM007",
+    "name": "富山県 富山 (K-NET)",
+    "lat": 36.6687,
+    "lng": 137.2123
+  },
+  {
+    "id": "K-NET_TYM008",
+    "name": "富山県 大山 (K-NET)",
+    "lat": 36.6085,
+    "lng": 137.2826
+  },
+  {
+    "id": "K-NET_TYM009",
+    "name": "富山県 八尾 (K-NET)",
+    "lat": 36.5853,
+    "lng": 137.1403
+  },
+  {
+    "id": "K-NET_TYM010",
+    "name": "富山県 福光 (K-NET)",
+    "lat": 36.5556,
+    "lng": 136.8883
+  },
+  {
+    "id": "K-NET_TYM011",
+    "name": "富山県 芦弁 (K-NET)",
+    "lat": 36.578,
+    "lng": 137.3851
+  },
+  {
+    "id": "K-NET_TYM012",
+    "name": "富山県 利賀 (K-NET)",
+    "lat": 36.4402,
+    "lng": 137.0395
+  },
+  {
+    "id": "KiK-net_TYMH01",
+    "name": "富山県 氷見 (KiK-net)",
+    "lat": 36.8866,
+    "lng": 136.9276
+  },
+  {
+    "id": "KiK-net_TYMH02",
+    "name": "富山県 大門 (KiK-net)",
+    "lat": 36.7142,
+    "lng": 137.0378
+  },
+  {
+    "id": "KiK-net_TYMH03",
+    "name": "富山県 富山 (KiK-net)",
+    "lat": 36.7294,
+    "lng": 137.2627
+  },
+  {
+    "id": "KiK-net_TYMH04",
+    "name": "富山県 魚津 (KiK-net)",
+    "lat": 36.7914,
+    "lng": 137.4689
+  },
+  {
+    "id": "KiK-net_TYMH05",
+    "name": "富山県 井波 (KiK-net)",
+    "lat": 36.5736,
+    "lng": 136.9584
+  },
+  {
+    "id": "KiK-net_TYMH06",
+    "name": "富山県 八尾 (KiK-net)",
+    "lat": 36.5711,
+    "lng": 137.1595
+  },
+  {
+    "id": "KiK-net_TYMH07",
+    "name": "富山県 利賀 (KiK-net)",
+    "lat": 36.4406,
+    "lng": 137.0392
+  },
+  {
+    "id": "K-NET_WKY001",
+    "name": "和歌山県 和歌山 (K-NET)",
+    "lat": 34.2293,
+    "lng": 135.1694
+  },
+  {
+    "id": "K-NET_WKY002",
+    "name": "和歌山県 那賀 (K-NET)",
+    "lat": 34.2755,
+    "lng": 135.4306
+  },
+  {
+    "id": "K-NET_WKY003",
+    "name": "和歌山県 有田 (K-NET)",
+    "lat": 34.0996,
+    "lng": 135.1161
+  },
+  {
+    "id": "K-NET_WKY004",
+    "name": "和歌山県 清水 (K-NET)",
+    "lat": 34.0841,
+    "lng": 135.431
+  },
+  {
+    "id": "K-NET_WKY005",
+    "name": "和歌山県 龍神 (K-NET)",
+    "lat": 33.8943,
+    "lng": 135.4885
+  },
+  {
+    "id": "K-NET_WKY006",
+    "name": "和歌山県 御坊 (K-NET)",
+    "lat": 33.9146,
+    "lng": 135.1639
+  },
+  {
+    "id": "K-NET_WKY007",
+    "name": "和歌山県 本宮 (K-NET)",
+    "lat": 33.8374,
+    "lng": 135.7736
+  },
+  {
+    "id": "K-NET_WKY008",
+    "name": "和歌山県 田辺 (K-NET)",
+    "lat": 33.7289,
+    "lng": 135.3771
+  },
+  {
+    "id": "K-NET_WKY009",
+    "name": "和歌山県 新宮 (K-NET)",
+    "lat": 33.7208,
+    "lng": 135.9814
+  },
+  {
+    "id": "K-NET_WKY010",
+    "name": "和歌山県 すさみ (K-NET)",
+    "lat": 33.5499,
+    "lng": 135.4973
+  },
+  {
+    "id": "K-NET_WKY011",
+    "name": "和歌山県 太地 (K-NET)",
+    "lat": 33.5948,
+    "lng": 135.9462
+  },
+  {
+    "id": "K-NET_WKY012",
+    "name": "和歌山県 串本 (K-NET)",
+    "lat": 33.4719,
+    "lng": 135.7835
+  },
+  {
+    "id": "K-NET_WKY013",
+    "name": "和歌山県 高野 (K-NET)",
+    "lat": 34.2159,
+    "lng": 135.5864
+  },
+  {
+    "id": "K-NET_WKY014",
+    "name": "和歌山県 木守 (K-NET)",
+    "lat": 33.7056,
+    "lng": 135.6396
+  },
+  {
+    "id": "KiK-net_WKYH01",
+    "name": "和歌山県 広川 (KiK-net)",
+    "lat": 33.9804,
+    "lng": 135.2122
+  },
+  {
+    "id": "KiK-net_WKYH02",
+    "name": "和歌山県 花園 (KiK-net)",
+    "lat": 34.1373,
+    "lng": 135.5369
+  },
+  {
+    "id": "KiK-net_WKYH03",
+    "name": "和歌山県 野上 (KiK-net)",
+    "lat": 34.1314,
+    "lng": 135.3244
+  },
+  {
+    "id": "KiK-net_WKYH04",
+    "name": "和歌山県 すさみ (KiK-net)",
+    "lat": 33.5559,
+    "lng": 135.5454
+  },
+  {
+    "id": "KiK-net_WKYH05",
+    "name": "和歌山県 那智勝浦 (KiK-net)",
+    "lat": 33.6072,
+    "lng": 135.8619
+  },
+  {
+    "id": "KiK-net_WKYH06",
+    "name": "和歌山県 大塔 (KiK-net)",
+    "lat": 33.6948,
+    "lng": 135.5953
+  },
+  {
+    "id": "KiK-net_WKYH07",
+    "name": "和歌山県 上富田 (KiK-net)",
+    "lat": 33.6894,
+    "lng": 135.4396
+  },
+  {
+    "id": "KiK-net_WKYH08",
+    "name": "和歌山県 那賀 (KiK-net)",
+    "lat": 34.3228,
+    "lng": 135.4483
+  },
+  {
+    "id": "KiK-net_WKYH09",
+    "name": "和歌山県 和歌山 (KiK-net)",
+    "lat": 34.2868,
+    "lng": 135.0714
+  },
+  {
+    "id": "KiK-net_WKYH10",
+    "name": "和歌山県 印南 (KiK-net)",
+    "lat": 33.8248,
+    "lng": 135.2172
+  },
+  {
+    "id": "K-NET_YMG001",
+    "name": "山口県 須佐 (K-NET)",
+    "lat": 34.6172,
+    "lng": 131.6022
+  },
+  {
+    "id": "K-NET_YMG002",
+    "name": "山口県 萩 (K-NET)",
+    "lat": 34.4077,
+    "lng": 131.3986
+  },
+  {
+    "id": "K-NET_YMG003",
+    "name": "山口県 生雲中 (K-NET)",
+    "lat": 34.383,
+    "lng": 131.5999
+  },
+  {
+    "id": "K-NET_YMG004",
+    "name": "山口県 長門 (K-NET)",
+    "lat": 34.3634,
+    "lng": 131.1865
+  },
+  {
+    "id": "K-NET_YMG005",
+    "name": "山口県 豊北 (K-NET)",
+    "lat": 34.2907,
+    "lng": 130.9487
+  },
+  {
+    "id": "K-NET_YMG006",
+    "name": "山口県 豊浦 (K-NET)",
+    "lat": 34.1487,
+    "lng": 130.9299
+  },
+  {
+    "id": "K-NET_YMG007",
+    "name": "山口県 美祢 (K-NET)",
+    "lat": 34.1659,
+    "lng": 131.2065
+  },
+  {
+    "id": "K-NET_YMG008",
+    "name": "山口県 山口 (K-NET)",
+    "lat": 34.0119,
+    "lng": 131.4099
+  },
+  {
+    "id": "K-NET_YMG009",
+    "name": "山口県 鹿野 (K-NET)",
+    "lat": 34.226,
+    "lng": 131.8158
+  },
+  {
+    "id": "K-NET_YMG010",
+    "name": "山口県 美川 (K-NET)",
+    "lat": 34.2303,
+    "lng": 131.9819
+  },
+  {
+    "id": "K-NET_YMG011",
+    "name": "山口県 下関 (K-NET)",
+    "lat": 34.0643,
+    "lng": 131.0213
+  },
+  {
+    "id": "K-NET_YMG012",
+    "name": "山口県 宇部 (K-NET)",
+    "lat": 33.9943,
+    "lng": 131.2179
+  },
+  {
+    "id": "K-NET_YMG013",
+    "name": "山口県 防府 (K-NET)",
+    "lat": 34.0313,
+    "lng": 131.5342
+  },
+  {
+    "id": "K-NET_YMG014",
+    "name": "山口県 徳山 (K-NET)",
+    "lat": 34.0542,
+    "lng": 131.8077
+  },
+  {
+    "id": "K-NET_YMG015",
+    "name": "山口県 玖珂 (K-NET)",
+    "lat": 34.0966,
+    "lng": 132.0761
+  },
+  {
+    "id": "K-NET_YMG016",
+    "name": "山口県 岩国 (K-NET)",
+    "lat": 34.1703,
+    "lng": 132.1764
+  },
+  {
+    "id": "K-NET_YMG017",
+    "name": "山口県 柳井 (K-NET)",
+    "lat": 33.9649,
+    "lng": 132.1011
+  },
+  {
+    "id": "K-NET_YMG018",
+    "name": "山口県 東和 (K-NET)",
+    "lat": 33.9091,
+    "lng": 132.3559
+  },
+  {
+    "id": "K-NET_YMG019",
+    "name": "山口県 上関 (K-NET)",
+    "lat": 33.8454,
+    "lng": 132.1204
+  },
+  {
+    "id": "KiK-net_YMGH01",
+    "name": "山口県 防府 (KiK-net)",
+    "lat": 34.0494,
+    "lng": 131.5618
+  },
+  {
+    "id": "KiK-net_YMGH02",
+    "name": "山口県 美祢 (KiK-net)",
+    "lat": 34.1111,
+    "lng": 131.1434
+  },
+  {
+    "id": "KiK-net_YMGH03",
+    "name": "山口県 岩国 (KiK-net)",
+    "lat": 34.1891,
+    "lng": 132.126
+  },
+  {
+    "id": "KiK-net_YMGH04",
+    "name": "山口県 周東 (KiK-net)",
+    "lat": 34.027,
+    "lng": 132.0626
+  },
+  {
+    "id": "KiK-net_YMGH05",
+    "name": "山口県 美川 (KiK-net)",
+    "lat": 34.1974,
+    "lng": 131.9943
+  },
+  {
+    "id": "KiK-net_YMGH06",
+    "name": "山口県 宇部 (KiK-net)",
+    "lat": 33.9893,
+    "lng": 131.3012
+  },
+  {
+    "id": "KiK-net_YMGH07",
+    "name": "山口県 菊川 (KiK-net)",
+    "lat": 34.1149,
+    "lng": 131.0506
+  },
+  {
+    "id": "KiK-net_YMGH08",
+    "name": "山口県 豊浦 (KiK-net)",
+    "lat": 34.1349,
+    "lng": 130.9323
+  },
+  {
+    "id": "KiK-net_YMGH09",
+    "name": "山口県 田万川 (KiK-net)",
+    "lat": 34.6257,
+    "lng": 131.6681
+  },
+  {
+    "id": "KiK-net_YMGH10",
+    "name": "山口県 むつみ (KiK-net)",
+    "lat": 34.4837,
+    "lng": 131.6329
+  },
+  {
+    "id": "KiK-net_YMGH11",
+    "name": "山口県 徳地 (KiK-net)",
+    "lat": 34.2091,
+    "lng": 131.6859
+  },
+  {
+    "id": "KiK-net_YMGH12",
+    "name": "山口県 美東 (KiK-net)",
+    "lat": 34.2176,
+    "lng": 131.3597
+  },
+  {
+    "id": "KiK-net_YMGH13",
+    "name": "山口県 長門 (KiK-net)",
+    "lat": 34.3408,
+    "lng": 131.177
+  },
+  {
+    "id": "KiK-net_YMGH14",
+    "name": "山口県 萩 (KiK-net)",
+    "lat": 34.3979,
+    "lng": 131.3774
+  },
+  {
+    "id": "KiK-net_YMGH15",
+    "name": "山口県 徳山 (KiK-net)",
+    "lat": 33.9725,
+    "lng": 131.8149
+  },
+  {
+    "id": "KiK-net_YMGH16",
+    "name": "山口県 上関 (KiK-net)",
+    "lat": 33.826,
+    "lng": 132.104
+  },
+  {
+    "id": "KiK-net_YMGH17",
+    "name": "山口県 東和 (KiK-net)",
+    "lat": 33.9291,
+    "lng": 132.4046
+  },
+  {
+    "id": "K-NET_YMN001",
+    "name": "山梨県 丹波山 (K-NET)",
+    "lat": 35.7895,
+    "lng": 138.9198
+  },
+  {
+    "id": "K-NET_YMN002",
+    "name": "山梨県 大月 (K-NET)",
+    "lat": 35.6133,
+    "lng": 138.9473
+  },
+  {
+    "id": "K-NET_YMN003",
+    "name": "山梨県 富士吉田 (K-NET)",
+    "lat": 35.4651,
+    "lng": 138.8129
+  },
+  {
+    "id": "K-NET_YMN004",
+    "name": "山梨県 塩山 (K-NET)",
+    "lat": 35.7025,
+    "lng": 138.7266
+  },
+  {
+    "id": "K-NET_YMN005",
+    "name": "山梨県 甲府 (K-NET)",
+    "lat": 35.6551,
+    "lng": 138.5679
+  },
+  {
+    "id": "K-NET_YMN006",
+    "name": "山梨県 本栖 (K-NET)",
+    "lat": 35.4685,
+    "lng": 138.6069
+  },
+  {
+    "id": "K-NET_YMN007",
+    "name": "山梨県 南部 (K-NET)",
+    "lat": 35.279,
+    "lng": 138.4651
+  },
+  {
+    "id": "K-NET_YMN008",
+    "name": "山梨県 早川 (K-NET)",
+    "lat": 35.4319,
+    "lng": 138.3321
+  },
+  {
+    "id": "K-NET_YMN009",
+    "name": "山梨県 六郷 (K-NET)",
+    "lat": 35.4966,
+    "lng": 138.4628
+  },
+  {
+    "id": "K-NET_YMN010",
+    "name": "山梨県 須玉 (K-NET)",
+    "lat": 35.7919,
+    "lng": 138.4182
+  },
+  {
+    "id": "K-NET_YMN011",
+    "name": "山梨県 芦安 (K-NET)",
+    "lat": 35.6384,
+    "lng": 138.3836
+  },
+  {
+    "id": "KiK-net_YMNH08",
+    "name": "山梨県 西野原 (KiK-net)",
+    "lat": 35.6895,
+    "lng": 138.734
+  },
+  {
+    "id": "KiK-net_YMNH09",
+    "name": "山梨県 早川 (KiK-net)",
+    "lat": 35.4327,
+    "lng": 138.3325
+  },
+  {
+    "id": "KiK-net_YMNH10",
+    "name": "山梨県 早川北 (KiK-net)",
+    "lat": 35.5351,
+    "lng": 138.3087
+  },
+  {
+    "id": "KiK-net_YMNH11",
+    "name": "山梨県 大月 (KiK-net)",
+    "lat": 35.6247,
+    "lng": 138.9777
+  },
+  {
+    "id": "KiK-net_YMNH12",
+    "name": "山梨県 増穂 (KiK-net)",
+    "lat": 35.5623,
+    "lng": 138.449
+  },
+  {
+    "id": "KiK-net_YMNH13",
+    "name": "山梨県 身延 (KiK-net)",
+    "lat": 35.3509,
+    "lng": 138.4203
+  },
+  {
+    "id": "KiK-net_YMNH14",
+    "name": "山梨県 都留南 (KiK-net)",
+    "lat": 35.5115,
+    "lng": 138.9675
+  },
+  {
+    "id": "KiK-net_YMNH15",
+    "name": "山梨県 上九一色 (KiK-net)",
+    "lat": 35.5323,
+    "lng": 138.6045
+  },
+  {
+    "id": "KiK-net_YMNH16",
+    "name": "山梨県 甲府2 (KiK-net)",
+    "lat": 35.7421,
+    "lng": 138.5653
+  },
+  {
+    "id": "K-NET_YMT001",
+    "name": "山形県 酒田 (K-NET)",
+    "lat": 38.9142,
+    "lng": 139.8123
+  },
+  {
+    "id": "K-NET_YMT002",
+    "name": "山形県 新庄 (K-NET)",
+    "lat": 38.7686,
+    "lng": 140.2965
+  },
+  {
+    "id": "K-NET_YMT003",
+    "name": "山形県 鶴岡 (K-NET)",
+    "lat": 38.726,
+    "lng": 139.8023
+  },
+  {
+    "id": "K-NET_YMT004",
+    "name": "山形県 温海 (K-NET)",
+    "lat": 38.6208,
+    "lng": 139.5889
+  },
+  {
+    "id": "K-NET_YMT005",
+    "name": "山形県 肘折 (K-NET)",
+    "lat": 38.6079,
+    "lng": 140.1627
+  },
+  {
+    "id": "K-NET_YMT006",
+    "name": "山形県 尾花沢 (K-NET)",
+    "lat": 38.6001,
+    "lng": 140.4057
+  },
+  {
+    "id": "K-NET_YMT007",
+    "name": "山形県 東根 (K-NET)",
+    "lat": 38.4302,
+    "lng": 140.3902
+  },
+  {
+    "id": "K-NET_YMT008",
+    "name": "山形県 中村 (K-NET)",
+    "lat": 38.3854,
+    "lng": 139.9924
+  },
+  {
+    "id": "K-NET_YMT009",
+    "name": "山形県 寒河江 (K-NET)",
+    "lat": 38.3902,
+    "lng": 140.2742
+  },
+  {
+    "id": "K-NET_YMT010",
+    "name": "山形県 山形 (K-NET)",
+    "lat": 38.2608,
+    "lng": 140.3484
+  },
+  {
+    "id": "K-NET_YMT011",
+    "name": "山形県 上山 (K-NET)",
+    "lat": 38.1484,
+    "lng": 140.2671
+  },
+  {
+    "id": "K-NET_YMT012",
+    "name": "山形県 長井 (K-NET)",
+    "lat": 38.1087,
+    "lng": 140.043
+  },
+  {
+    "id": "K-NET_YMT013",
+    "name": "山形県 小国 (K-NET)",
+    "lat": 38.0631,
+    "lng": 139.7596
+  },
+  {
+    "id": "K-NET_YMT014",
+    "name": "山形県 下屋地 (K-NET)",
+    "lat": 37.9193,
+    "lng": 139.8816
+  },
+  {
+    "id": "K-NET_YMT015",
+    "name": "山形県 米沢 (K-NET)",
+    "lat": 37.9049,
+    "lng": 140.099
+  },
+  {
+    "id": "K-NET_YMT016",
+    "name": "山形県 清川 (K-NET)",
+    "lat": 38.7906,
+    "lng": 140.0207
+  },
+  {
+    "id": "K-NET_YMT017",
+    "name": "山形県 新庄支所 (K-NET)",
+    "lat": 38.7897,
+    "lng": 140.3121
+  },
+  {
+    "id": "KiK-net_YMTH01",
+    "name": "山形県 天童 (KiK-net)",
+    "lat": 38.3841,
+    "lng": 140.3805
+  },
+  {
+    "id": "KiK-net_YMTH02",
+    "name": "山形県 山形 (KiK-net)",
+    "lat": 38.2693,
+    "lng": 140.2583
+  },
+  {
+    "id": "KiK-net_YMTH03",
+    "name": "山形県 南陽 (KiK-net)",
+    "lat": 38.1035,
+    "lng": 140.1553
+  },
+  {
+    "id": "KiK-net_YMTH04",
+    "name": "山形県 上山 (KiK-net)",
+    "lat": 38.0813,
+    "lng": 140.2978
+  },
+  {
+    "id": "KiK-net_YMTH05",
+    "name": "山形県 小国 (KiK-net)",
+    "lat": 37.9883,
+    "lng": 139.8017
+  },
+  {
+    "id": "KiK-net_YMTH06",
+    "name": "山形県 高畠 (KiK-net)",
+    "lat": 37.9633,
+    "lng": 140.1836
+  },
+  {
+    "id": "KiK-net_YMTH07",
+    "name": "山形県 米沢 (KiK-net)",
+    "lat": 37.896,
+    "lng": 140.0278
+  },
+  {
+    "id": "KiK-net_YMTH08",
+    "name": "山形県 八幡 (KiK-net)",
+    "lat": 38.9701,
+    "lng": 140.0333
+  },
+  {
+    "id": "KiK-net_YMTH09",
+    "name": "山形県 戸沢 (KiK-net)",
+    "lat": 38.7498,
+    "lng": 140.178
+  },
+  {
+    "id": "KiK-net_YMTH10",
+    "name": "山形県 舟形 (KiK-net)",
+    "lat": 38.7107,
+    "lng": 140.3744
+  },
+  {
+    "id": "KiK-net_YMTH11",
+    "name": "山形県 最上 (KiK-net)",
+    "lat": 38.7132,
+    "lng": 140.5544
+  },
+  {
+    "id": "KiK-net_YMTH12",
+    "name": "山形県 立川 (KiK-net)",
+    "lat": 38.6357,
+    "lng": 140.0055
+  },
+  {
+    "id": "KiK-net_YMTH13",
+    "name": "山形県 朝日 (KiK-net)",
+    "lat": 38.4704,
+    "lng": 139.7606
+  },
+  {
+    "id": "KiK-net_YMTH14",
+    "name": "山形県 西川西 (KiK-net)",
+    "lat": 38.386,
+    "lng": 139.9916
+  },
+  {
+    "id": "KiK-net_YMTH15",
+    "name": "山形県 西川東 (KiK-net)",
+    "lat": 38.4257,
+    "lng": 140.1249
+  }
+]
