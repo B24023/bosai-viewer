@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>防災情報ビューア</title>
-    <!-- ▼ LeafletのCSS[cite: 2] ▼ -->
+    
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <style>
         * { font-family: sans-serif; }
         
-        /* タブメニューのCSS */
+        
         .tab-container {
             display: flex;
             margin-bottom: 20px;
@@ -34,7 +34,7 @@
             background-color: #e2e2e2;
         }
 
-        /* テーブルのCSS */
+        
         table { 
             border-collapse: collapse; 
             white-space: nowrap; 
@@ -63,7 +63,7 @@
             margin-top: 4px;
         }
 
-        /* ▼ 強震モニタ用のCSS[cite: 2] ▼ */
+
         #kyoshin-map-container {
             position: relative;
             width: 100%;
@@ -100,15 +100,14 @@
 <body>
     <h1>防災情報ビューア</h1>
     
-    <!-- タブボタン -->
+
     <div class="tab-container">
         <button class="tab-btn active" onclick="showTab('flood')">氾濫警報</button>
         <button class="tab-btn" onclick="showTab('rain')">大雨警報</button>
-        <!-- 第3のタブ追加 -->
         <button class="tab-btn" onclick="showTab('kyoshin')">強震モニタ</button>
     </div>
     
-    <!-- ▼ 氾濫警報タブ ▼ -->
+
     <div id="flood" class="tab-content">
         {% if flood_alerts %}
         <table>
@@ -137,15 +136,14 @@
         {% endif %}
 
         <div style="margin-top: 40px; margin-bottom: 40px;">
-            <h2>🗺️ 氾濫警報 危険度マップ</h2>
+            <h2>氾濫警報 危険度マップ</h2>
             <iframe src="https://mm394587.net/jmaViewer/warnFloodMap.html" 
                     width="100%" height="600px" 
                     style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             </iframe>
         </div>
     </div>
-    
-    <!-- ▼ 大雨警報タブ ▼ -->
+
     <div id="rain" class="tab-content" style="display: none;">
         {% if rain_alerts %}
         <table>
@@ -174,7 +172,7 @@
         {% endif %}
     </div>
 
-    <!-- ▼ 強震モニタタブ (追加)[cite: 2] ▼ -->
+
     <div id="kyoshin" class="tab-content" style="display: none;">
         <div id="kyoshin-map-container">
             <div class="monitor-info">
@@ -192,10 +190,10 @@
         </div>
     </div>
 
-    <!-- ▼ Leaflet と スクリプト ▼ -->
+
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
-        // タブ切り替え制御
+
         function showTab(tabName) {
             document.querySelectorAll('.tab-content').forEach(function(content) {
                 content.style.display = 'none';
@@ -207,18 +205,15 @@
             document.getElementById(tabName).style.display = 'block';
             event.currentTarget.classList.add('active');
 
-            // ★重要: タブが表示された瞬間にLeafletマップのサイズを再計算させる
-            // ★重要: タブが表示された瞬間にLeafletマップのサイズを再計算させる
+
             if (tabName === 'kyoshin') {
                 setTimeout(function() {
                     map.invalidateSize();
-                }, 100); // 0.1秒待ってから確実に再計算させる
+                }, 100);
             }
         }
 
-        // ==========================================
-        // 強震モニタのJavaScript処理[cite: 2]
-        // ==========================================
+
         const map = L.map('kyoshin-map', {
             center: [36.5, 137.0], 
             zoom: 6,
@@ -297,7 +292,6 @@
             }
         }
 
-        // 定期取得の実行
         fetchAndDrawData();
         setInterval(fetchAndDrawData, 4000);
     </script>
