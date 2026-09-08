@@ -13,9 +13,7 @@ from PIL import Image
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
-# ==========================================
-# 強震モニタ用の事前準備[cite: 3]
-# ==========================================
+
 STATIONS_FILE = "stations.json"
 try:
     with open(STATIONS_FILE, "r", encoding="utf-8") as f:
@@ -39,17 +37,14 @@ def color_to_shindo(r, g, b):
     if r < 100 and g < 100 and b > 150: return -2.0
     return -3.0
 
-# ==========================================
-# エンドポイント: メイン画面 (警報情報)
-# ==========================================
 @app.get("/", response_class=HTMLResponse)
 async def get_alerts_info(request: Request):
     async with httpx.AsyncClient(timeout=10.0) as client:
-        # 地域コードの取得
+
         area_res = await client.get("https://www.jma.go.jp/bosai/common/const/area.json")
         areas = area_res.json() if area_res.status_code == 200 else {}
         
-        # 1. 氾濫警報データの取得
+
         flood_res = await client.get("https://www.jma.go.jp/bosai/flood/data/r8/flood_xml.json")
         floods = flood_res.json() if flood_res.status_code == 200 else []
         
@@ -72,7 +67,7 @@ async def get_alerts_info(request: Request):
                     'targetCities': " ".join(class20_names)
                 })
 
-        # 2. 大雨警報データの取得
+
         rain_res = await client.get("https://www.jma.go.jp/bosai/warning/data/r8/map.json")
         rain_data_list = rain_res.json() if rain_res.status_code == 200 else []
         
@@ -144,9 +139,7 @@ async def get_alerts_info(request: Request):
         context={"flood_alerts": flood_alerts, "rain_alerts": rain_alerts}
     )
 
-# ==========================================
-# エンドポイント: 強震モニタAPI[cite: 3]
-# ==========================================
+
 @app.get("/api/realtime")
 async def get_realtime_data():
     img_data = None
