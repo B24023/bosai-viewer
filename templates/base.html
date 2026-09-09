@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>防災情報ビューア</title>
+    {% block extra_head %}{% endblock %}
+    <style>
+        * { box-sizing: border-box; font-family: sans-serif; margin: 0; padding: 0; }
+        body { display: flex; height: 100vh; background: #f4f6f8; color: #333; }
+        
+        /* サイドバー */
+        .sidebar { 
+            width: 260px; background: #2c3e50; color: #ecf0f1; 
+            display: flex; flex-direction: column; box-shadow: 2px 0 5px rgba(0,0,0,0.1); z-index: 1000;
+        }
+        .sidebar-title {
+            padding: 20px; font-size: 1.2rem; font-weight: bold; background: #1a252f; text-align: center;
+        }
+        .sidebar a { 
+            color: #bdc3c7; text-decoration: none; padding: 18px 20px; display: block; transition: 0.2s; font-size: 1.1rem;
+        }
+        .sidebar a:hover { background: #34495e; color: #fff; }
+        .sidebar a.active { background: #3498db; color: #fff; border-left: 5px solid #2980b9; }
+        
+        
+        .main-content { flex: 1; padding: 20px 30px; overflow-y: auto; }
+        h1 { margin-bottom: 20px; font-size: 1.8rem; border-bottom: 2px solid #ccc; padding-bottom: 10px; }
+
+        
+        @media screen and (max-width: 768px) {
+            body { flex-direction: column; }
+            .sidebar { width: 100%; flex-direction: row; align-items: center; }
+            .sidebar-title { display: none; }
+            .sidebar a { flex: 1; text-align: center; padding: 15px 5px; font-size: 1rem; border-left: none; border-bottom: 4px solid transparent; }
+            .sidebar a.active { border-left: none; border-bottom: 4px solid #3498db; }
+            .main-content { padding: 15px; height: calc(100vh - 54px); }
+            h1 { font-size: 1.4rem; }
+        }
+    </style>
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-title">防災ビューア</div>
+        
+        <a href="/weather" class="{% if active_page == 'weather' %}active{% endif %}">気象・水害</a>
+        <a href="/earthquake" class="{% if active_page == 'earthquake' %}active{% endif %}">地震・強震</a>
+    </div>
+    <div class="main-content">
+        {% block content %}{% endblock %}
+    </div>
+    
+    {% block extra_js %}{% endblock %}
+</body>
+</html>
