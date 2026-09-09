@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block extra_css %}
+<style>
+    .tab-container { display: flex; margin-bottom: 20px; border-bottom: 2px solid #ccc; }
+    .tab-btn {
+        padding: 10px 20px; background-color: #f1f1f4; border: 1px solid #ccc; border-bottom: none;
+        border-radius: 8px 8px 0 0; margin-right: 5px; font-weight: bold; cursor: pointer;
+    }
+    .tab-btn.active { background-color: #007bff; color: white; border-color: #007bff; }
+    .tab-btn:hover:not(.active) { background-color: #e2e2e2; }
+    
+    table { border-collapse: collapse; white-space: nowrap; width: 100%; margin-bottom: 20px; }
+    th, td { padding: 6px 12px; border: 1px solid #d8d8db; border-left: none; border-right: none; text-align: left; background: #fff;}
+    th { background-color: #f1f1f4; }
+    .lv5 { background: #0c000c; color: white; }
+    .lv4 { background: #aa00aa; color: white; }
+    .lv3 { background: #ff2800; color: white; }
+    .lv2 { background: #f2e700; color: black; }
+    a { color: #0000ee; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .target-cities { white-space: normal; max-width: 500px; font-size: 0.9em; color: #555; margin-top: 4px; }
+
+    @media screen and (max-width: 768px) {
+        .tab-btn { flex: 1; text-align: center; padding: 8px 5px; font-size: 0.9rem; }
+        table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h1>気象・水害情報</h1>
+
+<div class="tab-container">
+    <button class="tab-btn active" onclick="showTab('flood')">氾濫警報</button>
+    <button class="tab-btn" onclick="showTab('rain')">大雨警報</button>
+</div>
+
+
+<div id="flood" class="tab-content">
+    {% if flood_alerts %}
+    <table>
+        <tr><th>都道府県</th><th>河川名</th><th>発表情報</th><th>発表時刻</th><th>詳細</th></tr>
+        {% for alert in flood_alerts %}
+        <tr>
+            <td>{{ alert.offices }}</td>
+            <td><a href="{{ alert.url }}" target="_blank">{{ alert.targetName }}</a></td>
+            <td class="lv{{ alert.warnLevel }}">{{ alert.warnName }}</td>
+            <td>{{ alert.time }}</td>
+            <td>{{ alert.publishingOffice }}<br><div class="target-cities">対象：{{ alert.targetCities }}</div></td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>現在、発表されている氾濫警報はありません。</p>
+    {% endif %}
+
+    <div style="margin-top: 30px;">
+        <h3 style="margin-bottom:10px;">🗺️ 氾濫警報 危険度マップ</h3>
+        <iframe src="https://mm394587.net/jmaViewer/warnFloodMap.html" width="100%" height="500px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>
+    </div>
+</div>
+
+
+<div id="rain" class="tab-content" style="display: none;">
+    {% if rain_alerts %}
+    <table>
+        <tr><th>都道府県</th><th>対象地域</th><th>発表情報</th><th>発表時刻</th><th>詳細</th></tr>
+        {% for alert in rain_alerts %}
+        <tr>
+            <td>{{ alert.offices }}</td>
+            <td><a href="{{ alert.url }}" target="_blank">{{ alert.targetName }}</a></td>
+            <td class="lv{{ alert.warnLevel }}">{{ alert.warnName }}</td>
+            <td>{{ alert.time }}</td>
+            <td>{{ alert.publishingOffice }}<br><div class="target-cities">対象：{{ alert.targetCities }}</div></td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>現在、発表されている大雨警報はありません。</p>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function showTab(tabName) {
+        document.querySelectorAll('.tab-content').forEach(c => c.style.display = 'none');
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById(tabName).style.display = 'block';
+        event.currentTarget.classList.add('active');
+    }
+</script>
+{% endblock %}

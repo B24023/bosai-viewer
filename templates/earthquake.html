@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block extra_head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    #kyoshin-map-container { position: relative; width: 100%; height: 75vh; border-radius: 8px; overflow: hidden; background: #000; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+    #kyoshin-map { width: 100%; height: 100%; }
+
+    .leaflet-tile { filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%); }
+    
+    .monitor-info { 
+        position: absolute; top: 10px; right: 10px; z-index: 1000; 
+        background: rgba(0,0,0,0.8); padding: 15px; border-radius: 8px; 
+        border: 1px solid #444; color: #fff; min-width: 300px;
+    }
+    .monitor-info h3 { margin: 0 0 10px 0; font-size: 1.1em; color: #aaa; }
+    #time { font-size: 1.5em; font-weight: bold; font-family: monospace; }
+    .max-info { margin-top: 15px; padding-top: 15px; border-top: 1px solid #555; }
+    .max-info-row { font-size: 1.1em; margin-bottom: 5px; color: #ccc; display: flex;}
+    #max-shindo { font-size: 1.5em; font-weight: bold; font-family: monospace; color: #fff;}
+    #max-name { font-weight: bold; color: #fff; max-height: 20vh; overflow-y: auto; margin-left: 5px;}
+    .shindo-label { color: #ff8c00; font-size: 0.9em; font-weight: bold; margin-left: 5px; }
+
+    @media screen and (max-width: 768px) {
+        #kyoshin-map-container { height: calc(100vh - 130px); }
+        .monitor-info { top: 5px; right: 5px; padding: 10px; min-width: auto; width: calc(100% - 10px); }
+        .monitor-info h3 { font-size: 0.9rem; margin-bottom: 5px; }
+        #time { font-size: 1.2rem; }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h1>地震・強震モニタ情報</h1>
+<div id="kyoshin-map-container">
+    <div class="monitor-info">
+        <h3>リアルタイム震度 (1,749点・4秒更新)</h3>
+        <div id="time">00:00:00</div>
+        <div class="max-info">
+            <div class="max-info-row">最大震度: <span id="max-shindo">-</span><span class="shindo-label">(計測震度)</span></div>
+            <div class="max-info-row">地点: <div id="max-name">-</div></div>
+        </div>
+    </div>
+    <div id="kyoshin-map"></div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    const map = L.map('kyoshin-map', { center: [36.5, 137.0], zoom: 6, zoomControl: false, preferCanvas: true });
+    
+
+    L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank">国土地理院</a>'
+    }).addTo(map);
+
+    const markersLayer = L.layerGroup().addTo(map);
+
+    function getColor(shindo) {
+        if (shindo >= 5.0) return "#ff0000"; if (shindo >= 4.0) return "#ff8c00";
+        if (shindo >= 3.0) return "#ffd700"; if (shindo >= 2.0) return "#ffff00";
+        if (shindo >= 1.0) return "#adff2f"; if (shindo >= 0.0) return "#00ff00";
+        if (shindo >= -1.0) return "#00ffff"; if (shindo >= -2.0) return "#0000ff";
+        return "#00008b";
+    }
+
+    async function fetchAndDrawData() {
+        try {
+            const res = await fetch('/api/realtime');
+            const json = await res.json();
+            markersLayer.clearLayers();
+            let maxShindo = -10.0, maxNames = []; 
+
+            json.data.forEach(pt => {
+                const color = getColor(pt.shindo);
+                const circle = L.circleMarker([pt.lat, pt.lng], { radius: 3, fillColor: color, color: "transparent", fillOpacity: 0.9 });
+                circle.bindTooltip(`${pt.name}: 計測震度 ${pt.shindo.toFixed(1)}`, { direction: 'top' });
+                markersLayer.addLayer(circle);
+
+                if (pt.shindo > -3.0) {
+                    if (pt.shindo > maxShindo) { maxShindo = pt.shindo; maxNames = [pt.name]; }
+                    else if (pt.shindo === maxShindo) { maxNames.push(pt.name); }
+                }
+            });
+
+            document.getElementById('time').innerText = new Date().toLocaleTimeString();
+            if (maxShindo > -3.0) {
+                document.getElementById('max-shindo').innerText = maxShindo.toFixed(1);
+                document.getElementById('max-shindo').style.color = getColor(maxShindo);
+                document.getElementById('max-name').innerHTML = maxNames.join('<br>');
+            }
+        } catch (error) {}
+    }
+    fetchAndDrawData();
+    setInterval(fetchAndDrawData, 4000);
+</script>
+{% endblock %}
